@@ -2,12 +2,12 @@ backend:
   name: 'git-gateway'
   branch: 'master'
 
-display_url: 'https://miloandfinn.netlify.com'
-logo_url: 'https://miloandfinn.netlify.com/assets/favicons/android-chrome-384x384.png'
+display_url: 'https://goinggreeninjakarta.netlify.com'
+logo_url: 'https://goinggreeninjakarta.com/assets/favicons/android-chrome-384x384.png'
 media_library:
   name: 'uploadcare'
   config:
-    publicKey: '9f0b2b6f1d82d63f1332'
+    publicKey: 'e719d83448866d43565c'
     imagesOnly: true
     tabs: 'file gphotos url'
 
