@@ -120,6 +120,7 @@ collections:
               - { label: 'Admin Email', name: 'webmaster', widget: 'string' }
               - { label: 'Theme Color', name: 'themeColor', widget: 'string', hint: 'Hex value of a color. For example, #ffffff'}
               - { label: 'Fallback Image', name: 'image', widget: 'image', hint: 'This image will be displayed when a post or page does not have a default cover image'}
+              - { label: 'Logo', name: 'logo', widget: 'image', hint: 'Your logo must be uploaded here'}
           - label: 'Locales'
             name: 'locales'
             widget: 'object'

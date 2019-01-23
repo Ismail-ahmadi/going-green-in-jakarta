@@ -5,9 +5,20 @@
 
 .container {
   position: relative;
-  margin: auto;
-  width: $container-width;
-  max-width: $container-max;
+  // max-width: $container-max;
+  background-color: $gray-100;
+  margin-left: 0;
+  width: 100%;
+
+  
+  @include from(lg) {
+    margin-left: 15rem;
+    width: 100%;
+    background-color: blue
+      
+  }
+  
+
 
   &--text {
     max-width: $container-text-max;
