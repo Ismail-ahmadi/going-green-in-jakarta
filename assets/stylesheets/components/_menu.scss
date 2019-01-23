@@ -1,6 +1,19 @@
 .menu {
+  
   &__link {
-    padding: $h;
+    display: block;
+    width: 15rem;
+    background: $gray-100;
+    padding: $h auto;
+    color: $gray-600;
+    text-align: center;
+    text-decoration: none;
+    &:hover{
+      color: $green;
+    }
+    &--active{
+      color:$green;
+    }
   }
 
   @at-root .mobile__panel #{&} {
