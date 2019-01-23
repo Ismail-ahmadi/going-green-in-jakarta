@@ -13,6 +13,7 @@
 
   
   @include from(lg) {
+    display: block;
     box: horizontal left;
   }
 
@@ -20,11 +21,10 @@
   .logo {
     color: $gray-400;
     padding: $h;
-
-    svg {
-      size: $s*2;
-    }
-  }
+    width: 250px;
+    height: 250px;
+  //   background: red;
+ }
 
   &--reverse {
     flex-direction: row-reverse;
