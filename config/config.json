@@ -1,13 +1,14 @@
 {
   "site": {
-    "name": "Going Green In Jakarta",
-    "url": "https://goinggreeninjakarta.netlify.com",
-    "lang": "en",
     "summary": "A new, fast growing  community in Jakarta",
-    "description": "A new, fast growing  community in Jakarta. Dedicated to greener living in The Big Durian",
+    "logo": "https://ucarecdn.com/8a68e14f-7f0e-43a3-931d-889916469d09/",
+    "name": "Going Green In Jakarta",
+    "lang": "en",
+    "url": "https://goinggreeninjakarta.netlify.com",
     "webmaster": "goinggreenjakarta@gmail.com",
     "themeColor": "#fb1",
-    "image": "https://ucarecdn.com/88fdd97f-631c-4fca-8296-6c1cfc075a29/"
+    "image": "https://ucarecdn.com/88fdd97f-631c-4fca-8296-6c1cfc075a29/",
+    "description": "A new, fast growing  community in Jakarta. Dedicated to greener living in The Big Durian"
   },
   "locales": {
     "en": {
