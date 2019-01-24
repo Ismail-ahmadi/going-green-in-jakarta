@@ -1,0 +1,17 @@
+.button {
+    background-color: $green;
+    cursor: pointer;
+    padding: 1rem;
+    width: 10rem;
+    margin: 0 auto;
+    outline: none;
+    border: none;
+    border-radius: .3rem;
+    color: $white;
+    text-align: center;
+    text-decoration: none;
+
+    &:hover{
+        filter: brightness(105%);
+    }
+}
