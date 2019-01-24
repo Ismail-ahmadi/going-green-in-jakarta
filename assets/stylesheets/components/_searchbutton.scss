@@ -1,0 +1,73 @@
+input {
+    border: 1px solid #ccc;
+    font-size: 12px;
+    height: 30px;
+    padding: 4px 8px;
+    position: absolute;
+    width: 50%;
+    background: red;
+    &:focus {
+      outline: none;
+    }
+  }
+  button {
+    text-align: center;
+    color: green;
+    &:focus {
+      outline: none;
+    }
+    &.btn-search{
+      background: yellow;
+      border: none;
+      height: 30px;
+      font-size: 12px;
+      padding: 4px;
+      position: absolute;
+      width: 30px;
+    }
+  }
+  
+  .sample {
+    background: blue;
+    height: 50px;
+    margin: 0;
+    position: relative;
+    width: 12rem;
+    &.nine {
+      input {
+        border-radius: 15px;
+        transition: all .6s ease-in-out .3s;
+        width: 120px;
+        &:focus {
+          transition-delay: 0;
+          width: 200px;
+          ~ button {
+            transform: rotateZ(360deg);
+            &.btn-search {
+              background: green;
+              color: #fff;
+              left: 172px;
+              transition-delay: 0;
+            }
+            &.btn-reset {
+              left: 202px;
+              transition-delay: .3s;
+            }
+          }
+        }
+      }
+      button {
+        transition: all .6s ease-in-out;
+        &.btn-search {
+          background: yellow;
+          border-radius: 50%;
+          height: 26px;
+          left: 92px;
+          top: 2px;
+          transition-delay: .3s;
+          width: 26px;
+        } 
+      }
+    }
+  }
+  

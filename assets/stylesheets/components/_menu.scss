@@ -2,12 +2,15 @@
   
   &__link {
     display: block;
-    width: 15rem;
-    background: $gray-100;
+    width: 100%;
+    // background: $gray-100;
     padding: $h auto;
     color: $gray-600;
     text-align: center;
     text-decoration: none;
+    @include to(lg) { 
+      font-size: .85rem;
+    }
     &:hover{
       color: $green;
     }

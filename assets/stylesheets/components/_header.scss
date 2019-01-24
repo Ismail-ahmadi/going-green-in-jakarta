@@ -1,14 +1,14 @@
 .header {
   display: none;
   padding: $s 0;
-  width: 15rem;
+  width: 22%;
   height: 100%;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   background-color: $white;
   border-right: 1px solid $gray-400;
-  z-index: 2;
+  z-index: 12;
   // max-width: 16rem;
 
   
@@ -20,11 +20,10 @@
 
   .logo {
     padding: $h;
-    width: 10rem;
+    width: 70%;
     height: auto;
-    margin: 0 auto 2rem auto;
- }
-
+    margin: 0 auto 0.7rem auto;
+  }
   &--reverse {
     flex-direction: row-reverse;
   }

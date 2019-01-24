@@ -2,7 +2,7 @@
     background-color: $green;
     cursor: pointer;
     padding: 0.5rem 0.5rem ;
-    width: 12rem;
+    width: 80%;
     margin: 2rem auto;
     outline: none;
     border: none;
@@ -10,7 +10,10 @@
     color: $white;
     text-align: center;
     text-decoration: none;
-
+    @include to(lg) { 
+        width: 85%;
+        font-size: .9rem;
+      }
     &:hover{
         filter: brightness(105%);
     }

@@ -1,12 +1,13 @@
 {% include 'includes/mobile.html' %}
-
+<div class="container">
 <header class="header">
+ {% comment %} {% include 'components/search-bar.html' %} {% endcomment %}
   <a href="{{ locale.url }}" class="logo"><img src="{{ config.site.logo }}" /></a>
   {% comment %} {% include 'components/locale.html' %} {% endcomment %}
-  {% comment %} {% include 'components/search-bar.html' %} {% endcomment %}
   <nav class="menu" role="navigation">
     {% include 'components/menu-items.html' %}
   </nav>
   <p class="slogan">{{ config.site.slogan }}</p>
+ 
   <a class="button caps" alt="JOIN US ON FACEBOOK" href="{{ config.social.facebook }}"> join us on facebook</a>
 </header>

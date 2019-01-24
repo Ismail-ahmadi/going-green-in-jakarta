@@ -1,26 +1,25 @@
-.wrapper {
-  position: relative;
-  margin-top: $s*4;
-}
-
 .container {
-  position: relative;
-  // max-width: $container-max;
-  background-color: $gray-100;
-  margin-left: 0;
+  // background-color: yellow;
+  margin-top: $h*6;
   width: 100%;
+  height: auto;
 
-  
+
   @include from(lg) {
-    margin-left: 15rem;
     width: 100%;
-    background-color: $gray-200;
-      
+    margin-top: -$h*3 ;
+    // background-color: green;  
   }
-  
-
-
-  &--text {
-    max-width: $container-text-max;
+}
+.wrapper {
+  margin-top: 0px;
+  height: auto;
+  width: 100%;
+  // background-color: blue;
+  @include from(lg) { 
+    width: 78%;
+    margin-top: 0px;
+    margin-left: 22%;
+    // background-color: green;  
   }
 }

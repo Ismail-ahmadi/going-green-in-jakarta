@@ -25,3 +25,15 @@ burger.addEventListener('click', () => {
 //   .post(config.site.url, qs.stringify({ 'form-name': config.form.name, ...formData }, { arrayFormat: 'brackets' }))
 //   .then(_ => console.log('success'))
 //   .catch(_ => console.log('failed'));
+// this is for the search part of the site
+// -
+function expand() {
+  $(".search").toggleClass("close");
+  $(".input").toggleClass("square");
+  if ($('.search').hasClass('close')) {
+    $('input').focus();
+  } else {
+    $('input').blur();
+  }
+}
+$('button').on('click', expand);

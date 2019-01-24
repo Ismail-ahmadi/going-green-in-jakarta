@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 slug: faq
 tags: nav
-navtitle: Questions
 summary: Some commonly asked questions about our business
 questions:
   - answer: >-
