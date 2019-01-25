@@ -25,15 +25,11 @@ burger.addEventListener('click', () => {
 //   .post(config.site.url, qs.stringify({ 'form-name': config.form.name, ...formData }, { arrayFormat: 'brackets' }))
 //   .then(_ => console.log('success'))
 //   .catch(_ => console.log('failed'));
-// this is for the search part of the site
-// -
-function expand() {
-  $(".search").toggleClass("close");
-  $(".input").toggleClass("square");
-  if ($('.search').hasClass('close')) {
-    $('input').focus();
-  } else {
-    $('input').blur();
-  }
-}
-$('button').on('click', expand);
+// this is for card section of home page
+const card = $('.ze-card');
+
+$(document).on('mousemove', e => {
+  let ax = -($(window).innerWidth() / 2 - e.pageX) / 70;
+  let ay = ($(window).innerHeight() / 2 - e.pageY) / 60;
+  card.attr('style', 'transform: rotateY('+ax+'deg) rotateX('+ay+'deg);-webkit-transform: rotateY('+ax+'deg) rotateX('+ay+'deg);-moz-transform: rotateY('+ax+'deg) rotateX('+ay+'deg)');
+});
