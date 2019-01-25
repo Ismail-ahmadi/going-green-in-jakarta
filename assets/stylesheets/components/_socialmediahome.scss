@@ -12,7 +12,12 @@
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         // grid-gap: 4px 4px; 
         grid-column-gap: .2rem;
-        grid-row-gap: .2rem;
+        grid-row-gap: 10px;
+        // background-color: blue;
+        max-height: 1080px;
+        max-width: 1000px;
+        overflow: hidden;
+   
     }
 }
 .square {
@@ -20,5 +25,17 @@
     height: 200px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1), 0 3px 5px rgba(0,0,0,0.05);
     background: $gray-500;
+    &--one {
+        background: $gray-400;
+    }
+    &--two {
+        background: $gray-500;
+    }
+    &--three {
+        background: $gray-600;
+    }
+    &--four {
+        background: $gray-800;
+    }
 
 }
