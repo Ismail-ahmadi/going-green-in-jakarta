@@ -12,22 +12,3 @@ cardimagefive: https://assets.strikingly.com/static/icons/delicate/44.png
 cardimagesix: https://assets.strikingly.com/static/icons/delicate/11.png
 
 ---
-
-# 1st Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home
-# Welcome Home

@@ -2,6 +2,7 @@
 {% include 'includes/variables.html' %}
 
 {% block content %}
+  <div class="container">
   <div class="banner" style="background-image: url('{{ banner }}')">  
     <div class="tilte">
       <h1 class="green right">{{ titlebanner }}</h1>
@@ -10,8 +11,8 @@
   </div>
   {% include 'components/middlehome.html' %}
   {% include 'components/cardhome.html' %}
+  {% include 'components/socialmediahome.html' %}
   </div>  
-  <div class="container">
     {{ content }}
   </div>
 {% endblock %}
