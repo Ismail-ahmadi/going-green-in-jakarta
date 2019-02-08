@@ -2,16 +2,23 @@
 {% include 'includes/variables.html' %}
 
 {% block content %}
-  <div class="container banner">
-    {% Image image title %}
+  <div class="container">
+    <div class="banner" style="background-image: url('{{ banner }}')">  
+    <div class="tilte">
+      <h1 class="green right">{{ titlebanner }}</h1>
+      <p class="white right">{{ titleunder }}</p>
+    </div>
   </div>
-  <div class="container container--text">
-    <span class="italic faint">{{ date | formatDate }}</span>
-    <h1>{{ title }}</h1>
-    {% include 'components/social-share.html' %}
+  </div>
+  <div class="content">
+    <div class="container container--text">
+      <span class="italic faint">{{ date | formatDate }}</span>
+      <h1>{{ title }}</h1>
+      {% include 'components/social-share.html' %}
 
-    {{ content }}
+        {{ content }}
 
+    </div>
     {% if gallery %}
       {% include 'components/gallery.html' %}
     {% endif %}

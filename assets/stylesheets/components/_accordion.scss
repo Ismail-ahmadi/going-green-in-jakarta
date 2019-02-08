@@ -2,7 +2,10 @@
   &__item {
     position: relative;
     border-bottom: 1px solid $gray-300;
-
+    // background-color: red;
+    width: 90%;
+    margin: 0 auto;
+    
     svg {
       position: absolute;
       top: $h;

@@ -9,19 +9,20 @@
       <p class="white right">{{ titleunder }}</p>
     </div>
   </div>
-  
-    <h1>{{ title }}</h1>    
-    {{ content }}
-    
+    <div class="content">
+    <h1>{{ title }}</h1> 
+      {{ content }}  
+    </div>
     {% case page.fileSlug %}
       {% when 'faq' %}
         {% include 'components/accordion.html' %}
       {% when 'events' %}
         {% include 'components/grid.html' %}
     {% endcase %}
-  {% include 'components/socialmediahome.html' %}
   {% if gallery %}
       {% include 'components/gallery.html' %}
     {% endif %}
+  {% include 'components/socialmediahome.html' %}
+  
   </div>
 {% endblock %}

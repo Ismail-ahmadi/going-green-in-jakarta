@@ -5,10 +5,11 @@
 
   &__item {
     position: relative;
+    background-color: green;
     box: vertical space-between;
     text-decoration: none;
     padding: $s*2;
-    border-radius: 15px;
+    border-radius: 0px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -38,8 +39,9 @@
     }
 
     &:hover {
-      transform: translateY(-2px);
-      box-shadow: 2px 6px 20px 0 rgba(0, 0, 0, .3);
+      transform: scale(2);
+      filter: grayscale(100%);
+      overflow: hidden;
     }
   }
 

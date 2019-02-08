@@ -55,6 +55,9 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'faq' }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
+          - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
           - label: 'Questions'
             name: 'questions'
             widget: 'list'
@@ -75,6 +78,9 @@ collections:
       - {label: 'Date', name: 'date', widget: 'date'}
       - {label: 'Location', name: 'location', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
+      - { label: 'Banner', name: 'banner', widget: 'image' }
+      - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
+      - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
       - {label: 'Image', name: 'image', widget: 'image', required: false}
       - label: 'Gallery'
         name: 'gallery'
