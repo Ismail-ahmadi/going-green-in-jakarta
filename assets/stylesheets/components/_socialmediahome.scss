@@ -3,21 +3,37 @@
     height: auto;
     // background: red;
     &__title{
+        // background-color: blue;
         text-align: center;
     }
     &__post {
+        // background-color: yellow;
         width: 80%;
         margin: 0 auto;
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        @include from(ms) {
+        // background-color: orange;
+        width: 85%;
+        grid-template-columns: repeat(2, minmax(60px, 1fr));
+        grid-gap: 10px 10px;
+        }
+        @include from(sm) {
+        // background-color: greenyellow;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        grid-gap: 20px 10px;
+        }
+        @include from(lg) {
+        // background-color: green;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
         // grid-gap: 4px 4px; 
         grid-column-gap: .2rem;
         grid-row-gap: 10px;
         // background-color: blue;
-        max-height: 1080px;
+        max-height: 1050px;
         max-width: 1000px;
         overflow: hidden;
-   
     }
 }
 .square {
@@ -37,5 +53,4 @@
     &--four {
         background: $gray-800;
     }
-
 }

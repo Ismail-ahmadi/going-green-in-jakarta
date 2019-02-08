@@ -46,6 +46,16 @@
     position: relative;
     right: 0;
     top: 300px;
+    @include to(ms) {
+        // background-color: orange;
+        top:250px;
+        h1{
+            font-size: 1.8rem;
+        }
+        p{
+            font-size: 1rem;
+        }
+        }
     
     p {
         padding: 0 0 0 0;

@@ -2,25 +2,39 @@
     display: grid;
     // grid-gap: 20px;
     width: 97%;
-
+    // background-color: blue;
     grid-template-columns: repeat(auto-fit, minmax($s*18, 1fr));
-          
-    // background:$gray-800;
+      @include from(ms) {
+      // background-color: orange;
+      grid-template-columns: repeat(auto-fit, minmax(1fr, 1fr));
+      }
+      @include from(sm) {
+      // background-color: yellow;
+      grid-template-columns: repeat(auto-fit, minmax(1fr, 1fr));
+      }
+    
   }
   .ze-card-invi-wrap {
+    // background-color: brown;
+    justify-content: center;
     display: grid;
     cursor: pointer;
-    // background: blue;
-    // max-width: 320px + 60px + 55px;
-    width: 85%;
+    width: 80%;
     margin: 10px 0;
     overflow: hidden;
     padding: 45px;
     padding-bottom: 100px;
-    
     position: relative;
     perspective: 1000px;
     transform-style: preserve-3d;
+    @include from(ms) {
+      // background-color: orange;
+      width: 70%;
+    }
+      @include from(sm) {
+      // background-color: yellow;
+      width: 80%;
+      }
     &:hover {
       .ze-img-w {
         transform: translateZ(20px);
@@ -34,8 +48,8 @@
     }
   }
   .ze-card {
-    //   background: yellow;
-    max-width: 300px;
+      // background: yellow;
+    max-width: 280px;
     padding: 20px;
     padding-bottom: 255px;
     background: $white;
@@ -47,6 +61,7 @@
     perspective: 1000px;
     z-index: 5;
     .ze-img-w {
+      // background-color: green;
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
       position: absolute;
       bottom: -60px;
@@ -55,10 +70,11 @@
       height: 300px;
       border-radius: 9px;
       overflow: hidden;
-      background-size: cover;
+      background-size: 100% 100%;
       background-repeat: no-repeat;
-      background-position: center;overflow: hidden;
-      
+      background-position: center;
+      overflow: hidden;
+
       transform-style: preserve-3d;
       transform: translateZ(15px);
       transition: all 0.5s;
@@ -76,6 +92,7 @@
       }
     }
     .ze-title {  
+      // background-color: aqua;
       font-size: 1.5rem;
     font-family: 'Times New Roman', Times, serif;
       font-style: italic;
@@ -120,8 +137,18 @@
     background-color: $gray-100;
     text-align: center;
     position: relative;
-    padding: 0;
+    padding: 0 ;
+    // background-color: red;
     margin: 0 0 5rem 0;
+    &__title{
+      width: 90%;
+      height: auto;
+      margin: 0 auto;
+      // background-color: red;
+    }
+    h1{
+      padding: 0 10px;
+    }
     &::after {
         content: '';
         width: 100%;
@@ -148,21 +175,4 @@
             transform: skewY(-4deg);
             z-index: -1; 
         }
-//     &__title {
-       
-//         width: 80%;
-//         height: auto;
-//         margin: 0 auto;
-//     }
-//     &__item{
-//         width: 100%;
-//         height: auto;
-        
-//         display: grid;
-//         grid-gap: 20px;
-//         grid-template-columns: repeat(auto-fit, minmax($s*16, 1fr));
-//         img {
-// width: 200px;
-//         }
-    // }
 }
