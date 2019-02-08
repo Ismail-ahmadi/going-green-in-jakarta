@@ -27,8 +27,8 @@ collections:
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          - {label: 'Gallery', name: 'gallery', widget: 'image', required: false, media_library: config: multiple: true,
-            previewStep: false, }
+          - {label: 'Gallery', name: 'gallery', widget: 'image', required: false, media_library: -{ config: -{ multiple: true,
+            previewStep: false, }}}
 
       - label: 'Tentang Kami'
         name: 'tentang'
