@@ -25,6 +25,9 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
+          - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
           - { label: 'Summary', name: 'summary', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - label: 'Gallery'
@@ -35,7 +38,6 @@ collections:
               config:
                 multiple: true
                 previewStep: false
-
       - label: 'Tentang Kami'
         name: 'tentang'
         file: 'pages/id/tentang.md'
