@@ -1,4 +1,4 @@
-.ze-card-full-wrap {
+.full-wrap {
     display: grid;
     // grid-gap: 20px;
     width: 97%;
@@ -14,7 +14,7 @@
       }
     
   }
-  .ze-card-invi-wrap {
+  .invi-wrap {
     // background-color: brown;
     justify-content: center;
     display: grid;
@@ -58,7 +58,7 @@
     position: relative;
     
     transform-style: preserve-3d;
-    perspective: 1000px;
+    perspective: 500px;
     z-index: 5;
     .ze-img-w {
       // background-color: green;
