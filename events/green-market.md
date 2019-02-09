@@ -2,15 +2,13 @@
 title: Jakarta Green Market
 date: 2018-12-25T10:36:44.938Z
 location: Jakarta
+number: 1
 banner: http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
 titlebanner: A new, fast growing <br >community in Jakarta
 titleunder: Dedicated to greener living in The Big Durian
 image: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-gallery:
-  - 'https://ucarecdn.com/a96a8bee-b9a0-429f-bbbb-efb4b768475d~3/nth/0/'
-  - 'https://ucarecdn.com/a96a8bee-b9a0-429f-bbbb-efb4b768475d~3/nth/1/'
-  - 'https://ucarecdn.com/a96a8bee-b9a0-429f-bbbb-efb4b768475d~3/nth/2/'
-
+lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
+lightboxtext: The display property specifies the display behavior (the type of rendering box) of an element. In HTML, the default display property value is taken from the HTML specifications or from the browser/user default style sheet. The default value in XML is inline, including SVG elements.
 ---
 
 Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?

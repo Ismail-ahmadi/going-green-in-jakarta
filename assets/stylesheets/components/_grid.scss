@@ -2,11 +2,11 @@
   display: grid;
   grid-gap: $s*1.5;
   grid-template-columns: repeat(auto-fit, minmax($s*16, 1fr));
-
+  
   &__item {
     position: relative;
     background-color: green;
-    box: vertical space-between;
+    box: vertical space-between middle;
     text-decoration: none;
     padding: $s*2;
     border-radius: 0px;
@@ -15,6 +15,10 @@
     background-position: center center;
     transition: all $fast ease-in-out;
     overflow: hidden;
+    max-width: 100%;
+    @include from(lg){
+    max-width: $s*18;
+    }
 
     >div:nth-child(2) {
       box: horizontal space-between;
@@ -40,9 +44,12 @@
     }
 
     &:hover {
-      transform: scale(1.01);
+      // transform: scale(0.99);
       filter: grayscale(100%);
       overflow: hidden;
+      z-index: 2;
+      // max-width: 100%;
+      transition: all $fast ease-in-out;
     }
   }
 

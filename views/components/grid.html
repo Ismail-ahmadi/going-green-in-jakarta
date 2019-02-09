@@ -2,7 +2,7 @@
   {% for event in collections.event %} 
     {% assign eventLangID = event.inputPath | getLang %}
     {% if eventLangID == langID %}
-      <a class="grid__item" href="{{ event.url }}" style="background-image: url({{ event.data.image | getImageUrl: 400 }})">
+      <a class="grid__item" href="#{{ event.data.number }}" style="background-image: url({{ event.data.image | getImageUrl: 400 }})">
         <div class="grid__overlay"></div>
         <div>
           <time>
@@ -16,6 +16,12 @@
         </div>
         <h4 class="h2 white">{{ event.data.title }}</h4>
       </a>
+      <div class="lightboxevent" id="{{ event.data.number }}">
+        <div class="lightboxeventimg" style="background-image: url(' {{event.data.lightbox}} ')"></div>
+          <div class="lightboxeventtext"> {{ event.data.lightboxtext }} </div>
+          <a href="#" class="closeevent">Close</a>
+          
+      </div>
     {% endif %}
   {% endfor %}
 </div>

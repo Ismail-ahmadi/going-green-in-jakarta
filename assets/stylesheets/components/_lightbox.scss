@@ -1,0 +1,159 @@
+// // .top {
+// //     width: 100%;
+// //     min-height: 300px;
+// //     padding: 20px 0;
+// //     text-align: center;
+// //     background:red;
+// //   }
+  
+// //   .galleryItem {
+// //     width: 250px;
+// //     height: 250px;
+// //     margin: 10px;
+// //     border: solid 0px #fff;
+// //     padding: 0;
+// //     display: inline-block;
+// //     -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+// //     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);}
+  
+// //   .galleryItem img {
+// //     width: 250px;
+// //     height: 250px;
+// //     background-position: top center;
+// //     background-size: cover;
+// //     overflow:hidden;
+// //   }
+  
+// //   .caption {
+// //     position: relative;
+// //     display: inline-block;
+// //     width: 250px;
+// //     height: 250px;
+// //     z-index: 2;}
+  
+// //   .caption::before {
+// //     content: attr(data-title);
+// //     width: 250px;
+// //     height: 0; 
+// //     position: absolute;
+// //     top: 0;
+// //     left: 0;
+// //     color: #000;
+// //     background-color: rgba(255,255,255,0.3);
+// //     font: bold 1.2em 'helvetica neue', helvetica, arial, sans-serif;
+// //     overflow: hidden;
+// //     opacity: 0;
+// //     -webkit-transition: all 0.3s ease;
+// //     -moz-transition: all 0.3s ease;
+// //     -ms-transition: all 0.3s ease;
+// //     -o-transition: all 0.3s ease;
+// //     transition: all 0.3s ease; }
+  
+// //   .caption::after {
+// //     content: attr(data-description);
+// //     width: 250px;
+// //     height: 0;
+// //     position: absolute;
+// //     bottom: -0;
+// //     left: 0;
+// //     color: #fff;
+// //     background-color: rgba(34,34,34,0.5);
+// //     font-family: 'helvetica neue', helvetica, arial, sans-serif;
+// //     overflow: hidden;
+// //     opacity: 0;
+// //     -webkit-transition: all 0.3s ease;
+// //     -moz-transition: all 0.3s ease;
+// //     -ms-transition: all 0.3s ease;
+// //     -o-transition: all 0.3s ease;
+// //     transition: all 0.3s ease; }
+  
+// //   .caption:hover::before {
+// //     opacity: 1;
+// //     height: 25px; }
+  
+// //   .caption:hover::after {
+// //     opacity: 1;
+// //     bottom: 0;
+// //     height: 65px; }
+  
+//   /* lightbox */
+  
+  .lightboxevent {
+    display: none;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    margin-left: 0%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.85);
+    @include from(lg){
+      width: 78%;
+      margin-left: 22%;
+    }
+  }
+  
+  .lightboxevent a { 
+    color: #fff;
+    text-decoration: none; 
+  }
+  
+  .lightboxeventimg {
+    height: 350px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    overflow: hidden;
+    
+  }
+  .lightboxeventtext {
+    height: auto;
+    min-height: 300px;
+    width: 80%;
+    margin: 0 10%;
+    // background: red;
+    // margin-left:22%;
+    color: white;
+    // border-bottom: 1px solid white;
+    // padding: 0 10px;
+  }
+  
+  .lightboxevent:target {
+    display: block;
+  }
+  
+  .lightboxevent .imageevent {
+  /*   display: table-cell; */
+  /*   vertical-align: middle;  */
+  }
+  
+  .lightboxevent .imageevent img {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25); }
+  
+  .nextevent, .prevevent, .closeevent { display: block; position: fixed; }
+  
+  .closeevent { 
+    width: 50px; height: auto; padding:10px; overflow: hidden; top: 0; right: 0; z-index: 5; cursor: default; background: $gray-500; margin: 65px 10px 0 0; 
+    &:hover{
+      background: $green;
+    }
+    @include from (lg){
+      // background: yellow;
+      margin: 10px 10px 0 0;
+
+    } 
+  }
+  
+  .nextevent, .prevevent { width: 100px; height: 25px; top: 50%; z-index: 10; opacity: 0.7; font-size: 2em; line-height: 25px; text-shadow: 0px 0px 15px rgba(0, 0, 0, 1); }
+  
+  .prevevent { left: 10px; text-align: left; }
+  
+  .prevevent::after { content: '\2039'; }
+      
+  .nextevent { right: 10px; text-align: right; }
+  
+  .nextevent::before { content: '\203A'; }

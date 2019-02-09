@@ -12,13 +12,12 @@
     {% case page.fileSlug %}
       {% when 'faq' %}
         {% include 'components/accordion.html' %}
+        {% include 'components/socialmediahome.html' %}
       {% when 'events' %}
         {% include 'components/grid.html' %}
     {% endcase %}
   {% if gallery %}
       {% include 'components/gallery.html' %}
     {% endif %}
-  {% include 'components/socialmediahome.html' %}
-  
   </div>
 {% endblock %}
