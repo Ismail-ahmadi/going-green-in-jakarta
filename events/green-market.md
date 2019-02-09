@@ -13,8 +13,6 @@ gallery:
 
 ---
 
-### Jakarta Green Market!
-
 Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
 
 The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.

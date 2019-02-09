@@ -20,6 +20,7 @@
       box: horizontal space-between;
       margin-bottom: $s*7;
       z-index: 1;
+      overflow: hidden;
     }
 
     time,
@@ -39,7 +40,7 @@
     }
 
     &:hover {
-      transform: scale(2);
+      transform: scale(1.01);
       filter: grayscale(100%);
       overflow: hidden;
     }
