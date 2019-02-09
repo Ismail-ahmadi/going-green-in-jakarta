@@ -3,12 +3,15 @@
 
 {% block content %}
   <div class="container">
-    {% layout 'components/banner.html' %}
+    {% include 'components/banner.html' %}
   </div>
   {% include 'components/middlehome.html' %}
   {% include 'components/cardhome.html' %}
   {% include 'components/socialmediahome.html' %}
   </div>  
+  
     {{ content }}
+  
   </div>
+
 {% endblock %}
