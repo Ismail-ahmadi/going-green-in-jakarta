@@ -1,0 +1,21 @@
+{% layout 'includes/layout.html' %}
+{% include 'includes/variables.html' %}
+
+{% block content %}
+  <div class="container">
+  {% include 'components/banner.html' %}
+  </div>
+    <div class="content">
+    <div class="container container--text">
+      <span class="italic faint">{{ date | formatDate }}</span>
+      <h1>{{ title }}</h1>
+      {% comment %} {% include 'components/social-share.html' %} {% endcomment %}
+
+        {{ content }}
+
+    </div>
+    {% if gallery %}
+      {% include 'components/gallery.html' %}
+    {% endif %}
+  </div>
+{% endblock %}
