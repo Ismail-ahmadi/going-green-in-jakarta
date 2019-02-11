@@ -91,6 +91,32 @@ collections:
             multiple: true
             previewStep: false
 
+  - name: 'eatgreen'
+    label: 'eat green catergories'
+    description: 'Add or modify eat green here'
+    editor:
+      preview: false
+    folder: 'eatgreen'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Date', name: 'date', widget: 'date'}
+      - {label: 'Location', name: 'location', widget: 'string'}
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - { label: 'Banner', name: 'banner', widget: 'image' }
+      - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
+      - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
+      - {label: 'Image', name: 'image', widget: 'image', required: false}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
+
   - name: 'events-id'
     label: 'Events in Indonesian'
     description: 'Add or modify Indonesian events here'
