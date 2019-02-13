@@ -1,7 +1,7 @@
 <div class="grid">
   {% for event in collections.event %} 
-    {% assign eventLangID = event.inputPath | getLang %}
-    {% if eventLangID == langID %}
+    {% comment %} {% assign eventLangID = event.inputPath | getLang %}
+    {% if eventLangID == langID %} {% endcomment %}
       <a class="grid__item" href="#{{ event.data.number }}" style="background-image: url({{ event.data.image | getImageUrl: 400 }})">
         <div class="grid__overlay"></div>
         <div>
@@ -22,6 +22,6 @@
           <a href="#" class="closeevent">Close</a>
           
       </div>
-    {% endif %}
+    {% comment %} {% endif %} {% endcomment %}
   {% endfor %}
 </div>

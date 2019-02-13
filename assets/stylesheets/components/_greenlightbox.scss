@@ -1,0 +1,79 @@
+.lightboxevent {
+    display: none;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    margin-left: 0%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.85);
+    @include from(lg){
+      width: 78%;
+      margin-left: 22%;
+    }
+  }
+  
+  .lightboxevent a { 
+    color: #fff;
+    text-decoration: none; 
+  }
+  
+  .lightboxeventimg {
+    height: 350px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    overflow: hidden;
+    
+  }
+  .lightboxeventtext {
+    height: auto;
+    min-height: 300px;
+    width: 80%;
+    margin: 0 10%;
+    // background: red;
+    // margin-left:22%;
+    color: white;
+    // border-bottom: 1px solid white;
+    // padding: 0 10px;
+  }
+  
+  .lightboxevent:target {
+    display: block;
+  }
+  
+  .lightboxevent .imageevent {
+  /*   display: table-cell; */
+  /*   vertical-align: middle;  */
+  }
+  
+  .lightboxevent .imageevent img {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25); }
+  
+  .nextevent, .prevevent, .closeevent { display: block; position: fixed; }
+  
+  .closeevent { 
+    width: 50px; height: auto; padding:10px; overflow: hidden; top: 0; right: 0; z-index: 5; cursor: default; background: $gray-500; margin: 65px 10px 0 0; 
+    &:hover{
+      background: $green;
+    }
+    @include from (lg){
+      // background: yellow;
+      margin: 10px 10px 0 0;
+
+    } 
+  }
+  
+  .nextevent, .prevevent { width: 100px; height: 25px; top: 50%; z-index: 10; opacity: 0.7; font-size: 2em; line-height: 25px; text-shadow: 0px 0px 15px rgba(0, 0, 0, 1); }
+  
+  .prevevent { left: 10px; text-align: left; }
+  
+  .prevevent::after { content: '\2039'; }
+      
+  .nextevent { right: 10px; text-align: right; }
+  
+  .nextevent::before { content: '\203A'; }

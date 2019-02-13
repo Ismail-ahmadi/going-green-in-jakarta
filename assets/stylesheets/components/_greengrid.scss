@@ -1,0 +1,66 @@
+.greengrid {
+  display: grid;
+  grid-gap: $s*.8;
+  grid-template-columns: repeat(auto-fit, minmax($s*10, 1fr));
+  
+  &__item {
+    position: relative;
+    background-color: green;
+    box: vertical space-between middle;
+    text-decoration: none;
+    padding: $s*2;
+    border-radius: 0px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+    transition: all $fast ease-in-out;
+    // overflow: hidden;
+    max-width: $s*10;
+    height: $s*10;
+    @include from(lg){
+    max-width: $s*12;
+    }
+
+    // >div:nth-child(2) {
+    //   box: horizontal space-between;
+    //   margin-bottom: $s*7;
+    //   z-index: 1;
+    //   overflow: hidden;
+    // }
+
+    time,
+    span {
+      box: horizontal middle;
+      color: $white;
+    }
+
+    svg {
+      size: $s;
+      margin-right: $q;
+    }
+
+    h4 {
+      margin: 0;
+      z-index: 1;
+    }
+
+    &:hover {
+      // transform: scale(0.99);
+      filter: grayscale(100%);
+      overflow: hidden;
+      z-index: 2;
+      // max-width: 100%;
+      transition: all $fast ease-in-out;
+    }
+  }
+
+  &__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .25);
+    margin: 0;
+  }
+}
