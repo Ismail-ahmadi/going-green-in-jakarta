@@ -101,13 +101,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Date', name: 'date', widget: 'date'}
-      - {label: 'Location', name: 'location', widget: 'string'}
+      - {label: 'Image', name: 'image', widget: 'image', }
+      - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
+      - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
       - {label: 'Body', name: 'body', widget: 'markdown'}
-      - { label: 'Banner', name: 'banner', widget: 'image' }
-      - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
-      - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
-      - {label: 'Image', name: 'image', widget: 'image', required: false}
       - label: 'Gallery'
         name: 'gallery'
         widget: 'image'

@@ -2,23 +2,28 @@
   {% for eatgreen in collections.eatgreen %} 
     {% comment %} {% assign eventLangID = event.inputPath | getLang %}
     {% if eventLangID == langID %} {% endcomment %}
-      <a class="grid__item" href="#{{ eatgreen.data.number }}" style="background-image: url({{ eatgreen.data.image | getImageUrl: 400 }})">
-        <div class="grid__overlay"></div>
-        {% comment %} <div>
-          <time>
-            {% Icon 'clock' %} 
-            <span class="h6 caps spaced">{{ eatgreen.data.date | formatDate }}</span>
-          </time>
-          <span>
-            {% Icon 'pin' %} 
-            <span class="h6 caps spaced">{{ eatgreen.data.location }}</span>
-          </span> 
-        </div> {% endcomment %}
-        <h4 class="h2 white">{{ eatgreen.data.title }}</h4>
-      </a>
+      <div class="greengrid__box">
+        <a href="#{{ eatgreen.data.number }}" >
+        <div class="greengrid__box__item"  style="background-image: url({{ eatgreen.data.image | getImageUrl: 400 }})">
+          {% comment %} <div class="greengrid__overlay"></div> {% endcomment %}
+          {% comment %} <div>
+            <time>
+              {% Icon 'clock' %} 
+              <span class="h6 caps spaced">{{ eatgreen.data.date | formatDate }}</span>
+            </time>
+            <span>
+              {% Icon 'pin' %} 
+              <span class="h6 caps spaced">{{ eatgreen.data.location }}</span>
+            </span> 
+          </div> {% endcomment %}
+          
+        </div>
+        <p class="greengrid__box__title">{{ eatgreen.data.title }}</p>
+        </a>
+      </div>
       <div class="lightboxevent" id="{{ eatgreen.data.number }}">
         <div class="lightboxeventimg" style="background-image: url(' {{event.data.lightbox}} ')"></div>
-          <div class="lightboxeventtext"> {{ eatgreen.data.lightboxtext }} </div>
+          <div class="lightboxeventtext"> {{ eatgreen.data.content }} </div>
           <a href="#" class="closeevent">Close</a>
           
       </div>
