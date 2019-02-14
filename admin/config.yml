@@ -28,7 +28,8 @@ collections:
           - { label: 'Banner', name: 'banner', widget: 'image' }
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
-          - { label: 'Secondimage', name: 'secondimage', widget: 'image' }    - { label: 'Headtitle', name: 'headtitle', widget: 'string' }
+          - { label: 'Secondimage', name: 'secondimage', widget: 'image' }
+          - { label: 'Headtitle', name: 'headtitle', widget: 'string' }
           - { label: 'Cardimageone', name: 'cardimageone', widget: 'image' }
           - { label: 'Cardimagetwo', name: 'cardimagetwo', widget: 'image' }
           - { label: 'Cardimagethree', name: 'cardimagethree', widget: 'image' }
