@@ -3,7 +3,7 @@ backend:
   branch: 'master'
 
 display_url: 'https://goinggreeninjakarta.netlify.com'
-logo_url: 'https://goinggreeninjakarta.com/assets/favicons/android-chrome-384x384.png'
+logo_url: 'https://goinggreeninjakarta.com/assets/favicons/android-chrome-384x384.pngad'
 media_library:
   name: 'uploadcare'
   config:
