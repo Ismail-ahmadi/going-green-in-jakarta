@@ -190,7 +190,7 @@ collections:
             previewStep: false
 
   - name: 'eatgreen'
-    label: 'eat green catergories'
+    label: 'eat green'
     description: 'Add or modify eat green here'
     editor:
       preview: false
@@ -214,7 +214,7 @@ collections:
             previewStep: false
   
   - name: 'shopgreen'
-    label: 'shop green catergories'
+    label: 'shop green'
     description: 'Add or modify shop green here'
     editor:
       preview: false
@@ -238,7 +238,7 @@ collections:
             previewStep: false
 
   - name: 'greenleisure'
-    label: 'green leisure catergories'
+    label: 'green leisure'
     description: 'Add or modify green leisure here'
     editor:
       preview: false
