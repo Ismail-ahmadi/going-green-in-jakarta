@@ -1,10 +1,10 @@
 <div class="greengrid">
-  {% for eatgreen in collections.eatgreen %} 
+  {% for shopgreen in collections.shopgreen %} 
     {% comment %} {% assign eventLangID = event.inputPath | getLang %}
     {% if eventLangID == langID %} {% endcomment %}
       <div class="greengrid__box">
-        <a href="#{{ eatgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ eatgreen.data.image | getImageUrl: 400 }})">
+        <a href="#{{ shopgreen.data.number }}" >
+        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
           {% comment %} <div class="greengrid__overlay"></div> {% endcomment %}
           {% comment %} <div>
             <time>
@@ -18,12 +18,12 @@
           </div> {% endcomment %}
           
         </div>
-        <p class="greengrid__box__title">{{ eatgreen.data.title }}</p>
+        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
         </a>
       </div>
-      <div class="lightboxevent" id="{{ eatgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ eatgreen.data.lightbox }}')"></div>
-          <div class="lightboxeventtext"> {{ eatgreen.data.content }} </div>
+      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.lightbox }}')"></div>
+          <div class="lightboxeventtext"> {{ shopgreen.data.content }} </div>
           <a href="#" class="closeevent">Close</a>
           
       </div>

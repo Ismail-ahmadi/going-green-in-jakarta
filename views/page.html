@@ -17,6 +17,10 @@
         {% include 'components/grid.html' %}
       {% when 'eatgreen' %}
         {% include 'components/greengrid.html' %}
+      {% when 'shopgreen' %}
+        {% include 'components/shopgreengrid.html' %}
+      {% when 'greenleisure' %}
+        {% include 'components/greenleisuregrid.html' %}
     {% endcase %}
   {% if gallery %}
       {% include 'components/gallery.html' %}

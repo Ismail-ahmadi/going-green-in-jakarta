@@ -1,11 +1,12 @@
 ---
-title: Company seven
-number: 7
-banner: http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-image: 'https://ucarecdn.com/020aa8a1-68d1-4be4-8c4e-a0cc1bfbe2d0/'
+title: Hotel three
+number: 3
+banner: >-
+  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
 lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
+image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
 ---
-### COMPANY SEVEN
+
 Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
 
 The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.

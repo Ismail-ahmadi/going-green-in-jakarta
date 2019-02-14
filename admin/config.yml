@@ -18,17 +18,23 @@ collections:
     editor:
       preview: false
     files:
-      - label: 'About Us'
-        name: 'about'
-        file: 'pages/about.md'
+      - label: 'Home Page'
+        name: 'home'
+        file: 'pages/home.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Banner', name: 'banner', widget: 'image' }
-          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
-          - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
-          - { label: 'Summary', name: 'summary', widget: 'text' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Secondimage', name: 'secondimage', widget: 'image' }    - { label: 'Headtitle', name: 'headtitle', widget: 'string' }
+          - { label: 'Cardimageone', name: 'cardimageone', widget: 'image' }
+          - { label: 'Cardimagetwo', name: 'cardimagetwo', widget: 'image' }
+          - { label: 'Cardimagethree', name: 'cardimagethree', widget: 'image' }
+          - { label: 'Cardimagefour', name: 'cardimagefour', widget: 'image' }
+          - { label: 'Cardimagefive', name: 'cardimagefive', widget: 'image' }
+          - { label: 'Cardimagesix', name: 'cardimagesix', widget: 'image' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - label: 'Gallery'
             name: 'gallery'
@@ -38,16 +44,110 @@ collections:
               config:
                 multiple: true
                 previewStep: false
-      - label: 'Tentang Kami'
-        name: 'tentang'
-        file: 'pages/id/tentang.md'
+      
+      - label: 'About Us'
+        name: 'about'
+        file: 'pages/about.md'
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'tentang-kami' }
-          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'navId' }
-          - { label: 'Lang', name: 'lang', widget: 'hidden', default: 'id' }
-          - { label: 'Summary', name: 'summary', widget: 'text' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
+      - label: 'Eat green'
+        name: 'eatgreen'
+        file: 'pages/eatgreen.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'eatgreen' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Navtitle', name: 'navtitle', widget: 'string' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
+      - label: 'Shop green'
+        name: 'shopgreen'
+        file: 'pages/shopgreen.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'eatgreen' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Navtitle', name: 'navtitle', widget: 'string' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
+      - label: 'Green leisure'
+        name: 'greebleisure'
+        file: 'pages/greenleisure.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'greenleisure' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Navtitle', name: 'navtitle', widget: 'string' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+      
+      - label: 'Event'
+        name: 'event'
+        file: 'pages/events.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
       - label: 'FAQ'
         name: 'faq'
         file: 'pages/faq.md'
@@ -56,8 +156,8 @@ collections:
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'faq' }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Banner', name: 'banner', widget: 'image' }
-          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
-          - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'white slogan', widget: 'string', hint: 'use <br/> to make a new line' }
           - label: 'Questions'
             name: 'questions'
             widget: 'list'
@@ -66,8 +166,8 @@ collections:
               - { label: 'Answer', name: 'answer', widget: 'text' }
 
   - name: 'events'
-    label: 'Events in English'
-    description: 'Add or modify English events here'
+    label: 'Events'
+    description: 'Add or modify events here'
     editor:
       preview: false
     folder: 'events'
@@ -78,10 +178,7 @@ collections:
       - {label: 'Date', name: 'date', widget: 'date'}
       - {label: 'Location', name: 'location', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
-      - { label: 'Banner', name: 'banner', widget: 'image' }
-      - { label: 'Titlebanner', name: 'titlebanner', widget: 'string' }
-      - { label: 'Titleunder', name: 'titleunder', widget: 'string' }
-      - {label: 'Image', name: 'image', widget: 'image', required: false}
+      - {label: 'Image', name: 'image', widget: 'image', }
       - label: 'Gallery'
         name: 'gallery'
         widget: 'image'
@@ -104,6 +201,31 @@ collections:
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
+      - { label: 'Banner', name: 'banner', widget: 'image' }
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
+  
+  - name: 'shopgreen'
+    label: 'shop green catergories'
+    description: 'Add or modify shop green here'
+    editor:
+      preview: false
+    folder: 'shopgreen'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Image', name: 'image', widget: 'image', }
+      - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
+      - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
+      - { label: 'Banner', name: 'banner', widget: 'image' }
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - label: 'Gallery'
         name: 'gallery'
@@ -114,20 +236,21 @@ collections:
             multiple: true
             previewStep: false
 
-  - name: 'events-id'
-    label: 'Events in Indonesian'
-    description: 'Add or modify Indonesian events here'
+  - name: 'greenleisure'
+    label: 'green leisure catergories'
+    description: 'Add or modify green leisure here'
     editor:
       preview: false
-    folder: 'events/id'
+    folder: 'greenleisure'
     create: true
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Date', name: 'date', widget: 'date'}
-      - {label: 'Location', name: 'location', widget: 'string'}
+      - {label: 'Image', name: 'image', widget: 'image', }
+      - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
+      - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
+      - { label: 'Banner', name: 'banner', widget: 'image' }
       - {label: 'Body', name: 'body', widget: 'markdown'}
-      - {label: 'Image', name: 'image', widget: 'image', required: false}
       - label: 'Gallery'
         name: 'gallery'
         widget: 'image'
