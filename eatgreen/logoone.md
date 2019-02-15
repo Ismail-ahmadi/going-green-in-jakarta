@@ -1,10 +1,10 @@
 ---
-title: Company ONE
+title: Green Initiative production
+image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
 number: 1
 lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
 banner: >-
   http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
 ---
 
 Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
