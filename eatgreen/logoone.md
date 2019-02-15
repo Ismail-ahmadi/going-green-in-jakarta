@@ -1,5 +1,5 @@
 ---
-title: Green Initiative production
+title: 'Green Initiative production '
 image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
 number: 1
 lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
