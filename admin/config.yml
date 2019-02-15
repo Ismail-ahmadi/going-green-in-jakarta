@@ -23,7 +23,6 @@ collections:
         file: 'pages/home.md'
         fields:
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'home' }
-          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Banner', name: 'banner', widget: 'image' }
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
