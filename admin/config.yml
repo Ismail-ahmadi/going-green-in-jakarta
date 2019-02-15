@@ -20,9 +20,10 @@ collections:
     files:
       - label: 'Home Page'
         name: 'home'
-        file: 'pages/homepage.md'
+        file: 'pages/home.md'
         fields:
-          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'home' }
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
+          - { label: 'Permalink', name: 'permalink', widget: 'hidden', default: '/' }
           - { label: 'Banner', name: 'banner', widget: 'image' }
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
