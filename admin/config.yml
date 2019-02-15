@@ -20,7 +20,7 @@ collections:
     files:
       - label: 'Home Page'
         name: 'home'
-        file: 'pages/home.md'
+        file: 'pages/homepage.md'
         fields:
           - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'home' }
           - { label: 'Banner', name: 'banner', widget: 'image' }
