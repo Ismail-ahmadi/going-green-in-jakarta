@@ -21,6 +21,12 @@
         {% include 'components/shopgreengrid.html' %}
       {% when 'greenleisure' %}
         {% include 'components/greenleisuregrid.html' %}
+      {% when 'recycling' %}
+        {% include 'components/recyclinggrid.html' %}
+      {% when 'dinegreen' %}
+        {% include 'components/dinegreengrid.html' %}
+      {% when 'greenpartner' %}
+        {% include 'components/greenpartnergrid.html' %}
     {% endcase %}
   {% if gallery %}
       {% include 'components/gallery.html' %}

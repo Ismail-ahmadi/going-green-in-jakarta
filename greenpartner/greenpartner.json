@@ -1,0 +1,5 @@
+{
+    "tags": "greenpartner",
+    "layout": "green",
+    "permalink": "/eatgreenpartner/{{ title | slug }}/index.html"
+}
