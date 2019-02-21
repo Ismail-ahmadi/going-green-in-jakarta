@@ -128,6 +128,69 @@ collections:
                 multiple: true
                 previewStep: false
       
+      - label: 'Dine green'
+        name: 'dinegreen'
+        file: 'pages/dinegreen.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'dinegreen' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Navtitle', name: 'navtitle', widget: 'string' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
+      - label: 'Green partner'
+        name: 'greenpartner'
+        file: 'pages/greenpartner.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'greenpartner' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Navtitle', name: 'navtitle', widget: 'string' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
+      - label: 'Recycling & Composting'
+        name: 'recycling'
+        file: 'pages/recycling.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'recycling' }
+          - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
+          - { label: 'Navtitle', name: 'navtitle', widget: 'string' }
+          - { label: 'Banner', name: 'banner', widget: 'image' }
+          - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - label: 'Gallery'
+            name: 'gallery'
+            widget: 'image'
+            required: false
+            media_library:
+              config:
+                multiple: true
+                previewStep: false
+
       - label: 'Event'
         name: 'event'
         file: 'pages/events.md'
