@@ -8,4 +8,4 @@ banner: >-
 titlebanner: Restaurants & Cafes
 whiteslogan: 'Vegan, vegetarian, organic and #plasticfree options'
 ---
-<p class="lead">Find the list of plasticfree options </p>
+<p class="lead">Vegan, vegetarian, sustainable, organic or low-waste options </p>
