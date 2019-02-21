@@ -6,11 +6,12 @@ lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
 banner: >-
   http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
 ---
+# **Javara**
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+**Organic, farmer-friendly online grocery service inspired by Indonesia’s food biodiversity**
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+![Javara Indigenous Indonesia](https://ucarecdn.com/bd9a662f-c7fd-436b-be85-84199dbfb59e/ "Javara Indigenous Indonesia")
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
+Website: [**www.javara.co.id**](www.javara.co.id)****
 
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+Phone Number: 08119995383; 0217183550
