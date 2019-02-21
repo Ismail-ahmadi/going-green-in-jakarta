@@ -10,4 +10,4 @@ whiteslogan: >-
   Environmentally-friendly products for everything from <br /> home cleaning,
   fashion, personal hygiene, and more.
 ---
-<p class="lead">Find the list of Environmentally-friendly products </p>
+<p class="lead">For home cleaning, fashion, personal hygiene, and more. </p>
