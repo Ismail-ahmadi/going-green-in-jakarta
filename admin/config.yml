@@ -322,7 +322,78 @@ collections:
           config:
             multiple: true
             previewStep: false
-    
+
+  - name: 'dinegreen'
+    label: 'dine green'
+    description: 'Add or modify Restaurants & Cafes here'
+    editor:
+      preview: false
+    folder: 'dinegreen'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Image', name: 'image', widget: 'image', }
+      - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
+      - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
+      - { label: 'Banner', name: 'banner', widget: 'image' }
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
+
+  - name: 'greenpartner'
+    label: 'Green Partner'
+    description: 'Add or modify Green Organisations, Campaigns, Networks here'
+    editor:
+      preview: false
+    folder: 'greenpartner'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Image', name: 'image', widget: 'image', }
+      - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
+      - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
+      - { label: 'Banner', name: 'banner', widget: 'image' }
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
+  - name: 'recyclingcomposting'
+    label: 'Recycling & Composting'
+    description: 'Add or modify Restaurants & Cafes here'
+    editor:
+      preview: false
+    folder: 'recyclingcomposting'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Image', name: 'image', widget: 'image', }
+      - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
+      - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
+      - { label: 'Banner', name: 'banner', widget: 'image' }
+      - {label: 'Body', name: 'body', widget: 'markdown'}
+      - label: 'Gallery'
+        name: 'gallery'
+        widget: 'image'
+        required: false
+        media_library:
+          config:
+            multiple: true
+            previewStep: false
+  
   - name: 'settings'
     label: 'Settings'
     description: 'Configure settings for the website here'
