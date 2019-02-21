@@ -14,6 +14,6 @@ banner: >-
 
 The Pinewood Lodge and Organic Farm were established at 2005. Located at the heart of Cisarua – Puncak, it was a dreamy place with European style. With its natural concept, lots of trees, plus a treehouse, an exciting holiday will be at warranty.
 
-Website: [**hotelpinewood.com**](hotelpinewood.com)****
+Website: [**hotelpinewood.com**](http://hotelpinewood.com)****
 
 Jakarta sales Office number: (+6221) 6245473 - 6006448 - 6282307 . Fax: (+6221) 6399205
