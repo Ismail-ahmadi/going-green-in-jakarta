@@ -8,4 +8,4 @@ banner: >-
 titlebanner: Family-friendly fun with nature
 whiteslogan: 'Parks, holiday spots, places to stay, green spaces in the city'
 ---
-<p class="lead">Find the list of  Green Spaces </p>
+<p class="lead">Places and activities that bring you closer to nature </p>
