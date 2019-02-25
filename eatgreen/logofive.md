@@ -14,4 +14,6 @@ banner: >-
 
 Website: [www.javara.co.id](https://javara.co.id/)
 
+<a href="https://javara.co.id/" target="_blank">www.javara.co.id</a>
+
 Phone Number: 08119995383; 0217183550
