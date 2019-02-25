@@ -95,6 +95,16 @@
       width: 78%;
       margin-left: 22%;
     }
+    img {
+      width: 80%;
+      height: 150px;
+      overflow: hidden;
+      margin-left:10%;
+      object-fit: cover;  
+    }
+    // a {
+    //   target-new: tab;
+    // }
   }
   
   .lightboxevent a { 
@@ -108,6 +118,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% ;
+    
     
     @include from(lg){
       height: 300px;
