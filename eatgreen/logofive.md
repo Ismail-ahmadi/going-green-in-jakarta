@@ -12,8 +12,6 @@ banner: >-
 
 ![Javara Indigenous Indonesia](https://ucarecdn.com/bd9a662f-c7fd-436b-be85-84199dbfb59e/ "Javara Indigenous Indonesia")
 
-Website: [www.javara.co.id](https://javara.co.id/)
-
-<a href="https://javara.co.id/" target="_blank">www.javara.co.id</a>
+Website: <a href="https://javara.co.id/" target="_blank">www.javara.co.id</a>
 
 Phone Number: 08119995383; 0217183550
