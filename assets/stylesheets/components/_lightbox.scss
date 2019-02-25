@@ -81,11 +81,13 @@
   .lightboxevent {
     display: none;
     position: fixed;
+    overflow: scroll;
     z-index: 3;
     width: 100%;
     margin-left: 0%;
-    height: 100%;
-    text-align: center;
+    height: auto;
+    min-height: 100%;
+    text-align: left;
     top: 0;
     left: 0;
     background: rgba(0,0,0,0.85);
@@ -101,26 +103,36 @@
   }
   
   .lightboxeventimg {
-    height: 350px;
+    height: 150px;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% ;
-    overflow: hidden;
     
+    @include from(lg){
+      height: 300px;
+    }
+    // @include from(ms){
+    //   height: 200px;
+    // }
   }
   .lightboxeventtext {
     height: auto;
     min-height: 300px;
-    width: 80%;
-    margin: 0 10%;
+    max-height: 50%;
+    width: 94%;
+    margin: 0 3%;
     // background: red;
     // margin-left:22%;
     color: white;
+    font-size: 0.7rem;
     // border-bottom: 1px solid white;
     // padding: 0 10px;
-  }
-  
+   
+  @include from(sm){
+    font-size: 1rem;
+}
+}
   .lightboxevent:target {
     display: block;
   }
@@ -137,13 +149,14 @@
   .nextevent, .prevevent, .closeevent { display: block; position: fixed; }
   
   .closeevent { 
-    width: 50px; height: auto; padding:10px; overflow: hidden; top: 0; right: 0; z-index: 5; cursor: default; background: $gray-500; margin: 65px 10px 0 0; 
+    width: 30px; height: auto; padding:10px; overflow: hidden; top: 0; right: 0; z-index: 5; cursor: default; background: $gray-500; margin: 65px 20px 0 0; font-size: 0.7rem; 
     &:hover{
       background: $green;
     }
     @include from (lg){
-      // background: yellow;
-      margin: 10px 10px 0 0;
+      font-size: 1rem;
+      width: 50px;
+      margin: 10px 20px 0 0;
 
     } 
   }
