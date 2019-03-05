@@ -1,87 +1,6 @@
-// // .top {
-// //     width: 100%;
-// //     min-height: 300px;
-// //     padding: 20px 0;
-// //     text-align: center;
-// //     background:red;
-// //   }
-  
-// //   .galleryItem {
-// //     width: 250px;
-// //     height: 250px;
-// //     margin: 10px;
-// //     border: solid 0px #fff;
-// //     padding: 0;
-// //     display: inline-block;
-// //     -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
-// //     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);}
-  
-// //   .galleryItem img {
-// //     width: 250px;
-// //     height: 250px;
-// //     background-position: top center;
-// //     background-size: cover;
-// //     overflow:hidden;
-// //   }
-  
-// //   .caption {
-// //     position: relative;
-// //     display: inline-block;
-// //     width: 250px;
-// //     height: 250px;
-// //     z-index: 2;}
-  
-// //   .caption::before {
-// //     content: attr(data-title);
-// //     width: 250px;
-// //     height: 0; 
-// //     position: absolute;
-// //     top: 0;
-// //     left: 0;
-// //     color: #000;
-// //     background-color: rgba(255,255,255,0.3);
-// //     font: bold 1.2em 'helvetica neue', helvetica, arial, sans-serif;
-// //     overflow: hidden;
-// //     opacity: 0;
-// //     -webkit-transition: all 0.3s ease;
-// //     -moz-transition: all 0.3s ease;
-// //     -ms-transition: all 0.3s ease;
-// //     -o-transition: all 0.3s ease;
-// //     transition: all 0.3s ease; }
-  
-// //   .caption::after {
-// //     content: attr(data-description);
-// //     width: 250px;
-// //     height: 0;
-// //     position: absolute;
-// //     bottom: -0;
-// //     left: 0;
-// //     color: #fff;
-// //     background-color: rgba(34,34,34,0.5);
-// //     font-family: 'helvetica neue', helvetica, arial, sans-serif;
-// //     overflow: hidden;
-// //     opacity: 0;
-// //     -webkit-transition: all 0.3s ease;
-// //     -moz-transition: all 0.3s ease;
-// //     -ms-transition: all 0.3s ease;
-// //     -o-transition: all 0.3s ease;
-// //     transition: all 0.3s ease; }
-  
-// //   .caption:hover::before {
-// //     opacity: 1;
-// //     height: 25px; }
-  
-// //   .caption:hover::after {
-// //     opacity: 1;
-// //     bottom: 0;
-// //     height: 65px; }
-  
-//   /* lightbox */
-  
-  .lightboxevent {
+.lightboxevent {
     display: none;
     position: fixed;
-    overflow: scroll;
     z-index: 3;
     width: 100%;
     margin-left: 0%;
@@ -95,6 +14,24 @@
       width: 78%;
       margin-left: 22%;
     }
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    /* Track */
+    ::-webkit-scrollbar-track {
+      background: #f1f1f1; 
+    }
+     
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+      background: $green; 
+    }
+    
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+      background: #555; 
+    }
     img {
       width: 80%;
       height: 150px;
@@ -102,9 +39,9 @@
       margin-left:10%;
       object-fit: cover;  
     }
-    // a {
-    //   target-new: tab;
-    // }
+    a {
+      target-new: tab;
+    }
   }
   
   .lightboxevent a { 
@@ -113,7 +50,7 @@
   }
   
   .lightboxeventimg {
-    height: 150px;
+    height: 30vh;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -121,16 +58,16 @@
     
     
     @include from(lg){
-      height: 300px;
+      height: 30vh;
     }
     // @include from(ms){
     //   height: 200px;
     // }
   }
   .lightboxeventtext {
-    height: auto;
+    height: 70vh;
     min-height: 300px;
-    max-height: 50%;
+    // max-height: 50%;
     width: 94%;
     margin: 0 3%;
     // background: red;
@@ -139,6 +76,8 @@
     font-size: 0.7rem;
     // border-bottom: 1px solid white;
     // padding: 0 10px;
+    // overflow: scroll;
+    overflow-y: scroll;
    
   @include from(sm){
     font-size: 1rem;
