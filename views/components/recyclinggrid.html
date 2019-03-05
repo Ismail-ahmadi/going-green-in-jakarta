@@ -1,32 +1,22 @@
 <div class="greengrid">
   {% for recycling in collections.recycling %} 
-    {% comment %} {% assign eventLangID = event.inputPath | getLang %}
-    {% if eventLangID == langID %} {% endcomment %}
       <div class="greengrid__box">
         <a href="#{{ recycling.data.number }}" >
         <div class="greengrid__box__item"  style="background-image: url({{ recycling.data.image | getImageUrl: 400 }})">
-          {% comment %} <div class="greengrid__overlay"></div> {% endcomment %}
-          {% comment %} <div>
-            <time>
-              {% Icon 'clock' %} 
-              <span class="h6 caps spaced">{{ eatgreen.data.date | formatDate }}</span>
-            </time>
-            <span>
-              {% Icon 'pin' %} 
-              <span class="h6 caps spaced">{{ eatgreen.data.location }}</span>
-            </span> 
-          </div> {% endcomment %}
-          
         </div>
         <p class="greengrid__box__title">{{ recycling.data.title }}</p>
         </a>
       </div>
       <div class="lightboxevent" id="{{ recycling.data.number }}">
         <div class="lightboxeventimg" style="background-image: url('{{ recycling.data.lightbox }}')"></div>
-          <div class="lightboxeventtext"> {{ recycling.data.content }} </div>
+          <div class="lightboxeventtext">
+            <h1>{{ recycling.data.title }}</h1>
+            <p><strong>{{ recycling.data.titledescription }}</strong></p>
+            {{ recycling.data.content }} 
+            <p> {{ recycling.data.webiste }} </p>
+            <p> {{ recycling.data.phone }} </p>
+          </div>
           <a href="#" class="closeevent">Close</a>
-          
       </div>
-    {% comment %} {% endif %} {% endcomment %}
   {% endfor %}
 </div> 

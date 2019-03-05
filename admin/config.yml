@@ -261,6 +261,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Titledescription', name: 'titledescription', widget: 'string'}
+      - {label: 'Website', name: 'website', widget: 'string', required: false}
+      - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
+      - {label: 'Phone', name: 'phone', widget: 'string', required: false} 
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
@@ -285,6 +289,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Titledescription', name: 'titledescription', widget: 'string'}
+      - {label: 'Website', name: 'website', widget: 'string', required: false}
+      - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
+      - {label: 'Phone', name: 'phone', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
@@ -309,6 +317,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Titledescription', name: 'titledescription', widget: 'string'}
+      - {label: 'Website', name: 'website', widget: 'string', required: false}
+      - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
+      - {label: 'Phone', name: 'phone', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
@@ -333,6 +345,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Titledescription', name: 'titledescription', widget: 'string', required: false}
+      - {label: 'Website', name: 'website', widget: 'string', required: false}
+      - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
+      - {label: 'Phone', name: 'phone', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
@@ -357,6 +373,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Titledescription', name: 'titledescription', widget: 'string' }
+      - {label: 'Website', name: 'website', widget: 'string', required: false}
+      - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
+      - {label: 'Phone', name: 'phone', widget: 'string', required: false }
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }
@@ -380,6 +400,10 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Titledescription', name: 'titledescription', widget: 'string'}
+      - {label: 'Website', name: 'website', widget: 'string', required: false}
+      - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
+      - {label: 'Phone', name: 'phone', widget: 'string', required: false }
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Lightbox', name: 'lightbox', widget: 'image' }

@@ -1,29 +1,21 @@
 <div class="greengrid">
   {% for dinegreen in collections.dinegreen %} 
-    {% comment %} {% assign eventLangID = event.inputPath | getLang %}
-    {% if eventLangID == langID %} {% endcomment %}
       <div class="greengrid__box">
         <a href="#{{ dinegreen.data.number }}" >
         <div class="greengrid__box__item"  style="background-image: url({{ dinegreen.data.image | getImageUrl: 400 }})">
-          {% comment %} <div class="greengrid__overlay"></div> {% endcomment %}
-          {% comment %} <div>
-            <time>
-              {% Icon 'clock' %} 
-              <span class="h6 caps spaced">{{ eatgreen.data.date | formatDate }}</span>
-            </time>
-            <span>
-              {% Icon 'pin' %} 
-              <span class="h6 caps spaced">{{ eatgreen.data.location }}</span>
-            </span> 
-          </div> {% endcomment %}
-          
         </div>
         <p class="greengrid__box__title">{{ dinegreen.data.title }}</p>
         </a>
       </div>
       <div class="lightboxevent" id="{{ dinegreen.data.number }}">
         <div class="lightboxeventimg" style="background-image: url('{{ dinegreen.data.lightbox }}')"></div>
-          <div class="lightboxeventtext"> {{ dinegreen.data.content }} </div>
+          <div class="lightboxeventtext">
+           <h1>{{ dinegreen.data.title }}</h1>
+            <p><strong>{{ dinegreen.data.titledescription }}</strong></p>
+            {{ dinegreen.data.content }} 
+            <p> {{ dinegreen.data.webiste }} </p>
+            <p> {{ dinegreen.data.phone }} </p>
+           </div>
           <a href="#" class="closeevent">Close</a>
           
       </div>

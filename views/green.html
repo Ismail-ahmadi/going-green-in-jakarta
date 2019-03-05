@@ -7,10 +7,10 @@
   </div>
     <div class="content">
     <div class="container container--text">
-      <span class="italic faint">{{ date | formatDate }}</span>
-      <h1>{{ title }}</h1>
+      {% comment %} <span class="italic faint">{{ date | formatDate }}</span> {% endcomment %}
+      
       {% comment %} {% include 'components/social-share.html' %} {% endcomment %}
-
+        <h1>{{ title }}</h1>
         {{ content }}
 
     </div>
