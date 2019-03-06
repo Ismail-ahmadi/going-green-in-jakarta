@@ -4,9 +4,8 @@ titledescription: Organic vegetable delivery service from Sarongge village
 website: 'Website: greeninitiativefoundation.org'
 url: greeninitiativefoundation.org
 phone: 'Phone Number: 02182561422'
-image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
+image: 'https://ucarecdn.com/f18d46c9-278e-43d5-b396-a9e4e8875d89/'
 number: 2
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
 banner: 'https://ucarecdn.com/219e7a4a-8fee-4e5e-98fb-8ba8b0902d72/'
 ---
 **What Green Initiative Foundation says ...**
