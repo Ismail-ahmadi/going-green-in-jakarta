@@ -3,12 +3,11 @@ title: Greenvalleys
 titledescription: >-
   Plastic free online organic, fresh produce direct from farms, vegetables,
   fruits, eggs, reusable straws
-website: 'Website: '
+website: 'Website: Greenvalleys'
 url: 'https://greenvalleysjakarta.com/'
 phone: 'Phone No: 081317736922'
 image: 'https://ucarecdn.com/38d31630-0fe8-4056-91d0-3bef0f3b2f02/'
 number: 4
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
 banner: 'https://ucarecdn.com/d1cfffd0-7cbd-4591-bb98-ff7d7a038c12/'
 ---
 **What Greenvalleys says ...** 
