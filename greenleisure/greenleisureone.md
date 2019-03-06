@@ -23,4 +23,4 @@ We have a variety of accommodations available for you to choose from, ranging fr
 
 ![Portibi Farm](https://ucarecdn.com/06f7df9e-5ebc-45ae-9831-4ba12570e14b/ "Portibi Farm")
 
-See the full range of activities here: http://portibi.com/activities/
+See the full range of activities here: <http://portibi.com/activities/>
