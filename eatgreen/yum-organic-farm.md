@@ -4,9 +4,8 @@ titledescription: Organic farming for future
 website: 'Website: organicfarmcipanas.yumindonesia.org'
 url: 'https://organicfarmcipanas.yumindonesia.org/'
 phone: 'Cipanas Office: 0263 – 514 805 <br /> Jakarta Office: 021-7698505'
-image: 'https://ucarecdn.com/3cfeab8f-8b60-4c41-8d1b-7ae52eccfc07/'
+image: 'https://ucarecdn.com/bf5dcd42-ebb5-44cc-a19f-426db0cbc97d/'
 number: 6
-lightbox: 'https://ucarecdn.com/2d4f8c81-45b0-4e83-8b89-e163a5ae32ad/'
 banner: 'https://ucarecdn.com/df2371b7-e615-4c3d-9426-5512bd75067f/'
 ---
 **What Yum Organic Farm says ...**
