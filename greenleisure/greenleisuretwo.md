@@ -7,7 +7,7 @@ phone: >-
   Address: Jalan Ir. H. Juanda No. 13, Bogor <br /> Telephone: 62 (0)251
   8322187/ 8326871 <br />Fax: 62 (0)251 8322187/ 8311362 <br /> Primary Email:
   krbogor@mail.lipi.go.id
-image: 'https://ucarecdn.com/4a3d9c96-6cab-4d52-82e1-4885669f7c86/'
+image: 'https://ucarecdn.com/d56171c7-f1fd-442d-ad92-a632c30e8870/'
 number: 2
 banner: 'https://ucarecdn.com/562bcde9-226c-4770-9694-cf4af67e8c24/'
 ---
