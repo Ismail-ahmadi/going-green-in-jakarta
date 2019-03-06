@@ -8,8 +8,7 @@ url: 'https://www.sayurbox.com/'
 phone: 'Phone Number: 0819-1954-5454'
 image: 'https://ucarecdn.com/46c2d7d5-0b7c-4052-a625-f9c03c158311/'
 number: 5
-lightbox: 'https://ucarecdn.com/81e2ab29-211f-4827-8ca9-0265cb8bddac/'
-banner: 'https://ucarecdn.com/b96589a7-ca6d-4892-b98d-f3d7c0cbe23c/'
+banner: 'https://ucarecdn.com/d6a2910b-7cd4-4dfd-855f-7d7e823bb58e/'
 ---
 **Sayurbox says....**
 
