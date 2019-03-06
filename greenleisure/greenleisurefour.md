@@ -1,16 +1,14 @@
 ---
-title: Hotel four
+title: idGuides
+titledescription: >-
+  Treks, walks, trail runs, expeditions <br />trusted expedition and outdoor
+  leader specialists 
+website: 'Website: idGuides'
+url: 'http://www.idguides.net/website/'
+image: 'https://ucarecdn.com/f2d34b5e-0723-4060-95cb-11c8af01785f/'
 number: 4
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
+banner: 'https://ucarecdn.com/2e4a2e31-ee11-4c35-9f59-feb6731575e6/'
 ---
+Escape the city. Find freedom on foot, just 90 minutes drive from Jakarta. Explore umpteen trails in the Sentul highlands with our community trail guides.  Come on a Family Walk, Half Day Trail, Full Day Trail, Trail Run or Private Camp.  
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
-
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
-
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+With every visit, you contribute to local communities and conservation. Our expeditions in Indonesia help local communities make a living from ecotourism and contribute to conserving a biodiversity that is among the world’s richest.
