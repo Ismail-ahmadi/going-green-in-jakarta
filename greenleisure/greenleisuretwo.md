@@ -1,16 +1,18 @@
 ---
-title: Hotel two
+title: The Bogor Botanic Gardens
+titledescription: ' '
+website: 'Website: The Bogor Botanic Gardens'
+url: 'http://www.krbogor.lipi.go.id'
+phone: >-
+  Address: Jalan Ir. H. Juanda No. 13, Bogor <br /> Telephone: 62 (0)251
+  8322187/ 8326871 <br />Fax: 62 (0)251 8322187/ 8311362 <br /> Primary Email:
+  krbogor@mail.lipi.go.id
+image: 'https://ucarecdn.com/4a3d9c96-6cab-4d52-82e1-4885669f7c86/'
 number: 2
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
+banner: 'https://ucarecdn.com/562bcde9-226c-4770-9694-cf4af67e8c24/'
 ---
+Indonesia's first and foremost botanic garden, is 87 hectares of beautifully kept trees, plants flowers, lawns and ponds within a busy expanding city of 1 million people. It is also a world famous institution for research and conservation that has developed over many years and is continuing to do so. The Garden is an important part of Bogor city providing not only employment but a large ecotourism area for local residents, visitors from Jakarta and many passing tourists from abroad. The Garden also provide healthy air from its 12,300 plant specimens representing 3170 species, not included specimens in its nurseries
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+![The Bogor Botanic Gardens](https://ucarecdn.com/9548edab-d710-4ac1-aa5e-a35e2ec7f04c/ "The Bogor Botanic Gardens")
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
-
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+.
