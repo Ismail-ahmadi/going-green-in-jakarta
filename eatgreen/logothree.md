@@ -8,7 +8,7 @@ phone: >-
   Klub, Jakarta.
 image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
 number: 3
-banner: 'https://ucarecdn.com/22e76ded-a46f-43da-aae6-70b76ca7b1c1/'
+banner: 'https://ucarecdn.com/4c9e0c71-08d7-47fb-9f61-f366955ddcfb/'
 ---
 **What Toko Organik Klub says ...**
 
