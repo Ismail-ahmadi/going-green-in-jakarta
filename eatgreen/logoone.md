@@ -6,7 +6,7 @@ url: greeninitiativefoundation.org
 phone: 'Phone Number: 02182561422'
 image: 'https://ucarecdn.com/f18d46c9-278e-43d5-b396-a9e4e8875d89/'
 number: 2
-banner: 'https://ucarecdn.com/219e7a4a-8fee-4e5e-98fb-8ba8b0902d72/'
+banner: 'https://ucarecdn.com/fa2fb9f1-2a2f-46df-b6e2-94661d2f865e/'
 ---
 **What Green Initiative Foundation says ...**
 
