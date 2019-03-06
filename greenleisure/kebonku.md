@@ -1,8 +1,13 @@
 ---
 title: KebonKu
-image: 'https://ucarecdn.com/83f04ede-87d7-466d-b6bc-4f72c9509e76/'
+website: 'website: KebonKu'
+url: 'http://www.kebonku.com/KebonKu/KebonKu_Bicara.html'
+phone: >-
+  Mobile : <br /> Tita  (62) 816 938 813  <br /> Handi (62) 812 923 4057  <br />
+  Imron (62) 818 0299 2555
+image: 'https://ucarecdn.com/d8d31f36-dfac-4917-b569-2c69746a1264/'
 number: 5
-banner: 'https://ucarecdn.com/41ec63d8-5e0d-49bc-b2b5-e5485a4ce46c/'
+banner: 'https://ucarecdn.com/b727cfdf-584e-491f-9b9f-cba167184d41/'
 ---
 We provide complete gardening & agricultural needs from vegetable seeds / seeds, superior local & imported fruit plants, pots, fertilizers, pest medicines, pot racks, gardening tools, even to the Mist Sprayer can be arranged with a timer, so that we can vacation / travel in peace
 
@@ -19,10 +24,12 @@ We provide complete gardening & agricultural needs from vegetable seeds / seeds,
 * Pot Rack (Level Pot Rack, Desk Pot Rack, Pot Wall Rack etc.)
 * Garden Equipment (Cutting Tools, Trowel, Transplanter, Hand Sprayer, Watering Assortment) brands of Green Land, Maspion, Sellery etc.
 * Other equipment (Paranet, Shadingnet, Plastic Mulch, UV / Ultra Violet Plastic, Polybags etc.)
-* Fog sprayers of various sizes & equipment 
+* Fog sprayers of various sizes & equipment
 
 Etc
 
-* As for beautifying your room or house, we provide a variety of local curtains & imported fabrics and accessories that can be tailored to your home at an affordable price
+* As for beautifying your room or house, we provide a variety of local curtains & imported fabrics and accessories that can be tailored to your home at an affordable price
 
 Thank you for entrusting us as our customer, you are satisfied we are also pleased
+
+![KebonKu](https://ucarecdn.com/fe470f4d-6083-4998-a89a-2279b9b84ed4/ "KebonKu")
