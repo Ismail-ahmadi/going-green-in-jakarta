@@ -8,11 +8,10 @@ phone: >-
   Klub, Jakarta.
 image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
 number: 3
-lightbox: 'https://ucarecdn.com/39ee517c-3603-4853-9013-d49f26fe7036/'
-banner: 'https://ucarecdn.com/50217e10-5cbb-4761-9bfb-813d14e2d48c/'
+banner: 'https://ucarecdn.com/22e76ded-a46f-43da-aae6-70b76ca7b1c1/'
 ---
-**What Toko Organik Klub says ...**
+**What Toko Organik Klub says ...**
 
 "Organik Klub is Jakarta Pioneer 1Stop ORGANIC SHOP: we sell all kind organic produce :cooking class, appliances, Plantbased Restaurant & Delivery Sevices."
 
-![ Toko Organik Klub](https://ucarecdn.com/6dc9edd0-0f54-481e-87e9-a3cbb8487c9b/ " Toko Organik Klub")
+![ Toko Organik Klub](https://ucarecdn.com/f057896a-45c8-4d77-9486-04a61012a2bb/ " Toko Organik Klub")
