@@ -1,16 +1,23 @@
 ---
-title: Hotel one
+title: Portibi Farm
+titledescription: >-
+  a working organic farm, a retreat, a place to dream, and create-beautiful
+  things, fantastic flavors.
+website: 'Website: Portibi Farms'
+url: 'http://portibi.com/lodging/ '
+phone: >-
+  Jalan Ekologika No. 7 (masuk dari Jalan Alas Wangi) Cibuntu RT03, Pesawahan,
+  Cicurug, Jawa Barat, Indonesia
+image: 'https://ucarecdn.com/d8d040ff-7bf6-422e-ad39-bcc322a96925/'
 number: 1
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
+banner: 'https://ucarecdn.com/96002b0f-1a9e-47c0-9b91-b5426cd72323/'
 ---
+**What they say…** 
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+“On an old clove plantation, just South of Jakarta, we are trying to turn back the tide of deforestation, urban overmigration, and general bad taste that have been pulling down this potentially fantastic country we call Indonesia.
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+We want to be the Lorax with a bit of market savvy, a place for you to escape, eat well, get your hands in the water and earth we live from.  Feel nature, get in it, work with those who have been making your food all these years, thank them, and see the thanks returned that evening, the produce of your labors laid upon the table for all to savor.   Or just hang out and enjoy nature, fresh air alone can be a revelation, come try some. 
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
+We have a variety of accommodations available for you to choose from, ranging from cuek luxury* teak bungalows, to rice barns with bunk beds that sleep up to four, to traditional campsites, for those who love tents."
 
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+![Portibi Farm](https://ucarecdn.com/06f7df9e-5ebc-45ae-9831-4ba12570e14b/ "Portibi Farm")
