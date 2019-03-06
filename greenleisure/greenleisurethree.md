@@ -1,16 +1,17 @@
 ---
-title: Hotel three
+title: The Pinewood Lodge & Organic Farm
+titledescription: ' '
+website: 'Website: The Pinewood Lodge & Organic Farm'
+url: 'http://hotelpinewood.com/'
+phone: 'Jl. Gandamanah, Ds. Tugu Selatan, Cisarua  '
+image: 'https://ucarecdn.com/9ab08962-2db8-46a6-8bb3-eba4fea7c41f/'
 number: 3
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
+banner: 'https://ucarecdn.com/c6379609-6e45-48b7-92fd-e27d9f5ff9a3/'
 ---
+Here the weather is nice, the view is totally breath-taking, and nature is close enough for you to appreciate it. The air is so clean, fresh and pure. Nothing like the big city we live in for years. Far away from those endless noise and air pollution.
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+You are so tired of the city being hectic all the time. You wish you could get away from all the routine activities that hooked you up every single day. You would love to have a quality time with your family. Somewhere nice and peaceful, where you can enjoy your meals in between lovely weather, fantastic view, with your kids running around and having fun with their friends.. A total heart warming experience. A perfect holiday or even a weekend getaway. 
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+Based on these similar concepts, The Pinewood Lodge and Organic Farm were established at 2005. Located at the heart of Cisarua – Puncak, it was a dreamy place with European style. With its natural concept, lots of trees, plus a treehouse, an exciting holiday will be at warranty.
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+![](https://ucarecdn.com/843424ea-55b3-4ebd-a382-5dcc4aa5e3fc/)
