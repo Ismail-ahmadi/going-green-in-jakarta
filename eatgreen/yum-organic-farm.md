@@ -6,7 +6,7 @@ url: 'https://organicfarmcipanas.yumindonesia.org/'
 phone: 'Cipanas Office: 0263 – 514 805 <br /> Jakarta Office: 021-7698505'
 image: 'https://ucarecdn.com/bf5dcd42-ebb5-44cc-a19f-426db0cbc97d/'
 number: 6
-banner: 'https://ucarecdn.com/df2371b7-e615-4c3d-9426-5512bd75067f/'
+banner: 'https://ucarecdn.com/6aa62903-fe55-43f9-9ef1-b51f3d054bae/'
 ---
 **What Yum Organic Farm says ...**
 
