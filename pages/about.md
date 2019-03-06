@@ -7,10 +7,7 @@ banner: >-
 titlebanner: 'A new, fast growing <br >community in Jakarta'
 whiteslogan: Dedicated to greener living in The Big Durian
 gallery:
-  - 'https://ucarecdn.com/99c21fbf-d388-4a39-9f34-f23d62f12bb3~4/nth/0/'
-  - 'https://ucarecdn.com/99c21fbf-d388-4a39-9f34-f23d62f12bb3~4/nth/1/'
-  - 'https://ucarecdn.com/99c21fbf-d388-4a39-9f34-f23d62f12bb3~4/nth/2/'
-  - 'https://ucarecdn.com/99c21fbf-d388-4a39-9f34-f23d62f12bb3~4/nth/3/'
+  - 'https://ucarecdn.com/ba75d960-a720-4769-a083-cb628fb3103c~1/nth/0/'
 ---
 # We are a Community
 
