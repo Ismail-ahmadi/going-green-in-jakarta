@@ -16,8 +16,11 @@ banner: 'https://ucarecdn.com/96002b0f-1a9e-47c0-9b91-b5426cd72323/'
 
 “On an old clove plantation, just South of Jakarta, we are trying to turn back the tide of deforestation, urban overmigration, and general bad taste that have been pulling down this potentially fantastic country we call Indonesia.
 
-We want to be the Lorax with a bit of market savvy, a place for you to escape, eat well, get your hands in the water and earth we live from.  Feel nature, get in it, work with those who have been making your food all these years, thank them, and see the thanks returned that evening, the produce of your labors laid upon the table for all to savor.   Or just hang out and enjoy nature, fresh air alone can be a revelation, come try some. 
+We want to be the Lorax with a bit of market savvy, a place for you to escape, eat well, get your hands in the water and earth we live from.  Feel nature, get in it, work with those who have been making your food all these years, thank them, and see the thanks returned that evening, the produce of your labors laid upon the table for all to savor.   Or just hang out and enjoy nature, fresh air alone can be a revelation, come try some.
 
-We have a variety of accommodations available for you to choose from, ranging from cuek luxury* teak bungalows, to rice barns with bunk beds that sleep up to four, to traditional campsites, for those who love tents."
+We have a variety of accommodations available for you to choose from, ranging from cuek luxury* teak bungalows, to rice barns with bunk beds that sleep up to four, to traditional campsites, for those who love tents.
+"
 
 ![Portibi Farm](https://ucarecdn.com/06f7df9e-5ebc-45ae-9831-4ba12570e14b/ "Portibi Farm")
+
+See the full range of activities here: http://portibi.com/activities/
