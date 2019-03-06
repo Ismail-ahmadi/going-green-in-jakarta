@@ -73,6 +73,10 @@
     font-size: 0.7rem;
     overflow-y: scroll;
     direction: rtl;
+    &__newdirection{
+      direction: ltr;
+      // outline: 1px red solid;
+    }
     @include from(lg){
       height: 65vh;
     }

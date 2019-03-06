@@ -10,11 +10,13 @@
       <div class="lightboxevent" id="{{ eatgreen.data.number }}">
         <div class="lightboxeventimg" style="background-image: url('{{ eatgreen.data.banner }}')"></div>
           <div class="lightboxeventtext"> 
+          <div class="lightboxeventtext__newdirection">
             <h1>{{ eatgreen.data.title }}</h1>
             <p><strong>{{ eatgreen.data.titledescription }}</strong></p>
             {{ eatgreen.data.content }} 
             <p><a href="{{ eatgreen.data.url }}" target="_blank"> {{ eatgreen.data.website }} </a></p>
             <p> {{ eatgreen.data.phone }} </p>
+            </div>
           </div>
           <a href="#" class="closeevent">Close</a>
       </div>
