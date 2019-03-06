@@ -16,6 +16,7 @@
     }
     ::-webkit-scrollbar {
       width: 10px;
+      // direction: ltr;
     }
     
     /* Track */
@@ -34,23 +35,20 @@
     }
     img {
       width: 80%;
-      height: 150px;
+      height: auto;
       overflow: hidden;
       margin-left:10%;
       object-fit: cover;  
     }
-    a {
-      target-new: tab;
-    }
   }
   
   .lightboxevent a { 
-    color: #fff;
+    color: $white;
     text-decoration: none; 
   }
   
   .lightboxeventimg {
-    height: 30vh;
+    height: 35vh;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -58,18 +56,19 @@
     
     
     @include from(lg){
-      height: 30vh;
+      height: 35vh;
     }
     // @include from(ms){
     //   height: 200px;
     // }
   }
   .lightboxeventtext {
-    height: 70vh;
+    height: 65vh;
     min-height: 300px;
     // max-height: 50%;
-    width: 94%;
-    margin: 0 3%;
+    width: 90%;
+    margin: 0 2rem 0 0;
+    padding: 0 5%;
     // background: red;
     // margin-left:22%;
     color: white;
@@ -78,6 +77,12 @@
     // padding: 0 10px;
     // overflow: scroll;
     overflow-y: scroll;
+    direction: rtl;
+
+    a:hover { 
+      color: $green;
+      text-decoration: none; 
+    }
    
   @include from(sm){
     font-size: 1rem;
@@ -99,14 +104,25 @@
   .nextevent, .prevevent, .closeevent { display: block; position: fixed; }
   
   .closeevent { 
-    width: 30px; height: auto; padding:10px; overflow: hidden; top: 0; right: 0; z-index: 5; cursor: default; background: $gray-500; margin: 65px 20px 0 0; font-size: 0.7rem; 
+    width: 30px; 
+    height: auto; 
+    padding:10px; 
+    overflow: hidden; 
+    top: 0; right: 0; 
+    z-index: 5; cursor: default; 
+    background: $gray-500; 
+    margin: 65px 20px 0 0; 
+    font-size: 0.7rem;
+    color: $white; 
     &:hover{
       background: $green;
+      color: $white;
     }
     @include from (lg){
       font-size: 1rem;
       width: 50px;
       margin: 10px 20px 0 0;
+      color: $white;
 
     } 
   }
