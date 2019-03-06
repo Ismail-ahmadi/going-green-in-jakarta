@@ -10,12 +10,14 @@
       <div class="lightboxevent" id="{{ greenleisure.data.number }}">
         <div class="lightboxeventimg" style="background-image: url('{{ greenleisure.data.banner }}')"></div>
           <div class="lightboxeventtext">
-            <h1>{{ greenleisure.data.title }}</h1>
-            <p><strong>{{ greenleisure.data.titledescription }}</strong></p>
-            {{ greenleisure.data.content }} 
-            <p> {{ greenleisure.data.webiste }} </p>
-            <p> {{ greenleisure.data.phone }} </p>
-           </div>
+            <div class="lightboxeventtext__newdirection">
+              <h1>{{ greenleisure.data.title }}</h1>
+              <p><strong>{{ greenleisure.data.titledescription }}</strong></p>
+              {{ greenleisure.data.content }} 
+              <p> {{ greenleisure.data.webiste }} </p>
+              <p> {{ greenleisure.data.phone }} </p>
+            </div>
+          </div>
           <a href="#" class="closeevent">Close</a>
           
       </div>

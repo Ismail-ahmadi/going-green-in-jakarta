@@ -10,11 +10,13 @@
       <div class="lightboxevent" id="{{ recycling.data.number }}">
         <div class="lightboxeventimg" style="background-image: url('{{ recycling.data.banner }}')"></div>
           <div class="lightboxeventtext">
-            <h1>{{ recycling.data.title }}</h1>
-            <p><strong>{{ recycling.data.titledescription }}</strong></p>
-            {{ recycling.data.content }} 
-            <p> {{ recycling.data.webiste }} </p>
-            <p> {{ recycling.data.phone }} </p>
+            <div class="lightboxeventtext__newdirection">
+              <h1>{{ recycling.data.title }}</h1>
+              <p><strong>{{ recycling.data.titledescription }}</strong></p>
+              {{ recycling.data.content }} 
+              <p> {{ recycling.data.webiste }} </p>
+              <p> {{ recycling.data.phone }} </p>
+            </div>
           </div>
           <a href="#" class="closeevent">Close</a>
       </div>

@@ -16,7 +16,11 @@
       </a>
         <div class="lightboxevent" id="{{ event.data.number }}">
         <div class="lightboxeventimg" style="background-image: url(' {{event.data.lightbox}} ')"></div>
-          <div class="lightboxeventtext"> {{ event.data.content }} </div>
+          <div class="lightboxeventtext">
+            <div class="lightboxeventtext__newdirection">
+              {{ event.data.content }} 
+            </div>
+          </div>
           <a href="#" class="closeevent">Close</a>
       </div>
   {% endfor %}

@@ -10,11 +10,13 @@
       <div class="lightboxevent" id="{{ dinegreen.data.number }}">
         <div class="lightboxeventimg" style="background-image: url('{{ dinegreen.data.banner }}')"></div>
           <div class="lightboxeventtext">
-           <h1>{{ dinegreen.data.title }}</h1>
-            <p><strong>{{ dinegreen.data.titledescription }}</strong></p>
-            {{ dinegreen.data.content }} 
-            <p> {{ dinegreen.data.webiste }} </p>
-            <p> {{ dinegreen.data.phone }} </p>
+            <div class="lightboxeventtext__newdirection">
+              <h1>{{ dinegreen.data.title }}</h1>
+              <p><strong>{{ dinegreen.data.titledescription }}</strong></p>
+              {{ dinegreen.data.content }} 
+              <p> {{ dinegreen.data.webiste }} </p>
+              <p> {{ dinegreen.data.phone }} </p>
+            </div>
            </div>
           <a href="#" class="closeevent">Close</a>
           
