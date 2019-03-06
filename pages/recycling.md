@@ -12,4 +12,4 @@ whiteslogan: >-
 ---
 <p class="lead">Recycling and Upcycling</p>
 
-“Recycling is the process of converting waste materials into new materials and objects. It can prevent the waste of potentially useful materials and reduce the consumption of fresh raw materials, thereby reducing: energy usage, air pollution (from incineration), and water pollution (from landfilling).
+**Recycling** is the process of converting waste materials into new materials and objects. It can prevent the waste of potentially useful materials and reduce the consumption of fresh raw materials, thereby reducing: energy usage, air pollution (from incineration), and water pollution (from landfilling).
