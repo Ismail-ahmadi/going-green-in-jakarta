@@ -5,7 +5,7 @@ website: 'Website: blueboots.farm '
 url: 'https://blueboots.farm/'
 image: 'https://ucarecdn.com/291f7c93-9784-4f6d-8d42-24eb423c6ce5/'
 number: 9
-banner: 'https://ucarecdn.com/2a7320d7-9b65-4502-ad8f-95b63e72e493/'
+banner: 'https://ucarecdn.com/87f2a6c1-ebae-43c7-befa-83f84ebfaaea/'
 ---
 **What they say…** 
 
