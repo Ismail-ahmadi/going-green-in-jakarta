@@ -48,7 +48,7 @@
   }
   
   .lightboxeventimg {
-    height: 35vh;
+    height: 30vh;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,21 +63,19 @@
     // }
   }
   .lightboxeventtext {
-    height: 65vh;
+    height: 70vh;
     min-height: 300px;
-    // max-height: 50%;
     width: 90%;
     margin: 0 2rem 0 0;
     padding: 0 5%;
     // background: red;
-    // margin-left:22%;
     color: white;
     font-size: 0.7rem;
-    // border-bottom: 1px solid white;
-    // padding: 0 10px;
-    // overflow: scroll;
     overflow-y: scroll;
     direction: rtl;
+    @include from(lg){
+      height: 65vh;
+    }
 
     a:hover { 
       color: $green;
