@@ -5,7 +5,7 @@ titledescription: >-
   leader specialists 
 website: 'Website: idGuides'
 url: 'http://www.idguides.net/website/'
-image: 'https://ucarecdn.com/f2d34b5e-0723-4060-95cb-11c8af01785f/'
+image: 'https://ucarecdn.com/2cca7078-9d9a-4a0d-9bd4-a1be8982765a/'
 number: 4
 banner: 'https://ucarecdn.com/2e4a2e31-ee11-4c35-9f59-feb6731575e6/'
 ---
