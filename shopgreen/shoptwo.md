@@ -1,16 +1,22 @@
 ---
-title: shop two
+title: Avani Eco
+titledescription: >-
+  Cassava bags, PLA cutleries compostable only in commercial composting 
+  facilities, birchwood cutleries, Bio-poncho (made of corn, soy and sunflower 
+  seeds), Bio-box (made of bagasse)
+website: 'Website: www.avanieco.com'
+url: 'https://www.avanieco.com/'
+phone: >-
+  Phone Number: <br />Jakarta office - 02130485599 <br /> Bali office -
+  0213619065555
+image: 'https://ucarecdn.com/9d0f3059-b8e8-4c9a-ab42-ca7cf14de27a/'
 number: 2
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
+banner: 'https://ucarecdn.com/a85073cb-2b99-4766-9b23-79d8036711ad/'
 ---
+**What Avani Eco says ...**
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+"Avani was established in the year of 2014 spearheaded by individuals who strive to be difference makers utilizing technology as solutions to combat the global plastic epidemic. Avani provides eco-friendly inimitable bio-cassava bag made from industrial grade cassava starch and other natural ingredients, complimented with a full range of sustainable food packaging and hospitality products made from renewable resources.
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+Through years of preparation prior to its launch, Avani has successfully embarked on its mission to replace disposable plastic products which take hundreds and even thousands of years to be decomposed by Mother nature by using renewable resources made from plants. Parallel to that, placing sustainability as its core business values, Avani is committed to exercise good corporate governance by adopting the Triple Bottom Line approach in assuring the sustainability of its business. "
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+![Avani Eco](https://ucarecdn.com/a1a61923-032e-4b48-8930-f8da5dcb4155/ "Avani Eco")
