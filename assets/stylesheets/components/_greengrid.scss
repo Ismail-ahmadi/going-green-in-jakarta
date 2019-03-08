@@ -6,12 +6,15 @@
   grid-template-columns: repeat(auto-fit, minmax($s*10, 1fr));
   &__box{
     width: 100%;
-    max-width: $s*12;
+    max-width: 90%;
     height: auto;
     background: $white;
     // outline: 1px solid red;
     // box: vertical space-between middle;
     justify-content: center;
+    @include from(lg){
+      max-width: $s*12;
+    }
     &__title{
       color: $gray-600;
       font-size: 1rem;
