@@ -1,16 +1,14 @@
 ---
-title: Company three
+title: Plantubi
+titledescription: 'Plant Based food for delivery '
+image: 'https://ucarecdn.com/aacc65da-ec65-41ec-9f87-a3697313e852/'
 number: 3
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
+banner: 'https://ucarecdn.com/282e2fbe-0bb9-4a51-b335-54ee3bfeb999/'
 ---
+**Jakarta Post says:** “Plantubi is a home business without an outlet. However, the brand has caught health enthusiasts’ attention as it serves plant-based dishes with local flavors, namely the Padang bowl and Sunda bowl, nasi jagung (corn rice) and rendang jamur (mushroom cooked rendang-style). Priced at Rp 48,000 per bowl, the menu is also vegan friendly as it does not use eggs, butter or dairy.”
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+Delivery only (Go Food/Go Send)\
+Mon-Fri 10AM -2 PM\
++62819 1100 9060 // LINE: plantubi
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
-
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+![Plantubi](https://ucarecdn.com/c1ab42f5-bb0c-4b00-bf07-9a6d144f3bea/ "Plantubi")
