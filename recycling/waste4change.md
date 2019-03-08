@@ -6,7 +6,7 @@ phone: >-
   Address: Vida Bumipala, Jl. Alun Alun Utara, Padurenan, Mustikajaya, Kota
   Bekasi, Jawa Barat. <br /> Phone: (021) 29372308 <br /> Email:
   contact@waste4change.com; rienta.primaputri@waste4change.com
-image: 'https://ucarecdn.com/c3ff8295-ef17-4825-999a-75c10d559e38/'
+image: 'https://ucarecdn.com/11f14d6f-af52-427a-8390-0355f4541907/'
 number: 2
 banner: 'https://ucarecdn.com/24fe2b98-46a5-4b73-a1c4-3f3f6b454163/'
 ---
