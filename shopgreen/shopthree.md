@@ -1,16 +1,25 @@
 ---
-title: Shop three
+title: TommyBag
+titledescription: >-
+  Made-to-order paper and fabric bags with customisation available,  environment
+  friendly soy-ink and non-toxic glue used
+website: 'Website: tommybag.co.id'
+url: 'http://tommybag.co.id/'
+phone: 'Phone Number: 0216910352/ 53'
+image: 'https://ucarecdn.com/14f98610-a4d3-455c-9c08-79a07f10ac56/'
 number: 3
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
+banner: 'https://ucarecdn.com/9f00fdc2-3bf9-4b7e-be3e-007f942c3971/'
 ---
+**What TommyBag says ...**
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+" Tommybag, a private company founded by Mr. Tommy Widjaja in 1998, proven successful in forecasting, the market demands of a reliable supplier to sustain the growth of retail industry. He visualize that the growth of retailer industry will be enormous, thus their needs of packaging.
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+Realizing that every brand mirror an individuality that will reflect instantly on their packaging appearances; Different in concept, art style, and functionality will lead into different size, custom paper color, and usability. He understands that the essence to succeed in this business lays out thumb rules, which were Quality of the product, Delivery on schedule and Competitive Price which has always been our philosophy all these passing years.
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
+Tommybag was one of the pioneer paper bag manufacturer bases in Jakarta. We have bought many leading innovative ideas to the market. The usage of Non-Toxic glue and a Soy-Ink have proven to be more environmentally friendly, provide more accurate colors and make it easier to recycle paper. Today, Tommybag is now regarded as one of the leading packaging manufacturer in Indonesia; Consisting of not only Paper bag, but other packaging product as well.
 
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+Advancing on skilled staff, introducing automated machinery and implementing lean management system, are necessary step to lead Tommybag to the next level. As a company whom concerned environmentally, Our primary focus stays on Recyclable material such as Paper, Board and Nonwoven material which include Paper bag, Paper box, Greaseproof bag, and Nonwoven bag. Our Printing has been proven to deliver top notch quality; our product proves more functionality (durable) and our waste proven to be more environmental friendly.
+
+We hope that we could bridge designer’s idea to strive their desire fulfilling market demands. "
+
+![Tommybag](https://ucarecdn.com/e1e6231d-972f-4424-a4a4-c0a32b8b02eb/ "Tommybag")
