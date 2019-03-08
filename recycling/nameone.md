@@ -1,23 +1,24 @@
 ---
-title: Sayurbox
-titledescription: >-
-  Online organic and hydroponic grocery (veg box) delivery service, minimal
-  plastic packaging
-website: 'Website: www.sayurbox.com'
-url: 'https://www.sayurbox.com/'
-phone: 'Phone Number: 0819-1954-5454'
-image: 'https://ucarecdn.com/46c2d7d5-0b7c-4052-a625-f9c03c158311/'
-number: 5
-banner: 'https://ucarecdn.com/d6a2910b-7cd4-4dfd-855f-7d7e823bb58e/'
+title: Bank Sampah
+titledescription: ' '
+website: 'Website: Bank Sampah'
+url: 'http://banksampahjakarta.blogspot.com/'
+phone: >-
+  The Main Head Office: Dinas Lingkungan Hidup Provinsi DKI Jakarta Jalan
+  Mandala V No.67, Cililitan, Kramat Jati, Jakarta Timur. <br /> Phone: (021)
+  8092744 <br /> Email:  dinaslh@jakarta.go.id
+image: 'https://ucarecdn.com/a263040f-b2fb-4501-954c-33c3f0431c22/'
+number: 1
+banner: 'https://ucarecdn.com/d7a4c5a4-0a56-4d88-bc75-f2f2db226a2d/'
 ---
-**Sayurbox says....**
+**(source: wikipedia)**
 
+ is a waste management program initiated and developed by the Ministry of Environment and Forestry (KLHK). There are approximately 5,244 waste bank units spread in 34 provinces and 219 regencies/ cities in Indonesia.
 
-"We want people to be getting good quality pesticide-free vegetables through farm-to-table concept. We want you to know exactly who is growing your food by having the farmers profile on each item and farmers page. You’re welcome to visit the farms and see the love they put into growing your food. Slowly but sure, by cutting the complex supply chain and food system, we hope to improve the welfare of farmers by giving them the returns they deserve for their hard work.
+All the waste bank units are supported by the government but mainly run by the community/ individuals, who must be legally approved and registered with the Bank Sampah at Kelurahan (sub-district) level. Bank Sampah is a collective synergy of government, community, Yayasan LSM (Lembaga Swadaya Masyarakat) and manufacturers like Unilever & Danone, who are responsible for their own packaging wastes.
 
-![Sayurbox](https://ucarecdn.com/76f692a7-edfe-44b2-8c15-39d971acfbab/ "Sayurbox")
+It is quite similar to a bank, where an individual/ residence can open their account at the local bank sampah unit and get a savings book. Every time the individual/ housing complex gives the sorted inorganic waste, the weight and value of the trash gets recorded in the savings book. You can get the permission from your building management for the scheduled pick ups or drop off your trash at the local waste bank unit. The collected trash will be transported to various factories for recycling process. 
 
-**Our Going Green in Jakarta community members say...**
+Please check our document, for more information on types of waste they accept, area wise contact list etc.
 
-
-"When you order online, make sure you state in the comments box that you don't want plastic packaging. They should use paper instead, although this is not 100% reliable"
+![Bank Sampah (Waste Banks)](https://ucarecdn.com/cca5d96e-d69e-41d9-8b1d-b0a78d350625/ "Bank Sampah (Waste Banks)")
