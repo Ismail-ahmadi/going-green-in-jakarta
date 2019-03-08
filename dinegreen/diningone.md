@@ -1,16 +1,18 @@
 ---
-title: Company One
+title: 'SNCTRY '
+website: 'Website: www.snctry.com'
+url: 'http://www.snctry.com/'
+phone: >-
+  Address: Pelaspas, Jl Darmawangsa Raya No 4, Jakarta-Selatan <br /> Phone:
+  08170760224 <br />Email: snctryjkt@gmail.com
+image: 'https://ucarecdn.com/8c03a8e8-7082-4df2-8077-68dab2e0dbea/'
 number: 1
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
+banner: 'https://ucarecdn.com/a8ed885c-5b0a-4a00-9050-c63539c990a8/'
 ---
+“SNCTRY is a celebration of locally produced fresh vegetables, fruits and herbs to bring nourishment and balance for your body from the inside and out. Most of our produce is sourced from our very own organic farm, supporting local community and local farmers. We have built our cafe using a lot of recycled, repurposed products from local sources to maintain a healthy relationship with nature.”
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+Mon - Fri :   7 am - 8 pm
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+Sat - Sun :   8 am - 7 pm
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+![SNCTRY](https://ucarecdn.com/f3fd6cee-b276-4e68-a5ef-6d14440b789a/ "SNCTRY")
