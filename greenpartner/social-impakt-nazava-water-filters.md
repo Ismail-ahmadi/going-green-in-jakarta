@@ -4,7 +4,7 @@ titledescription: affordable water filters for rural Indonesia
 website: 'Website: www.social-impakt.com'
 url: 'http://www.social-impakt.com/'
 phone: 'Phone Number: 081236772842'
-image: 'https://ucarecdn.com/740de245-16c0-4e3a-80fc-7eba8a5d9f71/'
+image: 'https://ucarecdn.com/4dd8b0d9-08f4-4c2d-ab7e-98ca764f49ca/'
 number: 6
 banner: 'https://ucarecdn.com/caa6bf54-b053-4efc-bea9-5494fed0d5a0/'
 ---
