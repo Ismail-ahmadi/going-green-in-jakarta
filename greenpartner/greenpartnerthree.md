@@ -5,7 +5,7 @@ titledescription: >-
   life
 website: 'Website: www.kotatanpasampah.id'
 url: 'http://www.kotatanpasampah.id/'
-image: 'https://ucarecdn.com/ed0014ff-7e55-46c6-8398-fb03a24d1141/'
+image: 'https://ucarecdn.com/4f0de4c0-7463-40a7-91dd-b7e33122f24f/'
 number: 3
 banner: 'https://ucarecdn.com/8ee3c76c-a241-4896-ae74-068954f4142c/'
 ---
