@@ -6,7 +6,7 @@ url: 'http://www.social-impakt.com/'
 phone: 'Phone Number: 081236772842'
 image: 'https://ucarecdn.com/4dd8b0d9-08f4-4c2d-ab7e-98ca764f49ca/'
 number: 6
-banner: 'https://ucarecdn.com/caa6bf54-b053-4efc-bea9-5494fed0d5a0/'
+banner: 'https://ucarecdn.com/3da38410-bf9f-4772-86a2-30d145459f15/'
 ---
 **What Social Impakt - Nazava water filters Impact says ...**
 
