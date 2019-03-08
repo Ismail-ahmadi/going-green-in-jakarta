@@ -9,7 +9,7 @@ url: 'https://www.avanieco.com/'
 phone: >-
   Phone Number: <br />Jakarta office - 02130485599 <br /> Bali office -
   0213619065555
-image: 'https://ucarecdn.com/9d0f3059-b8e8-4c9a-ab42-ca7cf14de27a/'
+image: 'https://ucarecdn.com/df910f78-51d7-424c-96ed-aeb66fbb50c3/'
 number: 2
 banner: 'https://ucarecdn.com/a85073cb-2b99-4766-9b23-79d8036711ad/'
 ---
