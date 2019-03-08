@@ -4,7 +4,7 @@ website: 'Website : KDM (Kampus Diakoneia Modern)'
 url: 'https://www.kdm.or.id/'
 phone: >-
   Address: Jalan Rawa Dolar no.29, Kampung Raden, Kel. Jatirangon, Kec.
-  Jatisampurna Pondok Gede, Bekasi. <br /> Phone: 021-8443545 < br/> ArNando P.
+  Jatisampurna Pondok Gede, Bekasi. <br /> Phone: 021-8443545  <br /> ArNando P.
   Wibowo (PIC for The Green Project): 081384111715 <br />Email:
   arnandopriowibowo@gmail.com
 image: 'https://ucarecdn.com/c4d54f00-97c9-4b2e-891c-a8197be00639/'
