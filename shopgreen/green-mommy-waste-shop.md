@@ -7,7 +7,7 @@ website: 'Website: greenmommyshop.com'
 url: 'http://greenmommyshop.com/'
 phone: 'Phone Number: +65 341 414170, (SMS) 085755933334, (WA) 081235532008'
 image: 'https://ucarecdn.com/02cb2f2e-e1e9-4a05-9b66-dc1e7cd727d0/'
-number: 7
+number: 6
 banner: 'https://ucarecdn.com/18d54ce0-e74c-4bd4-bcee-6f7176b663e2/'
 ---
 **What Green mommy waste shop says ...**
