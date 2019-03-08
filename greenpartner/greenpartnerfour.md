@@ -4,7 +4,7 @@ titledescription: Facebook group organizing workshops on zero waste living
 website: 'Website: www.navakara.com'
 url: 'http://www.navakara.com/'
 phone: 'Phone Number: (Maureen) 081287400760'
-image: 'https://ucarecdn.com/1a04a4d8-4992-4273-a6b8-7de903b09332/'
+image: 'https://ucarecdn.com/4434f3a6-77c8-4573-91b2-6ae2cff27789/'
 number: 4
 banner: 'https://ucarecdn.com/74e34c26-9178-404f-bc48-135451cffe3d/'
 ---
