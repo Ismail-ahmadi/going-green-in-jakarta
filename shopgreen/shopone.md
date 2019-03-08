@@ -6,7 +6,7 @@ titledescription: >-
 website: 'Website: www.mata-cinta.com'
 url: 'http://www.mata-cinta.com/rev1/'
 phone: 'Phone Number: 0811161186 (Pak Wido)'
-image: 'https://ucarecdn.com/4f26d53c-417b-4394-979e-072eead8a5c6/'
+image: 'https://ucarecdn.com/d0b9210d-a1d4-42ad-8339-483024f12966/'
 number: 1
 banner: 'https://ucarecdn.com/1e2360c8-d34e-4209-b46f-fa8816c92969/'
 ---
