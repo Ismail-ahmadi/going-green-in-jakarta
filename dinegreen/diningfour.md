@@ -1,16 +1,15 @@
 ---
-title: Company four
+title: Dharma Kitchen
+website: 'Webiste: www.dharmakitchen.com'
+url: www.dharmakitchen.com
+phone: order@dharmakitchen.com
+image: 'https://ucarecdn.com/076a5f60-912b-4a9d-a098-c06180e87c6b/'
 number: 4
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
+banner: 'https://ucarecdn.com/c9a3ef5a-4e88-4326-8e59-4ae44674dee1/'
 ---
+**Jakarta Post says…**  “Having been around for more than 20 years, Dharma Kitchen is one of the longest-serving vegetarian restaurants in Jakarta. The outlets are currently located in Central Park shopping mall in West Jakarta and Pluit, North Jakarta. Here, you can find Asian, Indonesian and Western dishes, such as simulated roast duck, rendang and chicken burger. For the dishes, Dharma Kitchen uses meat substitutes made of mushroom or soy. Almost 90 percent of the menu is vegan-friendly, as the eatery rarely uses honey, milk or eggs.
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+**Where:** Jl Pluit Kencana Raya No. 106-110\
+**Opening hours:** 10 a.m. to 10 p.m. (mut)
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
-
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+![Dharma Kitchen](https://ucarecdn.com/2f09e23c-c661-4f16-861d-871bde0ed466/ "Dharma Kitchen")
