@@ -7,7 +7,7 @@ phone: >-
   The Main Head Office: Dinas Lingkungan Hidup Provinsi DKI Jakarta Jalan
   Mandala V No.67, Cililitan, Kramat Jati, Jakarta Timur. <br /> Phone: (021)
   8092744 <br /> Email:  dinaslh@jakarta.go.id
-image: 'https://ucarecdn.com/a263040f-b2fb-4501-954c-33c3f0431c22/'
+image: 'https://ucarecdn.com/cb1c9680-2b84-4165-b7eb-d0b0f523b46d/'
 number: 1
 banner: 'https://ucarecdn.com/d7a4c5a4-0a56-4d88-bc75-f2f2db226a2d/'
 ---
