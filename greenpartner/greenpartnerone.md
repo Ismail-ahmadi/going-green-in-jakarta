@@ -8,7 +8,7 @@ titledescription: >-
 website: 'Website: www.indonesianwaste.org'
 url: 'http://www.indonesianwaste.org/id/beranda/'
 phone: 'E-mail: write2cverburg@gmail.com'
-image: 'https://ucarecdn.com/dd4a6cfc-b23f-4097-a2ee-9a8be30e8ff5/'
+image: 'https://ucarecdn.com/f322a56c-5e84-41fd-9aec-268163bb53aa/'
 number: 1
 banner: 'https://ucarecdn.com/b380555a-5e95-44ad-8418-4964bb2017aa/'
 ---
