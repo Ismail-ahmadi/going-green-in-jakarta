@@ -6,7 +6,7 @@ phone: >-
   Address: Yayasan KDM <br /> Jalan Rawa Dolar no.29, Kampung Raden, Kel.
   Jatirangon, Kec. Jatisampurna Pondok Gede, Bekasi. <br /> Contact: Yoki (The
   Manager of Ffrash) – 085718581000
-image: 'https://ucarecdn.com/6bff55ca-7006-42de-a25a-be57d8b2a640/'
+image: 'https://ucarecdn.com/739a5f21-1330-4f51-a9a5-56ad0f7cfb7b/'
 number: 4
 banner: 'https://ucarecdn.com/170ce94f-af65-4883-bc95-9e1d30ed8ad0/'
 ---
