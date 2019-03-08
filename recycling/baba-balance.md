@@ -3,7 +3,7 @@ title: Baba Balance
 titledescription: Upcycled plastic made into knick knacks
 website: ''
 phone: 'Phone Number: 081321267706'
-image: 'https://ucarecdn.com/4d338b00-0081-4cd9-9ac4-70d83dda0b95/'
+image: 'https://ucarecdn.com/b4a355d8-f218-486c-a886-9d5fafa412e8/'
 number: 8
 banner: 'https://ucarecdn.com/461f6c07-b6a2-4672-ae3d-0c44a4251dcf/'
 ---
