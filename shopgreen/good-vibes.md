@@ -4,7 +4,7 @@ titledescription: Organic sensorial skincare brand
 website: 'Website: www.goodvibesorganic.com'
 url: 'http://www.goodvibesorganic.com/'
 phone: 'Phone Number: 08175207525'
-image: 'https://ucarecdn.com/0a2be8f9-9e53-430a-9482-372b3f017fda/'
+image: 'https://ucarecdn.com/e414798c-451f-4c2b-963b-7bb6af13f6e2/'
 number: 7
 banner: 'https://ucarecdn.com/7c79316d-e9ac-403e-a0e8-ed49aedf0d29/'
 ---
