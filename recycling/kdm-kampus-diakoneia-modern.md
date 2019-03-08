@@ -7,7 +7,7 @@ phone: >-
   Jatisampurna Pondok Gede, Bekasi. <br /> Phone: 021-8443545  <br /> ArNando P.
   Wibowo (PIC for The Green Project): 081384111715 <br />Email:
   arnandopriowibowo@gmail.com
-image: 'https://ucarecdn.com/c4d54f00-97c9-4b2e-891c-a8197be00639/'
+image: 'https://ucarecdn.com/ca41e992-f458-44f0-a8f2-8b67b9d3040e/'
 number: 3
 banner: 'https://ucarecdn.com/7bef7f49-0fcd-4273-89d6-5f0336efa4d0/'
 ---
