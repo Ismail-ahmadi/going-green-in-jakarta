@@ -2,6 +2,7 @@
 title: Bogor Event
 date: 2018-12-25T10:36:44.938Z
 location: Bogor
+number: 3
 image: 'https://ucarecdn.com/94cbb41a-1277-4b65-aaf7-da7beb76d2dd/'
 ---
 

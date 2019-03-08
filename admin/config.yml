@@ -239,6 +239,7 @@ collections:
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Date', name: 'date', widget: 'date'}
+      - {label: 'Number', name: 'number', widget: 'number'}
       - {label: 'Location', name: 'location', widget: 'string'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Image', name: 'image', widget: 'image', }
@@ -253,7 +254,7 @@ collections:
 
   - name: 'eatgreen'
     label: 'eat green'
-    description: 'Add or modify eat green here'
+    description: 'Add or modify eat green here' 
     editor:
       preview: false
     folder: 'eatgreen'
