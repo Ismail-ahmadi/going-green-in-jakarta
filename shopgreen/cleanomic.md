@@ -6,7 +6,7 @@ titledescription: >-
 website: 'Website: www.cleanomic.net'
 url: 'https://www.cleanomic.net/'
 phone: 'E-mail: cleanomic@gmail.com'
-image: 'https://ucarecdn.com/a9f81967-618b-4718-8192-9a2f68950777/'
+image: 'https://ucarecdn.com/74d73e09-45a8-4e7c-aea1-43f924c50a50/'
 number: 5
 banner: 'https://ucarecdn.com/a60120be-3f2f-4609-b658-78a46ebb03d7/'
 ---
