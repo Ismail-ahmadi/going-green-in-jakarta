@@ -4,7 +4,7 @@ titledescription: International green movement with events
 website: 'Website: www.trashhero.org'
 url: 'https://www.trashhero.org/'
 phone: 'Phone Number: 082144826152'
-image: 'https://ucarecdn.com/6b32d262-fee0-445b-824e-cd8436b13b44/'
+image: 'https://ucarecdn.com/ca4a903b-811d-4eef-937d-30c5efe241b8/'
 number: 2
 banner: 'https://ucarecdn.com/462032d3-d157-4a68-8a17-a1d2bb596a9b/'
 ---
