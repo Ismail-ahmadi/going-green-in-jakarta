@@ -4,7 +4,7 @@ titledescription: Upcycled plastic bottles and bags made into useful building bl
 website: 'Website: Ecobricks'
 url: 'https://www.ecobricks.org/tag/indonesia/'
 phone: ''
-image: 'https://ucarecdn.com/667eefed-a6a8-4615-b07a-c871b6d1d1f9/'
+image: 'https://ucarecdn.com/91f55d45-155d-4b86-9783-83039cd1e284/'
 number: 9
 banner: 'https://ucarecdn.com/75e6b539-9f77-44ba-85d1-594aa670d1e4/'
 ---
