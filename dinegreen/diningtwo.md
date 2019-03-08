@@ -1,16 +1,20 @@
 ---
-title: Company two
+title: BlueZone
+titledescription: >-
+  a healthy lifestyle hub serving vegetarian and vegan meals, salad
+  bar-slash-restaurant, kombucha bar, grocery store
+image: 'https://ucarecdn.com/04cb4230-b0d2-488c-a85f-80e976a0aabd/'
 number: 2
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
+banner: 'https://ucarecdn.com/1cfc4079-5458-41f5-b6d3-38dbe5331b84/'
 ---
+**What Jakarta Post says ...** 
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+“The founder Jason Tanu was inspired by a National Geographic report on the Blue Zone, five areas in the world where people live longer and healthier. “I want Jakarta to be the next Blue Zone,” Jason told The Jakarta Post.
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+“In the eatery, veg heads can try salad with various homemade dressings, such as spicy chipotle, tom yum and spicy adobo. Also highlighted in the menu are bibimbap (Korean mixed rice), vegetarian rendang and acai bowls. And according to Jason, the restaurant also offers a vegan-friendly menu. 
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
+**Where:** Jl Gunawarman No. 51, South Jakarta
 
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+**Opening hours:** Monday to Thursday: 9 a.m. to 9 p.m., Friday 9 a.m. to 6 p.m., Saturday 6 p.m. to 10 p.m. and Sunday 7 a.m. to 9 p.m.
+
+![Bluezone](https://ucarecdn.com/a2b696dd-c3b5-4cc4-b3a3-ad3ed9c4e37a/ "Bluezone")
