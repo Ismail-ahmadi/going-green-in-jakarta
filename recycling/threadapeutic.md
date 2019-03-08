@@ -6,7 +6,7 @@ url: 'https://www.threadapeutic.com/'
 phone: >-
   Address: Jl. Palmerah Utara No.28, Palmerah, Jakarta Barat. <br /> Phone:
   0821-1185-5912 <br /> Email: threadapeutic@gmail.com
-image: 'https://ucarecdn.com/a98a61ce-1ac7-4895-866e-9dff63733b6a/'
+image: 'https://ucarecdn.com/70df59c7-ba96-481d-b79a-c990784c3986/'
 number: 5
 banner: 'https://ucarecdn.com/4d2a2998-8d0f-4ac5-8252-df0eb9e5a8c7/'
 ---
