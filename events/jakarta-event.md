@@ -1,9 +1,9 @@
 ---
 title: Jakarta Event
 date: 2018-12-25T10:36:44.938Z
-location: Jakarta
 number: 2
-image: 'https://ucarecdn.com/9e12e307-d979-4a37-be77-97dac119114e/'
+location: Jakarta
+image: 'https://ucarecdn.com/dbe17e26-d5ff-4a5a-b26c-1a7f2ebc0517/'
 ---
 
 Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
