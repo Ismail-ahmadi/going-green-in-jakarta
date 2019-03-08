@@ -1,12 +1,13 @@
 ---
-title: SHOP four
+title: Evoware
+titledescription: 'Eco-friendly, biodegradable and edible packaging made of seaweeds'
+website: 'Website: www.evoware.id'
+url: 'http://www.evoware.id/'
+phone: 'Phone Number: +628118692424'
+image: 'https://ucarecdn.com/ff244428-91e2-4e33-82b6-f0e200484eb2/'
 number: 4
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
+banner: 'https://ucarecdn.com/b06638e6-fef6-4277-ad66-a0d258547e02/'
 ---
-
 Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
 
 The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
@@ -14,3 +15,5 @@ The two states are the largest producers of real Christmas trees in the country,
 In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
 
 The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+
+![Evoware](https://ucarecdn.com/42ea3947-dcfb-4deb-8f68-b2ecaaa72f6a/ "Evoware")
