@@ -1,16 +1,19 @@
 ---
-title: SHOP ONE
+title: Mata-Cinta
+titledescription: >-
+  Compost bins (25kg and 100kg), septik tank microbes, cassava bags,  reusable
+  cotton sanitary pads, steel tumblers, food wraps, glass straws,  handkerchiefs
+website: 'Website: www.mata-cinta.com'
+url: 'http://www.mata-cinta.com/rev1/'
+phone: 'Phone Number: 0811161186 (Pak Wido)'
+image: 'https://ucarecdn.com/4f26d53c-417b-4394-979e-072eead8a5c6/'
 number: 1
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
-image: 'https://ucarecdn.com/e3d510ab-4b8f-495f-ab1f-09cc337bcd46/-/preview/'
+banner: 'https://ucarecdn.com/1e2360c8-d34e-4209-b46f-fa8816c92969/'
 ---
+**What Mata-Cinta says ...**
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+"Compost bins (25kg and 100kg), septik tank microbes, cassava bags, reusable cotton sanitary pads, steel tumblers, food wraps, glass straws, handkerchiefs. "
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+![Mata-Cinta](https://ucarecdn.com/27f61a23-384c-4768-8a30-7066d3d0d51f/ "Mata-Cinta")
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
-
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+Follow us on [facebook](www.facebook.com/matacinta.id/)
