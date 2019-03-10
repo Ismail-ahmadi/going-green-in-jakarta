@@ -1,8 +1,6 @@
 ---
 title: Mata-Cinta
-titledescription: >-
-  Compost bins (25kg and 100kg), septik tank microbes, cassava bags,  reusable
-  cotton sanitary pads, steel tumblers, food wraps, glass straws,  handkerchiefs
+titledescription: ' '
 website: 'Website: www.mata-cinta.com'
 url: 'http://www.mata-cinta.com/rev1/'
 phone: 'Phone Number: 0811161186 (Pak Wido)'
