@@ -1,6 +1,6 @@
 ---
 title: Ffrash
-website: 'Website: https://ffrash.net/'
+website: 'Website: ffrash'
 url: 'https://ffrash.net/'
 phone: >-
   Address: Yayasan KDM <br /> Jalan Rawa Dolar no.29, Kampung Raden, Kel.
