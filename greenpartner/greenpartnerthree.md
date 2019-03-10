@@ -11,4 +11,4 @@ banner: 'https://ucarecdn.com/77a6e4cf-4789-4e81-bab7-42e4a7c357aa/'
 ---
 ![](https://ucarecdn.com/1e1a10ed-eae3-4630-9868-7027ebf7e66b/)
 
-Follow us on [Facebook](https://www.facebook.com/kota-tanpa-sampah) and on Instagram @kotatanpasampah
+Follow us on [Facebook](https://www.facebook.com/kota-tanpa-sampah-1733179220262257/) and on Instagram @kotatanpasampah
