@@ -24,4 +24,4 @@ Trash Hero believes that every one of us can be a Trash Hero. Read more about ou
 
 ![Trash Hero Indonesia](https://ucarecdn.com/8ae70317-f5d7-48bf-b680-50269f07daaf/ "Trash Hero Indonesia")
 
-Follow us on [facebook](www.facebook.com/trashheroindonesia)
+Follow us on [Facebook](https://www.facebook.com/trashheroindonesia)
