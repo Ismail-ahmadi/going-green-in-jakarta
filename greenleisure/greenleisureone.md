@@ -21,6 +21,6 @@ We want to be the Lorax with a bit of market savvy, a place for you to escape, e
 We have a variety of accommodations available for you to choose from, ranging from cuek luxury* teak bungalows, to rice barns with bunk beds that sleep up to four, to traditional campsites, for those who love tents.
 "
 
-![Portibi Farm](https://ucarecdn.com/06f7df9e-5ebc-45ae-9831-4ba12570e14b/ "Portibi Farm")
+![Portibi Farm](https://ucarecdn.com/ccda7e1d-b44b-46fd-a3bc-6129767f8dd4/ "Portibi Farm")
 
 See the full range of activities here: <http://portibi.com/activities/>
