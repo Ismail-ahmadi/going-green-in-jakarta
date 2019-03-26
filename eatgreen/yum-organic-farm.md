@@ -3,8 +3,8 @@ title: Yum Organic Farm
 titledescription: Organic farming for future
 website: 'Website: organicfarmcipanas.yumindonesia.org'
 url: 'https://organicfarmcipanas.yumindonesia.org/'
-contact: 'Cipanas Contact No: 0263 - 514 805'
-email: 'Jakarta Contact No: 021 - 7698505'
+contact: '<br /> Cipanas Contact No: 0263 - 514 805'
+email: '<br /> Jakarta Contact No: 021 - 7698505'
 image: 'https://ucarecdn.com/bf5dcd42-ebb5-44cc-a19f-426db0cbc97d/'
 number: 6
 banner: 'https://ucarecdn.com/6aa62903-fe55-43f9-9ef1-b51f3d054bae/'
