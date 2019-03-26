@@ -18,5 +18,3 @@ banner: 'https://ucarecdn.com/2aaa7bcd-f745-40e7-bf9e-e9ffafc84070/'
 Javara works across agricultural value chains from production to distribution in order to preserve Indonesia’s biodiversity and bring community-based, organic products to broader markets. To date, Javara has created over 600 artisanal products and works with over 50,000 smallholder farmers across Indonesia.
 
 The company intervenes along the supply chains to strengthen supplier’s production capacity, improve workplace safety and market products nationally and internationally, securing premium prices for the farmers and processors. Javara currently holds a portfolio of over 250 organic products that are certified under the EU, US, NOP and JAS standards. "
-
-![Javara Indigenous Indonesia](https://ucarecdn.com/00d8338c-6903-49b6-b25f-13919fd00829/ "Javara Indigenous Indonesia")
