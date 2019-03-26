@@ -1,6 +1,6 @@
 ---
 title: Waste4change
-tags: upcycling
+tags: recycling
 website: 'Website: www.waste4change.com'
 url: 'https://waste4change.com/beta/official/'
 phone: >-
