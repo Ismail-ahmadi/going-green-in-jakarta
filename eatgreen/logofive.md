@@ -6,7 +6,7 @@ titledescription: >-
 website: 'Website: Javara Indigenous Indonesia'
 url: 'https://javara.co.id/'
 address: ''
-contact: 'Contact No: 08119995383; 0217183550'
+contact: '<br /> Contact No: 08119995383; 0217183550'
 image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
 number: 1
 banner: 'https://ucarecdn.com/2aaa7bcd-f745-40e7-bf9e-e9ffafc84070/'
