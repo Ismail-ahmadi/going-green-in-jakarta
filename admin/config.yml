@@ -357,6 +357,7 @@ collections:
     slug: '{{slug}}'
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Tags', name: 'tags', widget: 'select', option: ["recycling" , "upcycling" ]}
       - {label: 'Titledescription', name: 'titledescription', widget: 'string', required: false}
       - {label: 'Website', name: 'website', widget: 'string', required: false}
       - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}

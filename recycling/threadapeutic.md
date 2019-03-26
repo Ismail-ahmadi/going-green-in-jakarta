@@ -1,5 +1,6 @@
 ---
 title: Threadapeutic
+tags: upcycling
 titledescription: Upcycled bags out of left over fabrics.
 website: 'Website: www.threadapeutic.com'
 url: 'https://www.threadapeutic.com/'

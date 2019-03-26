@@ -1,5 +1,6 @@
 ---
 title: Bank Sampah
+tags: recycling
 titledescription: ' '
 website: 'Website: Bank Sampah'
 url: 'http://banksampahjakarta.blogspot.com/'

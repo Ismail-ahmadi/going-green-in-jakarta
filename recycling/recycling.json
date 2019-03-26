@@ -1,5 +1,4 @@
 {
-    "tags": "recycling",
     "layout": "green",
     "permalink": "/recycling/{{ title | slug }}/index.html"
 }

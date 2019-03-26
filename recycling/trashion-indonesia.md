@@ -1,5 +1,6 @@
 ---
 title: Trashion Indonesia
+tags: recycling
 titledescription: Upcycled plastic made into umbrellas and bags
 website: Follow us on facebook
 url: 'https://www.facebook.com/trashion.indonesia'

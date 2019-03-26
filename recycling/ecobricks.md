@@ -1,5 +1,6 @@
 ---
 title: Ecobricks
+tags: recycling
 titledescription: Upcycled plastic bottles and bags made into useful building blocks
 website: 'Website: Ecobricks'
 url: 'https://www.ecobricks.org/tag/indonesia/'

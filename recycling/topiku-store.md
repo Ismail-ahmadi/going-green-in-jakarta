@@ -1,5 +1,6 @@
 ---
 title: Topiku Store
+tags: recycling
 titledescription: upcycled hats
 website: 'Website: Topiku Store'
 url: 'https://store.topiku.co/'
@@ -11,9 +12,11 @@ banner: 'https://ucarecdn.com/143ad818-f816-4dfc-94b9-940f5115a051/'
 
 " We work together with local trash-pickers or pemulung to salvage HDPE plastics from landfills, typically found in buckets.
 
-Once collected, they are shredded, washed, and sun-dried.
+Once collected, they are shredded, washed, and sun-dried.
 
-We then pour the shards into a machine that melts and remolds the sturdy-but-flexible material into brims – fully bendable to fit your head.
+
+We then pour the shards into a machine that melts and remolds the sturdy-but-flexible material into brims – fully bendable to fit your head.
+
 
 The world’s first real bucket hat."
 

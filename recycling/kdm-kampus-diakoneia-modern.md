@@ -1,5 +1,6 @@
 ---
 title: KDM (Kampus Diakoneia Modern)
+tags: recycling
 website: 'Website : KDM (Kampus Diakoneia Modern)'
 url: 'https://www.kdm.or.id/'
 phone: >-
