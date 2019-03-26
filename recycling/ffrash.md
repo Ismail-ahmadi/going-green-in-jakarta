@@ -1,6 +1,6 @@
 ---
 title: Ffrash
-tags: recycling
+tags: upcycling
 website: 'Website: ffrash'
 url: 'https://ffrash.net/'
 phone: >-
