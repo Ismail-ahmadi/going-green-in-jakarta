@@ -14,8 +14,9 @@
               <h1>{{ greenpartner.data.title }}</h1>
               <p><strong>{{ greenpartner.data.titledescription }}</strong></p>
               {{ greenpartner.data.content }} 
-              <p><a href="{{ greenpartner.data.url }}" target="_blank"> {{ greenpartner.data.website }} </a></p>
-              <p> {{ greenpartner.data.phone }} </p>
+              <p><a href="{{ greenpartner.data.url }}" target="_blank"> {{ greenpartner.data.website }} </a> 
+              <a href="{{ greenpartner.data.instagramurl }}" target="_blank"> {{ greenpartner.data.instagram }} </a>
+              {{ greenpartner.data.address }} {{ greenpartner.data.contact }} {{ greenpartner.data.email }} {{ greenpartner.data.extra }} </p>
             </div>
           </div>
           <a href="#" class="closeevent">Close</a>

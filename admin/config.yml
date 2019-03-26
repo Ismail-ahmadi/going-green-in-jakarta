@@ -270,6 +270,7 @@ collections:
       - {label: 'Address', name: 'address', widget: 'string', required: false}
       - {label: 'Contact', name: 'contact', widget: 'string', required: false}
       - {label: 'Email', name: 'email', widget: 'string', required: false}
+      - {label: 'Extra', name: 'extra', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Banner', name: 'banner', widget: 'image' }
@@ -293,6 +294,7 @@ collections:
       - {label: 'Address', name: 'address', widget: 'string', required: false}
       - {label: 'Contact', name: 'contact', widget: 'string', required: false}
       - {label: 'Email', name: 'email', widget: 'string', required: false}
+      - {label: 'Extra', name: 'extra', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Banner', name: 'banner', widget: 'image' }
@@ -316,6 +318,7 @@ collections:
       - {label: 'Address', name: 'address', widget: 'string', required: false}
       - {label: 'Contact', name: 'contact', widget: 'string', required: false}
       - {label: 'Email', name: 'email', widget: 'string', required: false}
+      - {label: 'Extra', name: 'extra', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Banner', name: 'banner', widget: 'image' }
@@ -339,6 +342,7 @@ collections:
       - {label: 'Address', name: 'address', widget: 'string', required: false}
       - {label: 'Contact', name: 'contact', widget: 'string', required: false}
       - {label: 'Email', name: 'email', widget: 'string', required: false}
+      - {label: 'Extra', name: 'extra', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Banner', name: 'banner', widget: 'image' }
@@ -362,6 +366,7 @@ collections:
       - {label: 'Address', name: 'address', widget: 'string', required: false}
       - {label: 'Contact', name: 'contact', widget: 'string', required: false}
       - {label: 'Email', name: 'email', widget: 'string', required: false}
+      - {label: 'Extra', name: 'extra', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Banner', name: 'banner', widget: 'image' }
@@ -386,6 +391,7 @@ collections:
       - {label: 'Address', name: 'address', widget: 'string', required: false}
       - {label: 'Contact', name: 'contact', widget: 'string', required: false}
       - {label: 'Email', name: 'email', widget: 'string', required: false}
+      - {label: 'Extra', name: 'extra', widget: 'string', required: false}
       - {label: 'Image', name: 'image', widget: 'image', }
       - {label: 'Number', name: 'number', widget: 'number', hint:'Please do not use a used number, everytime use a sequence new number}
       - { label: 'Banner', name: 'banner', widget: 'image' }
