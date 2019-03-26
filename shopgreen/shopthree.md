@@ -3,10 +3,10 @@ title: TommyBag
 titledescription: >-
   Made-to-order paper and fabric bags with customisation available,  environment
   friendly soy-ink and non-toxic glue used
-tags: Kitchenware
+tags:
+  - bags
 website: 'Website: tommybag.co.id'
 url: 'http://tommybag.co.id/'
-phone: 'Phone Number: 0216910352/ 53'
 image: 'https://ucarecdn.com/d78a5879-e7b1-457b-97d1-48ca16cfacf4/'
 number: 3
 banner: 'https://ucarecdn.com/9f00fdc2-3bf9-4b7e-be3e-007f942c3971/'
