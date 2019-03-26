@@ -5,8 +5,8 @@ titledescription: >-
   fruits, eggs, reusable straws
 website: 'Website: Greenvalleys'
 url: 'https://greenvalleysjakarta.com/'
-contact: 'Contact No: 081317736922'
-email: 'E-mail address: greenvalleysjakarta@outlook.com'
+contact: '<br /> Contact No: 081317736922'
+email: '<br /> E-mail address: greenvalleysjakarta@outlook.com'
 image: 'https://ucarecdn.com/38d31630-0fe8-4056-91d0-3bef0f3b2f02/'
 number: 4
 banner: 'https://ucarecdn.com/d1cfffd0-7cbd-4591-bb98-ff7d7a038c12/'
