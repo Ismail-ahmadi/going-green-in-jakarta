@@ -5,7 +5,6 @@ titledescription: >-
   facilities, birchwood cutleries, Bio-poncho (made of corn, soy and sunflower 
   seeds), Bio-box (made of bagasse)
 tags:
-  - bags
   - Kitchenware
   - composters
 website: 'Website: www.avanieco.com'
