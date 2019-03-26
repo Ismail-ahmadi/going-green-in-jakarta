@@ -5,8 +5,8 @@ titledescription: >-
   and bodycare, in-store dining
 website: 'Website: michelleorganiccorner.com'
 url: 'https://michelleorganiccorner.com/'
-contact: 'Contact No: 021-3143319'
-email: 'WhatsApp: 0812 8831 2229'
+contact: '<br /> Contact No: 021-3143319'
+email: '<br /> WhatsApp: 0812 8831 2229'
 image: 'https://ucarecdn.com/cddd6aa9-c5b1-4110-9d64-dbe17893501f/'
 number: 8
 banner: 'https://ucarecdn.com/7c6f5ee4-5a69-4ce5-ab3c-6b6c06697720/'
