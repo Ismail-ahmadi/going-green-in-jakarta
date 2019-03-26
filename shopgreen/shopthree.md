@@ -4,8 +4,8 @@ titledescription: >-
   Made-to-order paper and fabric bags with customisation available,  environment
   friendly soy-ink and non-toxic glue used
 tags:
-  - bags
   - products
+  - bags
 website: 'Website: tommybag.co.id'
 url: 'http://tommybag.co.id/'
 image: 'https://ucarecdn.com/d78a5879-e7b1-457b-97d1-48ca16cfacf4/'
