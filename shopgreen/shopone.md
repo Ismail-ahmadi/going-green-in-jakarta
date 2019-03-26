@@ -1,6 +1,7 @@
 ---
 title: Mata-Cinta
 titledescription: ' '
+tags: Kitchenware
 website: 'Website: www.mata-cinta.com'
 url: 'http://www.mata-cinta.com/rev1/'
 phone: 'Phone Number: 0811161186 (Pak Wido)'

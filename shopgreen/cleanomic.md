@@ -3,6 +3,7 @@ title: Cleanomic
 titledescription: >-
   steel bottle, bamboo products, all purpose cleaners, stationery,  ecofunopoly
   game for kids
+tags: bags
 website: 'Website: www.cleanomic.net'
 url: 'https://www.cleanomic.net/'
 phone: 'E-mail: cleanomic@gmail.com'

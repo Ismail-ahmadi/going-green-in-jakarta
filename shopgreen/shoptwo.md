@@ -4,6 +4,7 @@ titledescription: >-
   Cassava bags, PLA cutleries compostable only in commercial composting 
   facilities, birchwood cutleries, Bio-poncho (made of corn, soy and sunflower 
   seeds), Bio-box (made of bagasse)
+tags: Kitchenware
 website: 'Website: www.avanieco.com'
 url: 'https://www.avanieco.com/'
 phone: >-

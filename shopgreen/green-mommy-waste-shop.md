@@ -3,6 +3,7 @@ title: Green mommy waste shop
 titledescription: >-
   one stop shop for organic skincare, house care, educational books,  foods,
   kitchen ware etc.
+tags: straws
 website: 'Website: greenmommyshop.com'
 url: 'http://greenmommyshop.com/'
 phone: 'Phone Number: +65 341 414170, (SMS) 085755933334, (WA) 081235532008'

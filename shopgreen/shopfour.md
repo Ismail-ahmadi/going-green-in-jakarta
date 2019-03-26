@@ -1,6 +1,7 @@
 ---
 title: Evoware
 titledescription: 'Eco-friendly, biodegradable and edible packaging made of seaweeds'
+tags: [kitchenware , bags]
 website: 'Website: www.evoware.id'
 url: 'http://www.evoware.id/'
 phone: 'Phone Number: +628118692424'

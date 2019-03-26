@@ -1,6 +1,7 @@
 ---
 title: Good Vibes
 titledescription: Organic sensorial skincare brand
+tags: bags
 website: 'Website: www.goodvibesorganic.com'
 url: 'http://www.goodvibesorganic.com/'
 phone: 'Phone Number: 08175207525'
