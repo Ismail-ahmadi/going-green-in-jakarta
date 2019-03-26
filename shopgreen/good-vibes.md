@@ -2,7 +2,7 @@
 title: Good Vibes
 titledescription: Organic sensorial skincare brand
 tags:
-  - Kitchenware
+  - products
 website: 'Website: www.goodvibesorganic.com'
 url: 'http://www.goodvibesorganic.com/'
 image: 'https://ucarecdn.com/e414798c-451f-4c2b-963b-7bb6af13f6e2/'
