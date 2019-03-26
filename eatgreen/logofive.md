@@ -5,10 +5,10 @@ titledescription: >-
   spreads, honeys, grains, beans, spice, herbs
 website: 'Website: Javara Indigenous Indonesia'
 url: 'https://javara.co.id/'
-phone: 'Phone Number: 08119995383; 0217183550'
+address: ''
+contact: 'Contact No: 08119995383; 0217183550'
 image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
 number: 1
-lightbox: 'https://ucarecdn.com/561b3e3d-ad98-46bd-a034-18464cd8ed08/'
 banner: 'https://ucarecdn.com/2aaa7bcd-f745-40e7-bf9e-e9ffafc84070/'
 ---
 **What Javara says ...**
