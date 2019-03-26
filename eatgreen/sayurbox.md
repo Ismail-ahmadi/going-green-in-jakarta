@@ -5,7 +5,7 @@ titledescription: >-
   plastic packaging
 website: 'Website: www.sayurbox.com'
 url: 'https://www.sayurbox.com/'
-contact: 'Contact No: 0819-1954-5454'
+contact: '<br /> Contact No: 0819-1954-5454'
 image: 'https://ucarecdn.com/46c2d7d5-0b7c-4052-a625-f9c03c158311/'
 number: 5
 banner: 'https://ucarecdn.com/12a3d38b-97ee-48c3-b92b-6113fc9b43ab/'
