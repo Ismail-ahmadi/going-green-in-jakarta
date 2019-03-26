@@ -412,6 +412,7 @@ collections:
             widget: 'object'
             fields:
               - { label: 'Facebook Page', name: 'facebook', widget: 'string', required: false }
+              - { label: 'petition', name: 'petition', widget: 'string', required: false }
               - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
               - { label: 'Instagram', name: 'instagram', widget: 'string', required: false }
           - label: 'Analytics'
