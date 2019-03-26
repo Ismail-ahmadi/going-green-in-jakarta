@@ -4,8 +4,6 @@ titledescription: >-
   The cassava reduces plastic usage and allows our  bags to biodegrade in under
   five years
 tags:
-  - Kitchenware
-  - wraps
   - bags
 image: 'https://ucarecdn.com/4355b235-b4e5-4cdf-9004-153409372adf/'
 number: 8
