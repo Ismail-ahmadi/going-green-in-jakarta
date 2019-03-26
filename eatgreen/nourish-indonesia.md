@@ -3,8 +3,8 @@ title: Nourish Indonesia
 titledescription: '  '
 website: 'Website: www.nourishindonesia.com'
 url: www.nourishindonesia.com
-contact: 'Contact No: 0856-9338-2448'
-email: 'E-mail address: admin@nourishindonesia.com'
+contact: '<br /> Contact No: 0856-9338-2448'
+email: '<br /> E-mail address: admin@nourishindonesia.com'
 image: 'https://ucarecdn.com/f3415336-e8b8-40fc-856c-c7be3fff0eb4/'
 number: 11
 banner: 'https://ucarecdn.com/928353fd-2f3f-4ad6-8690-20a7653876b0/'
