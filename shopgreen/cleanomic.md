@@ -4,7 +4,8 @@ titledescription: >-
   steel bottle, bamboo products, all purpose cleaners, stationery,  ecofunopoly
   game for kids
 tags:
-  - Kitchenware
+  - kitchenware
+  - products
 website: 'Website: www.cleanomic.net'
 url: 'https://www.cleanomic.net/'
 image: 'https://ucarecdn.com/74d73e09-45a8-4e7c-aea1-43f924c50a50/'
