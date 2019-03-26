@@ -2,7 +2,6 @@
 title: Evoware
 titledescription: 'Eco-friendly, biodegradable and edible packaging made of seaweeds'
 tags:
-  - bags
   - Kitchenware
 website: 'Website: www.evoware.id'
 url: 'http://www.evoware.id/'
