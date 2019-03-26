@@ -1,7 +1,7 @@
 <br />
 <p class="greentitle green" > all products</p>
 <div class="greengrid">
-  {% for shopgreen in collections.all %} 
+  {% for shopgreen in collections.products %} 
       <div class="greengrid__box">
         <a href="#{{ shopgreen.data.number }}" >
         <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
