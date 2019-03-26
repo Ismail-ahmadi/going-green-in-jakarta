@@ -4,12 +4,11 @@ titledescription: >-
   Cassava bags, PLA cutleries compostable only in commercial composting 
   facilities, birchwood cutleries, Bio-poncho (made of corn, soy and sunflower 
   seeds), Bio-box (made of bagasse)
-tags: Kitchenware
+tags:
+  - Kitchenware
+  - straws
 website: 'Website: www.avanieco.com'
 url: 'https://www.avanieco.com/'
-phone: >-
-  Phone Number: <br />Jakarta office - 02130485599 <br /> Bali office -
-  0213619065555
 image: 'https://ucarecdn.com/df910f78-51d7-424c-96ed-aeb66fbb50c3/'
 number: 2
 banner: 'https://ucarecdn.com/a85073cb-2b99-4766-9b23-79d8036711ad/'
