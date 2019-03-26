@@ -3,6 +3,7 @@ title: Mata-Cinta
 titledescription: ' '
 tags:
   - composters
+  - products
 website: 'Website: www.mata-cinta.com'
 url: 'http://www.mata-cinta.com/rev1/'
 image: 'https://ucarecdn.com/d0b9210d-a1d4-42ad-8339-483024f12966/'
