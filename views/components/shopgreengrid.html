@@ -1,174 +1,216 @@
-<br />
-<p class="greentitle green" > all products</p>
-<div class="greengrid">
-  {% for shopgreen in collections.products %} 
-      <div class="greengrid__box">
-        <a href="#{{ shopgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
-        </div>
-        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
-        </a>
-      </div>
-      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
-          <div class="lightboxeventtext"> 
-            <div class="lightboxeventtext__newdirection">
-              <h1>{{ shopgreen.data.title }}</h1>
-              <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
-              {{ shopgreen.data.content }} 
-              <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
-              <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
-              {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+{% comment %} All Products Section in here {% endcomment %}
+<div class="accordionshop">
+    <div class="accordionshop__item">
+        <input type="checkbox" checked>
+        {% Icon 'plus' %}
+        <h5><p class="greentitle green" > All Products</p> </h5>
+        <section>
+            <div class="greengrid">      
+                {% for shopgreen in collections.products %}          
+                <div class="greengrid__box">
+                <a href="#{{ shopgreen.data.number }}" >
+                <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+                </div>
+                <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+                </a>
             </div>
-          </div>
-          <a href="#" class="closeevent">Close</a>
-          
-      </div>
-   {% endfor %}
-</div> 
-
-<br /><br />
-<p class="greentitle green" > Cassava bags & Cloth bags</p>
-<div class="greengrid">
-  {% for shopgreen in collections.bags %} 
-      <div class="greengrid__box">
-        <a href="#{{ shopgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
-        </div>
-        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
-        </a>
-      </div>
-      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
-          <div class="lightboxeventtext"> 
-            <div class="lightboxeventtext__newdirection">
-              <h1>{{ shopgreen.data.title }}</h1>
-              <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
-              {{ shopgreen.data.content }} 
-              <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
-              <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
-              {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
-            </div>
-          </div>
-          <a href="#" class="closeevent">Close</a>
-          
-      </div>
-   {% endfor %}
-</div> 
-
-<br /><br />
-<p class="greentitle green" > Straws </p>
-<div class="greengrid">
-  {% for shopgreen in collections.straws %} 
-     <div class="greengrid__box">
-        <a href="#{{ shopgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
-        </div>
-        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
-        </a>
-      </div>
-      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
-          <div class="lightboxeventtext"> 
-            <div class="lightboxeventtext__newdirection">
-              <h1>{{ shopgreen.data.title }}</h1>
-              <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
-              {{ shopgreen.data.content }} 
-              <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
-              <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
-              {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
-            </div>
-          </div>
-          <a href="#" class="closeevent">Close</a>
-          
-      </div>
-   {% endfor %}
-</div> 
-
-<br /><br />
-<p class="greentitle green" > Kitchenware </p>
-<div class="greengrid">
-  {% for shopgreen in collections.kitchenware %} 
-       <div class="greengrid__box">
-        <a href="#{{ shopgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
-        </div>
-        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
-        </a>
-      </div>
-      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
-          <div class="lightboxeventtext"> 
-            <div class="lightboxeventtext__newdirection">
-              <h1>{{ shopgreen.data.title }}</h1>
-              <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
-              {{ shopgreen.data.content }} 
-              <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
-              <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
-              {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
-            </div>
-          </div>
-          <a href="#" class="closeevent">Close</a>
-          
-      </div>
-   {% endfor %}
-</div> 
-
-<br /><br />
-<p class="greentitle green" > BeesWax Wraps </p>
-<div class="greengrid">
-  {% for shopgreen in collections.wraps %} 
-       <div class="greengrid__box">
-        <a href="#{{ shopgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
-        </div>
-        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
-        </a>
-      </div>
-      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
-          <div class="lightboxeventtext"> 
-            <div class="lightboxeventtext__newdirection">
-              <h1>{{ shopgreen.data.title }}</h1>
-              <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
-              {{ shopgreen.data.content }} 
-              <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
-              <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
-              {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
-            </div>
-          </div>
-          <a href="#" class="closeevent">Close</a>
-          
-      </div>
-   {% endfor %}
-</div> 
-
-<br /><br />
-<p class="greentitle green" > Bio Composters </p>
-<div class="greengrid">
-  {% for shopgreen in collections.composters %} 
-       <div class="greengrid__box">
-        <a href="#{{ shopgreen.data.number }}" >
-        <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
-        </div>
-        <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
-        </a>
-      </div>
-      <div class="lightboxevent" id="{{ shopgreen.data.number }}">
-        <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
-          <div class="lightboxeventtext"> 
-            <div class="lightboxeventtext__newdirection">
-              <h1>{{ shopgreen.data.title }}</h1>
-              <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
-              {{ shopgreen.data.content }} 
-              <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
-              <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
-              {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
-            </div>
-          </div>
-          <a href="#" class="closeevent">Close</a>
-          
-      </div>
-   {% endfor %}
-</div> 
-
+      {% comment %} the Pop-up Section of all product {% endcomment %}
+            <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+                <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+                  <div class="lightboxeventtext"> 
+                    <div class="lightboxeventtext__newdirection">
+                      <h1>{{ shopgreen.data.title }}</h1>
+                      <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+                      {{ shopgreen.data.content }} 
+                      <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+                      <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+                      {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+                    </div>
+                </div>
+                <a href="#" class="closeevent">Close</a>  
+              </div>
+              {% endfor %}
+          </div>  
+        </section>
+    </div>
+</div>
+{% comment %} Cassava bags and cloth Bags in here {% endcomment %}
+<div class="accordionshop">
+    <div class="accordionshop__item">
+        <input type="checkbox" checked>
+        {% Icon 'plus' %}
+        <h5><p class="greentitle green" > Cassava bags & Cloth bags</p></h5>
+        <section>
+{% comment %} main section {% endcomment %}
+            <div class="greengrid">
+              {% for shopgreen in collections.bags %} 
+                  <div class="greengrid__box">
+                    <a href="#{{ shopgreen.data.number }}" >
+                    <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+                    </div>
+                    <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+                    </a>
+                  </div>
+                  <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+                    <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+                      <div class="lightboxeventtext"> 
+                        <div class="lightboxeventtext__newdirection">
+                          <h1>{{ shopgreen.data.title }}</h1>
+                          <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+                          {{ shopgreen.data.content }} 
+                          <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+                          <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+                          {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+                        </div>
+                      </div>
+                      <a href="#" class="closeevent">Close</a>
+                      
+                  </div>
+              {% endfor %}
+            </div> 
+        </section>
+    </div>
+</div>
+{% comment %} Straw Section in here {% endcomment %}
+<div class="accordionshop">
+    <div class="accordionshop__item">
+      <input type="checkbox" checked>
+      {% Icon 'plus' %}
+      <h5><p class="greentitle green" > Straws </p></h5>
+      <section>
+{% comment %} main section  {% endcomment %}
+          <div class="greengrid">
+            {% for shopgreen in collections.straws %} 
+              <div class="greengrid__box">
+                  <a href="#{{ shopgreen.data.number }}" >
+                  <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+                  </div>
+                  <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+                  </a>
+                </div>
+                <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+                  <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+                    <div class="lightboxeventtext"> 
+                      <div class="lightboxeventtext__newdirection">
+                        <h1>{{ shopgreen.data.title }}</h1>
+                        <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+                        {{ shopgreen.data.content }} 
+                        <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+                        <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+                        {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+                      </div>
+                    </div>
+                    <a href="#" class="closeevent">Close</a>                    
+                </div>
+            {% endfor %}
+          </div> 
+      </section>
+    </div>
+</div>
+{% comment %} Kitchenware section in here {% endcomment %}
+<div class="accordionshop">
+    <div class="accordionshop__item">
+      <input type="checkbox" checked>
+      {% Icon 'plus' %}
+      <h5> <p class="greentitle green" > Kitchenware </p> </h5>
+      <section>
+          <div class="greengrid">
+            {% for shopgreen in collections.kitchenware %} 
+                <div class="greengrid__box">
+                  <a href="#{{ shopgreen.data.number }}" >
+                  <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+                  </div>
+                  <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+                  </a>
+                </div>
+                <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+                  <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+                    <div class="lightboxeventtext"> 
+                      <div class="lightboxeventtext__newdirection">
+                        <h1>{{ shopgreen.data.title }}</h1>
+                        <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+                        {{ shopgreen.data.content }} 
+                        <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+                        <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+                        {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+                      </div>
+                    </div>
+                    <a href="#" class="closeevent">Close</a>
+                </div>
+            {% endfor %}
+          </div> 
+      </section>
+    </div>
+</div>
+{% comment %} BeesWax Wraps {% endcomment %}
+<div class="accordionshop">
+    <div class="accordionshop__item">
+      <input type="checkbox" checked>
+      {% Icon 'plus' %}
+      <h5><p class="greentitle green" > BeesWax Wraps </p> </h5>
+      <section>
+{% comment %} main section {% endcomment %}
+          <div class="greengrid">
+            {% for shopgreen in collections.wraps %} 
+                <div class="greengrid__box">
+                  <a href="#{{ shopgreen.data.number }}" >
+                  <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+                  </div>
+                  <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+                  </a>
+                </div>
+                <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+                  <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+                    <div class="lightboxeventtext"> 
+                      <div class="lightboxeventtext__newdirection">
+                        <h1>{{ shopgreen.data.title }}</h1>
+                        <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+                        {{ shopgreen.data.content }} 
+                        <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+                        <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+                        {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+                      </div>
+                    </div>
+                    <a href="#" class="closeevent">Close</a>                    
+                </div>
+            {% endfor %}
+          </div> 
+      </section>
+    </div>
+</div>
+{% comment %} Bio Composters Section in here {% endcomment %}
+<div class="accordionshop">
+    <div class="accordionshop__item">
+      <input type="checkbox" checked>
+      {% Icon 'plus' %}
+      <h5><p class="greentitle green" > Bio Composters </p></h5>
+      <section>
+{% comment %} main section {% endcomment %}
+          <div class="greengrid">
+            {% for shopgreen in collections.composters %} 
+                <div class="greengrid__box">
+                  <a href="#{{ shopgreen.data.number }}" >
+                  <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+                  </div>
+                  <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+                  </a>
+                </div>
+                <div class="lightboxevent" id="{{ shopgreen.data.number }}">
+                  <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+                    <div class="lightboxeventtext"> 
+                      <div class="lightboxeventtext__newdirection">
+                        <h1>{{ shopgreen.data.title }}</h1>
+                        <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+                        {{ shopgreen.data.content }} 
+                        <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+                        <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+                        {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+                      </div>
+                    </div>
+                    <a href="#" class="closeevent">Close</a>
+                </div>
+            {% endfor %}
+          </div> 
+      </section>
+    </div>
+</div>

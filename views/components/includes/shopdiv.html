@@ -1,4 +1,7 @@
-<div class="greengrid__box">
+<p class="greentitle green accordion" > all products</p>
+<div class="greengrid">      
+  {% for shopgreen in collections.products %}          
+      <div class="greengrid__box">
         <a href="#{{ shopgreen.data.number }}" >
         <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
         </div>
@@ -20,3 +23,5 @@
           <a href="#" class="closeevent">Close</a>
           
       </div>
+   {% endfor %}
+</div>
