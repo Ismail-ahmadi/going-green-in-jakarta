@@ -17,5 +17,3 @@ The two states are the largest producers of real Christmas trees in the country,
 In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
 
 The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
-
-![Evoware](https://ucarecdn.com/42ea3947-dcfb-4deb-8f68-b2ecaaa72f6a/ "Evoware")
