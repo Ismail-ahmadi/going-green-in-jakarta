@@ -2,7 +2,7 @@
 title: Mandira’s Garden
 titledescription: An urban organic garden and cafe in Kemang Timur
 instagram: '<br /> Follow us on IG: @mandirasgarden'
-instagramurl: '<br /> https://www.instagram.com/mandirasgarden'
+instagramurl: 'https://www.instagram.com/mandirasgarden'
 address: >-
   <br /> Address: Jl. Kemang Timur No.55, Bangka, Mampang Prapatan, Kota Jakarta
   Selatan.
