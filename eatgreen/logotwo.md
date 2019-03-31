@@ -5,7 +5,8 @@ titledescription: >-
   fruits, eggs, reusable straws
 website: 'Website: Greenvalleys'
 url: 'https://greenvalleysjakarta.com/'
-contact: '<br /> Contact No: 081317736922'
+address: '<br /> Address: RT.7/RW.8, Kemanggisan, Palmerah, West Jakarta City, Jakarta.'
+contact: '<br /> Contact No: 081315015157, 081317736922'
 email: '<br /> E-mail address: greenvalleysjakarta@outlook.com'
 image: 'https://ucarecdn.com/38d31630-0fe8-4056-91d0-3bef0f3b2f02/'
 number: 4
