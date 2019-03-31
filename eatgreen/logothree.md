@@ -3,7 +3,7 @@ title: Toko Organik klub
 titledescription: 'Organic plant-based produce; cooking classes,'
 website: 'Follow us on Facebook: @organiklub'
 url: 'https://www.facebook.com/organiklub'
-instagram: 'Follow us on IG: @organuklub'
+instagram: '<br /> Follow us on IG: @organuklub'
 instagramurl: 'https://www.instagram.com/organiklub'
 address: '<br /> Address: Tebet Barat Raya 49 C, Organik Klub, Jakarta'
 contact: '<br /> Contact No: 081319773192, 08119882267, 021-8296167'
