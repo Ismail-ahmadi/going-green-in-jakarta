@@ -5,6 +5,9 @@ titledescription: >-
   and bodycare, in-store dining
 website: 'Website: michelleorganiccorner.com'
 url: 'https://michelleorganiccorner.com/'
+instagram: '<br /> Follow us on IG: @michelleorganiccorner'
+instagramurl: 'https://www.instagram.com/michelleorganiccorner'
+address: 'Address: Jl. H. Agus Salim No.74, Gondangdia, Menteng, Jakarta Pusat.'
 contact: '<br /> Contact No: 021-3143319'
 email: '<br /> WhatsApp: 0812 8831 2229'
 image: 'https://ucarecdn.com/cddd6aa9-c5b1-4110-9d64-dbe17893501f/'
