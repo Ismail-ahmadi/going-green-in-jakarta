@@ -8,61 +8,122 @@ titlebanner: 'A new, fast growing community in Jakarta'
 white slogan: Get to know us better
 questions:
   - answer: >-
-      1. Planet Natural: Research Center, answers and advice for organic
-      gardeners about composting articles
+      We are a new, fast growing community of individuals who want to do more to
+      reduce plastic, recycle and generally live more environmentally friendly
+      in this city.
 
-      Website: www.planetnatural.com
+      We began as a discussion on the wall of the Jakarta Moms Support Group
+      facebook (FB) page in December 2017 and have quickly evolved into a
+      facebook community (www.facebook.com/groups/GGJakarta) of over 1200 people
+      (Indonesians and expats) dedicated to greener living.
 
-
-      2. Zero Waste Home: Zero waste living blog with tips, Based overseas
-
-
-      Website: zerowastehome.com
-
-
-      3. Keeper of the HOME: Homemade cleaning products
-
-      Website: keeperofthehome.org
-
-
-      4. My PLASTIC Free Life: Eliminating plastic blog, based in California
-
-      Website: myplasticfreelife.com
-
-
-      5. Green-Books.org: Books on Sustainability and eco-education for kids
-
-      Website: www.green-books.org
-    question: 'Online resources: Our list of online resources'
+      There is also an active WhatsApp (WA) group (see below) open to anyone who
+      wants to be more involved in planning or running projects.
+    question: Q1. What is Going Green in Jakarta?
   - answer: >
-      "Back in 2010, I was Vice-President for Europe, Middle-East and Africa for
-      an English corporation, which manufactures yeast and bakery ingredients.
-      Based in Dublin, I was managing 800 employees spread over 9 countries in
-      charge of a 260 million US dollar business, traveling always more.
-
-
-      In 2012, I felt like having a brand new start, giving a new meaning to my
-      life… focused on my humanist values. Like when I was 21 years old. With a
-      friend we founded a humanitarian organization at our Business School. Vent
-      d’Est (East wind) aimed at supporting Romanian people with medical care,
-      books, toys, just after the fall of the Iron curtain. We went to Romania
-      twice.
-
-
-      I realized at that moment how lucky I was and how helping people in need
-      was my duty, my path.
-
-
-      You can have a big impact with very little action. When the Human being is
-      your main point of focus, your main value, you feel alive.
-
-      Jeroen van Overbeek"
-
-
-      Website: www.social-impakt.com
-
-
-      Phone Number: 081236772842
-    question: 'What Social Impakt - Nazava water filtersImpact says ... '
+      Creating a longer term strategy and structure takes time. Since we’re so
+      new, we’ll be starting by focusing on the 3 goals that came top in our FB
+      poll that was run in January 2018.
+       
+           1. Helping more households dispose of waste responsibly by linking them to trash collectors 
+               and organisations who recycle or upcycle.
+           2. Collecting and sharing information about living green in Jakarta (e.g. shops, restaurants, 
+                products, zero-waste lifestyle).
+           3. Using our consumer power to encourage shops and other businesses in Jakarta to use 
+               less plastic, and supporting relevant local campaigns.
+       
+      This will give us some time to figure out more organically how we want to
+      function, how we best work together, etc before we come to any big
+      decisions or start bigger projects that require more clarity on ways of
+      working and where we’re going than we currently have.
+    question: Q2. What are the group’s long term goals and plans?
+  - answer: >-
+      Our Facebook group is already a lively place for hosting discussion and
+      sharing ideas and resources on how to live more green in Jakarta (e.g.
+      composting, cleaning products, recycling, local campaigns, find plastic
+      alternatives etc). It’s also become a space for asking questions on green
+      living and planning meetups. Right now, we’re also developing our first
+      resources on how you can recycle in Jakarta and a matrix of all the
+      recycling/upcycling centres. In the future, we want to find ways to
+      effectively save and categorise information about shopping or buying green
+      in Jakarta, as well as bigger projects or activities such as a website and
+      a campaign to reduce plastic in our supermarkets.
+    question: Q3. What is the group doing right now?
+  - answer: >
+      Anyone in the group can initiate a project on behalf of Going Green in
+      Jakarta so long as (i) it’s broadly in line with the group’s goals (see
+      above) and (ii) other members are given the opportunity to give their
+      input or be involved. Before starting a new group project, please consult
+      one of the group’s coordinators first so that they can advise on any
+      potential duplication and can keep an overview of all the group’s
+      activities.
+       
+      In the interests of keeping this lovely and lively group all moving in the
+      same direction, we have a few volunteers who are taking on coordination
+      responsibilities so we can keep an overview of who’s doing what to avoid
+      duplication, streamline communication and planning, and create some
+      accountability. Right now our coordinators are…
+       
+              Facebook - Vics (admin), Aparna and Erou (moderators)
+              Talks, outreach and local partnerships - Susan (English), Malini (Bahasa Indonesia) and 
+              Erou (English/Indonesian).
+              Online campaigning - Zina
+              Instagram - Savirra
+              Website - Vics, Prachi and Divya
+       
+      These coordinators are responsible for ensuring we have a clear way of
+      working. Coordinators won't be making decisions, more like facilitating
+      the group to make decisions... and won't be doing all the work, more like
+      keeping track of who's doing what and making sure people have the support
+      they need for what they're working on.
+    question: Q4. How is Going Green in Jakarta being coordinated?
+  - answer: >-
+      As a new community that is 100% driven by volunteers we are still finding
+      our feet and our ways of working. As we grow, we aspire to live up to the
+      following working principles. Where we fall short of these principles we
+      will listen to feedback and commit to find ways of doing it better.
+       
+          1.  Open and inclusive - we are a diverse group of people living in Jakarta. We seek to create 
+               a community that is sensitive to cultural differences and where all members are valued 
+               for their passion, ideas and experience.
+           2. Positive and solution-driven - we want to better understand the barriers to going green in 
+               Jakarta but will work together to find solutions and generate new ideas to overcome 
+               challenges.
+           3. Collaborative and value-adding - we want to work together with established local 
+               organisations and bodies who are already working on green issues and add 
+               value/momentum to their work rather than duplicating.
+          4.  Accountable and supportive. We will hold ourselves accountable to what we have 
+               committed to, without putting undue stress or pressure on people who volunteer to take 
+               on responsibilities or projects.
+    question: Q5. What kind of community are we?
+  - answer: >-
+      The WA group is a way for communicating directly and quickly with a
+      smaller team of people to better enable the establishment and development
+      of Going Green in Jakarta. WA Group conversations are currently in English
+      given the international demographic of members. Ask any of the
+      coordinators if you would like to join.
+       
+      The expectations of individuals in the WA Group are to be available for:
+             1. Sharing feedback on ideas, documents etc before they go out to the wider FB community.
+             2. Giving general support for new projects started by Going Green in Jakarta and giving other general support (eg finding venues for meetings). These can also be put on the FB page but the WA is a quicker more direct way of asking for help.
+       
+      In order to keep WA traffic manageable and to make the most of our FB
+      platform, the WA group should not be used for:
+       
+            1. Sharing informational posts (e.g. on products, how to do the 3Rs)
+            2. Asking general questions about anything green in Jakarta
+            3. Where possible, message someone directly if you have a specific question just for them, rather sending it to the whole group.
+       
+      Anyone can be added to the Whatsapp group at anytime if they want to be
+      involved on a day-to-day basis. We aim to make this clear as possible to
+      members of the FB page and at meet ups so we don’t inadvertently exclude
+      anyone who might want to be more active but doesn’t know how. Individuals
+      who sign up to lead or support group projects are encouraged to join the
+      WA group. We also understand that some people may decide to leave the WA
+      group (for example, if they have less time to be active) but stay involved
+      via the FB group.
+    question: >-
+      Q6. What is the Going Green in Jakarta WhatsApp (WA) Group and who can
+      join?
 ---
 
