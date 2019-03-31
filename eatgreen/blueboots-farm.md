@@ -3,6 +3,10 @@ title: Blueboots Farm
 titledescription: 'organic farm located at the foot of Mount Salak in Cijeruk, Bogor'
 website: 'Website: blueboots.farm '
 url: 'https://blueboots.farm/'
+instagram: '<br /> Follow us on IG: @bluebootsfarm'
+instagramurl: 'https://www.instagram.com/bluebootsfarm'
+address: '<br /> Farm Address: Cipelang, Cijeruk, Bogor, West Java'
+email: '<br /> Email: samantha@blueboots.farm'
 image: 'https://ucarecdn.com/291f7c93-9784-4f6d-8d42-24eb423c6ce5/'
 number: 9
 banner: 'https://ucarecdn.com/87f2a6c1-ebae-43c7-befa-83f84ebfaaea/'
