@@ -3,6 +3,11 @@ title: Nourish Indonesia
 titledescription: '  '
 website: 'Website: www.nourishindonesia.com'
 url: www.nourishindonesia.com
+instagram: '<br /> Follow us on IG: @nourish_indonesia'
+instagramurl: 'https://www.instagram.com/nourish_indonesia'
+address: >-
+  <br /> Address: Jl. Batu Ampar 1 No.46, Batu Ampar, Kramatjati, Kota Jakarta
+  Timur, Jakarta.
 contact: '<br /> Contact No: 0856-9338-2448'
 email: '<br /> E-mail address: admin@nourishindonesia.com'
 image: 'https://ucarecdn.com/f3415336-e8b8-40fc-856c-c7be3fff0eb4/'
