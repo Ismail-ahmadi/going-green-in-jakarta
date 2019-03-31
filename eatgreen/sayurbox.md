@@ -5,7 +5,7 @@ titledescription: >-
   plastic packaging
 website: 'Website: www.sayurbox.com'
 url: 'https://www.sayurbox.com/'
-instagram: '<br /> IG: @sayurbox'
+instagram: '<br /> Follow us on IG: @sayurbox'
 instagramurl: 'https://www.instagram.com/sayurbox'
 address: >-
   <br /> Address: WeWork Revenue Tower Scbd, Jl. Jend. Sudirman, Senayan, Kby.
