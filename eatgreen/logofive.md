@@ -5,8 +5,13 @@ titledescription: >-
   spreads, honeys, grains, beans, spice, herbs
 website: 'Website: Javara Indigenous Indonesia'
 url: 'https://javara.co.id/'
-address: ''
+instagram: '<br /> Follow us on IG: @javaraindonesia'
+instagramurl: 'https://www.instagram.com/javaraindonesia'
+address: >-
+  <br /> Address: Graha BS Lantai 1, Jalan Kemang Utara A No. 3, Bangka, Mampang
+  Prapatan, Kota Jakarta Selatan.
 contact: '<br /> Contact No: 08119995383; 0217183550'
+email: '<br /> Email: store@javara.co.id'
 image: 'https://ucarecdn.com/1af8b205-2d22-4c9a-96e7-7c4a1cf4ac7a/'
 number: 1
 banner: 'https://ucarecdn.com/2aaa7bcd-f745-40e7-bf9e-e9ffafc84070/'
