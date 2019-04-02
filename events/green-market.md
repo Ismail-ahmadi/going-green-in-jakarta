@@ -1,15 +1,25 @@
 ---
-title: Jakarta Green Market
-date: 2018-12-25T10:36:44.938Z
-location: Jakarta
+title: 'Talkshow, Workshops and Mini Bazaar'
+date: 2019-04-21T10:36:44.938Z
 number: 1
+location: 'CoHaus, Jalan Tanah Baru I, 15 A, Kebayoran Lama, South Jakarta'
 image: 'https://ucarecdn.com/7377943a-fbf1-48da-8125-18ce97b999ea/'
 ---
+To show our big love for the earth and support the global movement of environmental awareness, CoHaus take part to celebrate Earth Day 2019 this April. We proudly present:
 
-Maine has lobsters. New York has apples. North Carolina and Oregon have … Christmas trees?
+Go Green Weekend 🌱\
+Talkshow, Workshops and Mini Bazaar
 
-The two states are the largest producers of real Christmas trees in the country, according to data from the U.S. Department of Agriculture.
+A day in one space to learn and share about how to live with less waste and be greener. Join and meet like-minded people. Free entrance to mini bazaar (fnb and zero waste product vendors). Register to secure your seat for our Free talkshows by Going Green in Jakarta. To reduce single-use plastic bag, we have cassava bags provided by Telo Bag for shopping. Come and go green with us!
 
-In fact, just six counties in the two states accounted for 51 percent of the more than 16 million trees harvested nationwide in 2012, the most recent year government data is available. In all, North Carolina and Oregon trees constituted 79 percent of that year’s harvest. Industry insiders say the trend hasn't changed.
+FREE Talkshow (Use Less Energy and Produce Less  Waste) with Divya and Erou from Going Green in Jakarta. RSVP: [bit.ly/talkshowGoGreenWeekend](http://bit.ly/talkshowGoGreenWeekend)
 
-The country’s biggest Christmas tree provider is Ashe County, a mountainous region in North Carolina bordering Tennessee and Virginia. Tree farmers in Ashe, population 28,000, harvested nearly 2 million trees in 2012.
+Save your money by registering full package of workshops and win zero waste products giveaway!\
+RSVP Composting Workshop Demo: [bit.ly/compostingworkshop](http://bit.ly/compostingworkshop)\
+RSVP Natural Soap Bar Workshop Demo: [bit.ly/naturalsoapbarworkshop](http://bit.ly/naturalsoapbarworkshop)\
+RSVP Upcycle Plastic: Foldable Tote Bag Workshop: [bit.ly/foldabletotebagworkshop](http://bit.ly/foldabletotebagworkshop)
+
+More info: Whatsapp (+6282242278963)\
+[www.cohaus.co](https://www.cohaus.co/)\
+Ig: [@_cohaus](https://www.instagram.com/_cohaus/)\
+Fb: [CoHaus](https://www.facebook.com/CoHaus)
