@@ -11,6 +11,4 @@ image: 'https://ucarecdn.com/5b7dcf96-9d02-4375-9c12-148cce48c0e8/'
 number: 3
 banner: 'https://ucarecdn.com/4c9e0c71-08d7-47fb-9f61-f366955ddcfb/'
 ---
-**What Toko Organik Klub says ...**
-
-"Organik Klub is Jakarta Pioneer 1Stop ORGANIC SHOP: we sell all kind organic produce :cooking class, appliances, Plantbased Restaurant & Delivery Sevices."
+Organik Klub is Jakarta Pioneer 1Stop ORGANIC SHOP: we sell all kind organic produce :cooking class, appliances, Plantbased Restaurant & Delivery Sevices.
