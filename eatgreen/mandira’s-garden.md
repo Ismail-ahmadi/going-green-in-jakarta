@@ -14,5 +14,3 @@ number: 7
 banner: 'https://ucarecdn.com/50f73284-f97c-4218-9121-c379e7ba0656/'
 ---
 - - -
-
-![Mandira’s Garden](https://ucarecdn.com/3a8ee381-fc57-4fea-a387-78480b436ede/ "Mandira’s Garden")
