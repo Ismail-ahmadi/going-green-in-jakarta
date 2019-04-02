@@ -3,7 +3,7 @@ title: 'Talkshow, Workshops and Mini Bazaar'
 date: 2019-04-21T10:36:44.938Z
 number: 1
 location: 'CoHaus, Jalan Tanah Baru I, 15 A, Kebayoran Lama, South Jakarta'
-image: 'https://ucarecdn.com/7377943a-fbf1-48da-8125-18ce97b999ea/'
+image: 'https://ucarecdn.com/8a9094bf-9c56-495b-bcfe-588de07164be/'
 ---
 To show our big love for the earth and support the global movement of environmental awareness, CoHaus take part to celebrate Earth Day 2019 this April. We proudly present:
 
