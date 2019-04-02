@@ -18,7 +18,7 @@ banner: 'https://ucarecdn.com/12a3d38b-97ee-48c3-b92b-6113fc9b43ab/'
 ---
 **Sayurbox says....**
 
-"We want people to be getting good quality pesticide-free vegetables through farm-to-table concept. We want you to know exactly who is growing your food by having the farmers profile on each item and farmers page. You’re welcome to visit the farms and see the love they put into growing your food. Slowly but sure, by cutting the complex supply chain and food system, we hope to improve the welfare of farmers by giving them the returns they deserve for their hard work.
+"We want people to be getting good quality pesticide-free vegetables through farm-to-table concept. We want you to know exactly who is growing your food by having the farmers profile on each item and farmers page. You’re welcome to visit the farms and see the love they put into growing your food. Slowly but sure, by cutting the complex supply chain and food system, we hope to improve the welfare of farmers by giving them the returns they deserve for their hard work."
 
 **Our Going Green in Jakarta community members say...**
 
