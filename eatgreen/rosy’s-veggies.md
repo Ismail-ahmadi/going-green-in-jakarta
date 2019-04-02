@@ -1,6 +1,6 @@
 ---
 title: Rosy’s Veggies
-titledescription: 'Fruits, veggies, herbs and spices'
+titledescription: ''
 website: 'Website: www.rosysveggies.com'
 url: 'http://www.rosysveggies.com/'
 instagram: '<br /> Follow us on IG: @rosysveggies'
