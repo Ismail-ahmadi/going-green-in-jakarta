@@ -1,5 +1,5 @@
 ---
-title: 'Talkshow, Workshops and Mini Bazaar'
+title: 'Go Green Weekend '
 date: 2019-04-21T10:36:44.938Z
 number: 1
 location: 'CoHaus, Jalan Tanah Baru I, 15 A, Kebayoran Lama, South Jakarta'
@@ -12,7 +12,7 @@ Talkshow, Workshops and Mini Bazaar
 
 📆: Sunday, April 21st 2019\
 🕙: 10.00-17.00\
-📍: CoHaus, Jalan Tanah Baru I, 15 A, Kebayoran Lama, South Jakarta
+📍: [CoHaus, Jalan Tanah Baru I, 15 A, Kebayoran Lama, South Jakarta](https://www.google.com/maps/place/Cohaus/@-6.2136448,106.7822672,17z/data=!3m1!4b1!4m5!3m4!1s0x2e69f757125a02c3:0x6343ad10c989cbe9!8m2!3d-6.2136448!4d106.7844559)
 
 A day in one space to learn and share about how to live with less waste and be greener. Join and meet like-minded people. Free entrance to mini bazaar (fnb and zero waste product vendors). Register to secure your seat for our Free talkshows by Going Green in Jakarta. To reduce single-use plastic bag, we have cassava bags provided by Telo Bag for shopping. Come and go green with us!
 
