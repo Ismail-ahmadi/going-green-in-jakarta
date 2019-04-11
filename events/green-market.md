@@ -2,7 +2,7 @@
 title: 'Earth Day Celebration: Go Green Weekend'
 date: 2019-04-21T10:36:44.938Z
 number: 1
-location: 'CoHaus, Jalan Tanah Baru I, 15 A, Kebayoran Lama, South Jakarta'
+location: 'CoHaus, South Jakarta'
 image: 'https://ucarecdn.com/8a9094bf-9c56-495b-bcfe-588de07164be/'
 gallery:
   - 'https://ucarecdn.com/bd4da79b-7ad0-431c-a63c-16923126c22a~5/nth/0/'
