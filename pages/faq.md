@@ -15,7 +15,7 @@ questions:
 
       We began as a discussion on the wall of the Jakarta Moms Support Group in
       December 2017 and have quickly evolved into a lively facebook community
-      (www.facebook.com/groups/GGJakarta) of over 1200 people (Indonesians and
+      (www.facebook.com/groups/GGJakarta) of over 1400 people (Indonesians and
       expats) dedicated to greener living.
 
 
@@ -24,7 +24,7 @@ questions:
     question: Q1. What is Going Green in Jakarta?
   - answer: >
       Creating a longer term strategy and structure takes time. Since we’re so
-      new, we’ll be starting by focusing on the 3 goals that came top in our FB
+      new, we have started by focusing on the 3 goals that came top in our FB
       poll that was run in January 2018.
        
            1. Helping more households dispose of waste responsibly by linking them to trash collectors 
@@ -44,12 +44,10 @@ questions:
       sharing ideas and resources on how to live more green in Jakarta (e.g.
       composting, cleaning products, recycling, local campaigns, find plastic
       alternatives etc). It’s also become a space for asking questions on green
-      living and planning meetups. Right now, we’re also developing our first
-      resources on how you can recycle in Jakarta and a matrix of all the
-      recycling/upcycling centres. In the future, we want to find ways to
-      effectively save and categorise information about shopping or buying green
-      in Jakarta, as well as bigger projects or activities such as a website and
-      a campaign to reduce plastic in our supermarkets.
+      living and planning meetups. We’ve also developed our first resources on
+      how you can recycle in Jakarta and have launched this website with the
+      Jakarta Green List in April 2019. We have also launched a campaign to
+      reduce plastic packaging in supermarkets on Change.Org.
     question: Q3. What is the group doing right now?
   - answer: >
       Anyone in the group can initiate a project on behalf of Going Green in
@@ -67,7 +65,7 @@ questions:
       accountability. Right now our coordinators are…
        
               Facebook - Vics (admin), Aparna and Erou (moderators)
-              Talks, outreach and local partnerships - Susan (English), Malini (Bahasa Indonesia) and 
+              Talks, outreach and local partnerships - Susan (English), Malini (English, Indonesian) and 
               Erou (English/Indonesian).
               Online campaigning - Zina
               Instagram - Savirra
@@ -103,25 +101,9 @@ questions:
       smaller team of people to better enable the establishment and development
       of Going Green in Jakarta. WA Group conversations are currently in English
       given the international demographic of members. Ask any of the
-      coordinators if you would like to join.
-       
-      The expectations of individuals in the WA Group are to be available for:
-             1. Sharing feedback on ideas, documents etc before they go out to the wider FB community.
-             2. Giving general support for new projects started by Going Green in Jakarta and giving other general support (eg finding venues for meetings). These can also be put on the FB page but the WA is a quicker more direct way of asking for help.
-       
-      In order to keep WA traffic manageable and to make the most of our FB
-      platform, the WA group should not be used for:
-       
-            1. Sharing informational posts (e.g. on products, how to do the 3Rs)
-            2. Asking general questions about anything green in Jakarta
-            3. Where possible, message someone directly if you have a specific question just for them, rather sending it to the whole group.
-       
-      Anyone can be added to the Whatsapp group at anytime if they want to be
-      involved on a day-to-day basis. We aim to make this clear as possible to
-      members of the FB page and at meet ups so we don’t inadvertently exclude
-      anyone who might want to be more active but doesn’t know how. Individuals
-      who sign up to lead or support group projects are encouraged to join the
-      WA group. We also understand that some people may decide to leave the WA
+      coordinators if you would like to join. Anyone can be added to the
+      Whatsapp group at anytime if they want to be involved on a day-to-day
+      basis. We also understand that some people may decide to leave the WA
       group (for example, if they have less time to be active) but stay involved
       via the FB group.
     question: >-
