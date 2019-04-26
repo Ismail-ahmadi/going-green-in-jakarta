@@ -12,13 +12,15 @@ questions:
       reduce plastic, recycle and generally live more environmentally friendly
       in this city.
 
-      We began as a discussion on the wall of the Jakarta Moms Support Group
-      facebook (FB) page in December 2017 and have quickly evolved into a
-      facebook community (www.facebook.com/groups/GGJakarta) of over 1200 people
-      (Indonesians and expats) dedicated to greener living.
 
-      There is also an active WhatsApp (WA) group (see below) open to anyone who
-      wants to be more involved in planning or running projects.
+      We began as a discussion on the wall of the Jakarta Moms Support Group in
+      December 2017 and have quickly evolved into a lively facebook community
+      (www.facebook.com/groups/GGJakarta) of over 1200 people (Indonesians and
+      expats) dedicated to greener living.
+
+
+      There is also an active WhatsApp group open to anyone who wants to be more
+      involved in planning or running projects.
     question: Q1. What is Going Green in Jakarta?
   - answer: >
       Creating a longer term strategy and structure takes time. Since we’re so
