@@ -10,4 +10,4 @@ image: 'https://ucarecdn.com/f75a210e-9a54-41ce-b030-3ef0ffc3f488/'
 number: 16
 banner: 'https://ucarecdn.com/00007176-6de8-420c-839b-a95625ce8573/'
 ---
-TEMA Tea's goal is to be as sustainable and eco-friendly as possible. They are currently use reusable packaging, and are finding ways to be free from any plastic usage by working with exciting partners to develop innovative products.
+TEMA Tea's goal is to be as sustainable and eco-friendly as possible. They use reusable packaging, and are finding ways to be free from any plastic usage by working with exciting partners to develop innovative products.
