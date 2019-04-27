@@ -1,11 +1,12 @@
 ---
-title: Green mommy waste shop
+title: Green Mommy Shop
 titledescription: >-
   one stop shop for organic skincare, house care, educational books,  foods,
   kitchen ware etc.
 tags:
   - products
   - kitchenware
+  - straws
 website: 'Website: greenmommyshop.com'
 url: 'http://greenmommyshop.com/'
 image: 'https://ucarecdn.com/2c9fbaff-990b-4d14-9024-38a564a59a31/'
