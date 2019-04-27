@@ -4,6 +4,7 @@ titledescription: ' '
 tags:
   - products
   - composters
+  - straws
 website: 'Website: www.mata-cinta.com'
 url: 'http://www.mata-cinta.com/rev1/'
 instagram: Follow us on Facebook
