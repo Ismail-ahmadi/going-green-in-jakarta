@@ -50,19 +50,9 @@ questions:
       reduce plastic packaging in supermarkets on Change.Org.
     question: Q3. What is the group doing right now?
   - answer: >
-      Anyone in the group can initiate a project on behalf of Going Green in
-      Jakarta so long as (i) it’s broadly in line with the group’s goals (see
-      above) and (ii) other members are given the opportunity to give their
-      input or be involved. Before starting a new group project, please consult
-      one of the group’s coordinators first so that they can advise on any
-      potential duplication and can keep an overview of all the group’s
-      activities.
-       
       In the interests of keeping this lovely and lively group all moving in the
-      same direction, we have a few volunteers who are taking on coordination
-      responsibilities so we can keep an overview of who’s doing what to avoid
-      duplication, streamline communication and planning, and create some
-      accountability. Right now our coordinators are…
+      same direction, a few volunteers are taking on coordination
+      responsibilities. 
        
               Facebook - Vics (admin), Aparna and Erou (moderators)
               Talks, outreach and local partnerships - Susan (English), Malini (English, Indonesian) and 
@@ -72,29 +62,31 @@ questions:
               Website - Vics, Prachi and Divya
        
       These coordinators are responsible for ensuring we have a clear way of
-      working. Coordinators won't be making decisions, more like facilitating
-      the group to make decisions... and won't be doing all the work, more like
-      keeping track of who's doing what and making sure people have the support
-      they need for what they're working on.
+      working and to help streamline communication. Coordinators won't be making
+      decisions, more like facilitating the group to make decisions... and won't
+      be doing all the work, more like keeping track of who's doing what and
+      making sure people have the support they need for what they're working on.
     question: Q4. How is Going Green in Jakarta being coordinated?
   - answer: >-
       As a new community that is 100% driven by volunteers we are still finding
       our feet and our ways of working. As we grow, we aspire to live up to the
-      following working principles. Where we fall short of these principles we
-      will listen to feedback and commit to find ways of doing it better.
-       
-          1.  Open and inclusive - we are a diverse group of people living in Jakarta. We seek to create 
+      following working principles. 
+          (1)  Open and inclusive - we are a diverse group of people living in Jakarta. We seek to create 
                a community that is sensitive to cultural differences and where all members are valued 
                for their passion, ideas and experience.
-           2. Positive and solution-driven - we want to better understand the barriers to going green in 
+           (2) Positive and solution-driven - we want to better understand the barriers to going green in 
                Jakarta but will work together to find solutions and generate new ideas to overcome 
                challenges.
-           3. Collaborative and value-adding - we want to work together with established local 
+           (3) Collaborative and value-adding - we want to work together with established local 
                organisations and bodies who are already working on green issues and add 
                value/momentum to their work rather than duplicating.
-          4.  Accountable and supportive. We will hold ourselves accountable to what we have 
+          (4)  Accountable and supportive. We will hold ourselves accountable to what we have 
                committed to, without putting undue stress or pressure on people who volunteer to take 
                on responsibilities or projects.
+
+      Where we fall short of these principles we will listen to feedback and
+      commit to find ways of doing it better.
+       
     question: Q5. What kind of community are we?
   - answer: >-
       The WA group is a way for communicating directly and quickly with a
@@ -103,9 +95,7 @@ questions:
       given the international demographic of members. Ask any of the
       coordinators if you would like to join. Anyone can be added to the
       Whatsapp group at anytime if they want to be involved on a day-to-day
-      basis. We also understand that some people may decide to leave the WA
-      group (for example, if they have less time to be active) but stay involved
-      via the FB group.
+      basis. 
     question: >-
       Q6. What is the Going Green in Jakarta WhatsApp (WA) Group and who can
       join?
