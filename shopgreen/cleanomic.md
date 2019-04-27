@@ -6,6 +6,8 @@ titledescription: >-
 tags:
   - kitchenware
   - products
+  - bags
+  - straws
 website: 'Website: www.cleanomic.net'
 url: 'https://www.cleanomic.net/'
 instagram: 'Follow us on Facebook '
