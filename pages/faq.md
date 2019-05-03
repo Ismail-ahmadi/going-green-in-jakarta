@@ -32,7 +32,7 @@ questions:
       trash collectors and oragnisations who recycle or upcylce.
 
       2. Collecting and sharing information about living green in Jakarta (e.g.
-      shops, restuarants, products, zero-waste lifestyle).
+      shops, restaurants, products, zero-waste lifestyle).
 
       3. Using our consumer power to encourage shops and other businesses in
       Jakarta to use less plastic, and supporting relevant campaigns. 
