@@ -1,6 +1,6 @@
 {
   "lang": "id",
-  "tags": "event",
+  "tags": "event-id",
   "layout": "event",
   "permalink": "/id/events/{{ title | slug }}/index.html"
 }
