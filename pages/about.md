@@ -17,10 +17,12 @@ gallery:
 
 ...of over a thousand people making positive changes to our lifestyles to reduce plastic, recycle and generally live more environmentally friendly in this city.
 
-**OUR GOALS**
+**OUR GOALS**
 
 1. Helping more households dispose of waste responsibly by linking them to recyclers or upcyclers.
 2. Collecting and sharing information about living green in Jakarta 
 3. Using our consumer power to encourage shops and other businesses in Jakarta to use less plastic.
 
 Most of our discussions happen on the [facebook](https://www.facebook.com/groups/GGJakarta/) group.
+
+We are excited to present the Jakarta Green List, which is your guide to green products, groceries, restaurants and leisure activities. Products, business, organisations or initiatives profiled are recognised for their efforts to be environmentally responsible. However, we do not guarantee or represent that they are completely environmentally responsible and Going Green in Jakarta assumes no responsibility for the accuracy of their claims.
