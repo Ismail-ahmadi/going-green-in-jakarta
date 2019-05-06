@@ -25,4 +25,6 @@ gallery:
 
 Most of our discussions happen on the [facebook](https://www.facebook.com/groups/GGJakarta/) group.
 
+## The Jakarta Green List
+
 We are excited to present the Jakarta Green List, which is your guide to green products, groceries, restaurants and leisure activities. Products, business, organisations or initiatives profiled are recognised for their efforts to be environmentally responsible. However, we do not guarantee or represent that they are completely environmentally responsible and Going Green in Jakarta assumes no responsibility for the accuracy of their claims.
