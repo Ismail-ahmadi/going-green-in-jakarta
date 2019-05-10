@@ -467,7 +467,7 @@ collections:
             name: 'definition'
             widget: 'object'
             fields:
-              - { label: 'Upcycling', name: 'upcycling', widget: 'msrkdown', }
-              - { label: 'Recycling', name: 'recycling', widget: 'msrkdown', }
-              - { label: 'Composting', name: 'composting', widget: 'msrkdown', }
+              - { label: 'Upcycling', name: 'upcycling', widget: 'markdown', }
+              - { label: 'Recycling', name: 'recycling', widget: 'markdown', }
+              - { label: 'Composting', name: 'composting', widget: 'markdown', }
               
