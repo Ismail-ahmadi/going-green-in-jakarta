@@ -13,14 +13,14 @@ questions:
       in this city.
 
 
-      We began as a discussion on the wall of the Jakarta Moms Support Group in
-      December 2017 and have quickly evolved into a lively facebook community
-      (www.facebook.com/groups/GGJakarta) of over 1400 people (Indonesians and
-      expats) dedicated to greener living.
+      <br />We began as a discussion on the wall of the Jakarta Moms Support
+      Group in December 2017 and have quickly evolved into a lively facebook
+      community (www.facebook.com/groups/GGJakarta) of over 1400 people
+      (Indonesians and expats) dedicated to greener living.
 
 
-      There is also an active WhatsApp group open to anyone who wants to be more
-      involved in planning or running projects.
+      <br />There is also an active WhatsApp group open to anyone who wants to
+      be more involved in planning or running projects.
     question: Q1. What is Going Green in Jakarta?
   - answer: >-
       Creating a longer term strategy and structure takes time. Since we’re so
@@ -28,18 +28,20 @@ questions:
       poll that was run in January 2018.
 
 
-      1. Helping more households dispose of waste responsibly by linking them to
-      trash collectors and oragnisations who recycle or upcylce.
-
-      2. Collecting and sharing information about living green in Jakarta (e.g.
-      shops, restaurants, products, zero-waste lifestyle).
-
-      3. Using our consumer power to encourage shops and other businesses in
-      Jakarta to use less plastic, and supporting relevant campaigns. 
+      <br /> 1. Helping more households dispose of waste responsibly by linking
+      them to trash collectors and oragnisations who recycle or upcylce.
 
 
-      This will give us some time to figure out more organically how we want to
-      function, how we best work together, etc before we come to any big
+      <br /> 2. Collecting and sharing information about living green in Jakarta
+      (e.g. shops, restaurants, products, zero-waste lifestyle).
+
+
+      <br /> 3. Using our consumer power to encourage shops and other businesses
+      in Jakarta to use less plastic, and supporting relevant campaigns. 
+
+
+      <br /> This will give us some time to figure out more organically how we
+      want to function, how we best work together, etc before we come to any big
       decisions or start bigger projects that require more clarity on ways of
       working and where we’re going than we currently have.
     question: Q2. What are the group’s long term goals and plans?
@@ -53,23 +55,32 @@ questions:
       Jakarta Green List in April 2019. We have also launched a campaign to
       reduce plastic packaging in supermarkets on Change.Org.
     question: Q3. What is the group doing right now?
-  - answer: >
+  - answer: >-
       In the interests of keeping this lovely and lively group all moving in the
       same direction, a few volunteers are taking on coordination
       responsibilities. 
-       
-              Facebook - Vics (admin), Aparna and Erou (moderators)
-              Talks, outreach and local partnerships - Susan (English), Malini (English, Indonesian) and 
-              Erou (English/Indonesian).
-              Online campaigning - Zina
-              Instagram - Savirra
-              Website - Vics, Prachi and Divya
-       
-      These coordinators are responsible for ensuring we have a clear way of
-      working and to help streamline communication. Coordinators won't be making
-      decisions, more like facilitating the group to make decisions... and won't
-      be doing all the work, more like keeping track of who's doing what and
-      making sure people have the support they need for what they're working on.
+
+
+      <br /> Facebook - Vics (admin), Aparna and Erou (moderators)\
+
+      <br />Talks, outreach and local partnerships - Susan (English), Malini
+      (English, Indonesian) and\
+
+      <br /> Erou (English/Indonesian).\
+
+      <br /> Online campaigning - Zina\
+
+      <br /> Instagram - Savirra\
+
+      <br /> Website - Vics, Prachi and Divya
+
+
+      <br /> These coordinators are responsible for ensuring we have a clear way
+      of working and to help streamline communication. Coordinators won't be
+      making decisions, more like facilitating the group to make decisions...
+      and won't be doing all the work, more like keeping track of who's doing
+      what and making sure people have the support they need for what they're
+      working on.
     question: Q4. How is Going Green in Jakarta being coordinated?
   - answer: >-
       As a new community that is 100% driven by volunteers we are still finding
