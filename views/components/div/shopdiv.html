@@ -1,0 +1,22 @@
+<div class="greengrid__box">
+  <a href="#{{ shopgreen.data.number }}" >
+  <div class="greengrid__box__item"  style="background-image: url({{ shopgreen.data.image | getImageUrl: 400 }})">
+  </div>
+  <p class="greengrid__box__title">{{ shopgreen.data.title }}</p>
+  </a>
+</div>
+<div class="lightboxevent" id="{{ shopgreen.data.number }}">
+  <div class="lightboxeventimg" style="background-image: url('{{ shopgreen.data.banner }}')"></div>
+    <div class="lightboxeventtext"> 
+      <div class="lightboxeventtext__newdirection">
+        <h1>{{ shopgreen.data.title }}</h1>
+        <p><strong>{{ shopgreen.data.titledescription }}</strong></p>
+        {{ shopgreen.data.content }} 
+        <p><a href="{{ shopgreen.data.url }}" target="_blank"> {{ shopgreen.data.website }} </a> 
+        <a href="{{ shopgreen.data.instagramurl }}" target="_blank"> {{ shopgreen.data.instagram }} </a>
+        {{ shopgreen.data.address }} {{ shopgreen.data.contact }} {{ shopgreen.data.email }} {{ shopgreen.data.extra }}</p>
+      </div>
+    </div>
+    <a href="#" class="closeevent">Close</a>
+    
+</div>
