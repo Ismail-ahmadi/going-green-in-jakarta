@@ -36,14 +36,6 @@ collections:
           - { label: 'Cardimagefive', name: 'cardimagefive', widget: 'image' }
           - { label: 'Cardimagesix', name: 'cardimagesix', widget: 'image' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          - label: 'Gallery'
-            name: 'gallery'
-            widget: 'image'
-            required: false
-            media_library:
-              config:
-                multiple: true
-                previewStep: false
       
       - label: 'About Us'
         name: 'about'
@@ -140,14 +132,6 @@ collections:
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          - label: 'Gallery'
-            name: 'gallery'
-            widget: 'image'
-            required: false
-            media_library:
-              config:
-                multiple: true
-                previewStep: false
 
       - label: 'Green partner'
         name: 'greenpartner'
@@ -161,14 +145,6 @@ collections:
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          - label: 'Gallery'
-            name: 'gallery'
-            widget: 'image'
-            required: false
-            media_library:
-              config:
-                multiple: true
-                previewStep: false
 
       - label: 'Recycling & Composting'
         name: 'recycling'
@@ -185,35 +161,19 @@ collections:
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          - label: 'Gallery'
-            name: 'gallery'
-            widget: 'image'
-            required: false
-            media_library:
-              config:
-                multiple: true
-                previewStep: false
 
       - label: 'Event'
         name: 'event'
         file: 'pages/events.md'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'about' }
+          - { label: 'Title', name: 'title', widget: 'string', required: false }
+          - { label: 'Slug', name: 'slug', widget: 'hidden', default: 'events', required: false }
           - { label: 'Tags', name: 'tags', widget: 'hidden', default: 'nav' }
           - { label: 'Banner', name: 'banner', widget: 'image' }
           - { label: 'Titlebanner', name: 'titlebanner', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Whiteslogan', name: 'whiteslogan', widget: 'string', hint: 'use <br/> to make a new line' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          - label: 'Gallery'
-            name: 'gallery'
-            widget: 'image'
-            required: false
-            media_library:
-              config:
-                multiple: true
-                previewStep: false
-
+      
       - label: 'FAQ'
         name: 'faq'
         file: 'pages/faq.md'
@@ -240,21 +200,13 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Title', name: 'title', widget: 'string', }
       - {label: 'Date', name: 'date', widget: 'date'}
       - {label: 'Number', name: 'number', widget: 'number'}
       - {label: 'Location', name: 'location', widget: 'string'}
       - { label: 'Banner', name: 'banner', widget: 'image' }
       - {label: 'Body', name: 'body', widget: 'markdown'}
       - {label: 'Image', name: 'image', widget: 'image', }
-      - label: 'Gallery'
-        name: 'gallery'
-        widget: 'image'
-        required: false
-        media_library:
-          config:
-            multiple: true
-            previewStep: false
 
   - name: 'eatgreen'
     label: 'eat green'
