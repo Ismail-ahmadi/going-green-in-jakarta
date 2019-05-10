@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: Events
 slug: events
 tags: nav
 banner: >-
