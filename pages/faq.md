@@ -61,16 +61,18 @@ questions:
       responsibilities. 
 
 
-      <br /> Facebook - Vics (admin), Aparna and Erou (moderators)\
+      <br /> Facebook - Vics (admin), Aparna and Erou (moderators)
+
 
       <br />Talks, outreach and local partnerships - Susan (English), Malini
-      (English, Indonesian) and\
+      (English, Indonesian) and Erou (English/Indonesian).
 
-      <br /> Erou (English/Indonesian).\
 
-      <br /> Online campaigning - Zina\
+      <br /> Online campaigning - Zina
 
-      <br /> Instagram - Savirra\
+
+      <br /> Instagram - Savirra
+
 
       <br /> Website - Vics, Prachi and Divya
 
