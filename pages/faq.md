@@ -88,22 +88,33 @@ questions:
       As a new community that is 100% driven by volunteers we are still finding
       our feet and our ways of working. As we grow, we aspire to live up to the
       following working principles. 
+
+
+      <br />
           (1)  Open and inclusive - we are a diverse group of people living in Jakarta. We seek to create 
                a community that is sensitive to cultural differences and where all members are valued 
                for their passion, ideas and experience.
+
+      <br />
            (2) Positive and solution-driven - we want to better understand the barriers to going green in 
                Jakarta but will work together to find solutions and generate new ideas to overcome 
                challenges.
+
+      <br />
            (3) Collaborative and value-adding - we want to work together with established local 
                organisations and bodies who are already working on green issues and add 
                value/momentum to their work rather than duplicating.
+
+      <br />
           (4)  Accountable and supportive. We will hold ourselves accountable to what we have 
                committed to, without putting undue stress or pressure on people who volunteer to take 
                on responsibilities or projects.
 
+      <br />
+
+
       Where we fall short of these principles we will listen to feedback and
       commit to find ways of doing it better.
-       
     question: Q5. What kind of community are we?
   - answer: >-
       The WA group is a way for communicating directly and quickly with a
