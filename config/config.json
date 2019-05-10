@@ -34,5 +34,10 @@
   },
   "form": {
     "name": "Comments"
+  },
+  "definition": {
+    "upcycling": "Hello",
+    "recycling": "how are you?",
+    "composting": "How are you doing?"
   }
 }

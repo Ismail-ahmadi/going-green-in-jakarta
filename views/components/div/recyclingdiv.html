@@ -1,0 +1,20 @@
+<div class="greengrid__box">
+    <a href="#{{ recycling.data.number }}" >
+    <div class="greengrid__box__item"  style="background-image: url({{ recycling.data.image | getImageUrl: 400 }})">
+    </div>
+    <p class="greengrid__box__title">{{ recycling.data.title }}</p>
+    </a>
+  </div>
+  <div class="lightboxevent" id="{{ recycling.data.number }}">
+    <div class="lightboxeventimg" style="background-image: url('{{ recycling.data.banner }}')"></div>
+      <div class="lightboxeventtext">
+        <div class="lightboxeventtext__newdirection">
+          <h1>{{ recycling.data.title }}</h1>
+          <p><strong>{{ recycling.data.titledescription }}</strong></p>
+          {{ recycling.data.content }} 
+          <p><a href="{{ recycling.data.url }}" target="_blank"> {{ recycling.data.website }} </a></p>
+          <p> {{ recycling.data.phone }} </p>
+        </div>
+      </div>
+      <a href="#" class="closeevent">Close</a>
+  </div>
