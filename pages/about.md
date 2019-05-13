@@ -19,9 +19,9 @@ gallery:
 
 **OUR GOALS**
 
-1. Helping more households dispose of waste responsibly by linking them to recyclers or upcyclers.
-2. Collecting and sharing information about living green in Jakarta 
-3. Using our consumer power to encourage shops and other businesses in Jakarta to use less plastic.
+1. Helping more homes to reduce waste and dispose of it responsibly.
+2. Collecting and sharing information about living green in Jakarta. 
+3. Using our consumer power to inform and encourage businesses in Jakarta to use less plastic.
 
 Most of our discussions happen on the [facebook](https://www.facebook.com/groups/GGJakarta/) group.
 
