@@ -2,9 +2,9 @@
 title: Osem
 tags:
   - fashion
-instagram: <br /> @_osem
+instagram: '<br /> IG: @_osem'
 instagramurl: 'https://www.instagram.com/_osem/?hl=en'
-email: <br /> info.osem@gmail.com
+email: '<br /> email: info.osem@gmail.com'
 image: 'https://ucarecdn.com/bdba8b98-d6c6-46d4-bff1-ade149e5c41f/'
 number: 9
 banner: 'https://ucarecdn.com/782f248a-5fb1-4e2d-8126-cc885aa9a38b/'
