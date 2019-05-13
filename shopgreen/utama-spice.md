@@ -2,11 +2,11 @@
 title: Utama Spice
 tags:
   - hygiene
-website: www.utamaspicebali.com
+website: <br /> www.utamaspicebali.com
 address: >-
-  Plaza Senayan Jl. Asia Afrika No.8, Gelora, Tanah Abang, Gelora, Central
-  Jakarta.
-contact: 081139608455
+  <br /> Plaza Senayan Jl. Asia Afrika No.8, Gelora, Tanah Abang, Gelora,
+  Central Jakarta.
+contact: <br /> 081139608455
 image: 'https://ucarecdn.com/c029a665-f399-4d8a-98f0-5603226aa8c9/'
 number: 2
 banner: 'https://ucarecdn.com/67c0dbac-1a2f-4b14-a7a9-b164d804aa4a/'
