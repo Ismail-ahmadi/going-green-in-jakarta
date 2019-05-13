@@ -11,3 +11,5 @@ number: 12
 banner: 'https://ucarecdn.com/0c38c86a-377d-45b1-8789-70f5f4d1937a/'
 ---
 A natural health food store serving health-conscious consumers around Indonesia, supplying wide range of highest quality products from finest brands in the industry, such as dried fruits, beans, pulses, condiments, tea, healthy drinks, cereals, spices etc.
+
+Please note Club Sehat still uses some plastic packaging.
