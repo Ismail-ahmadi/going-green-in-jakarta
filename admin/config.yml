@@ -243,7 +243,7 @@ collections:
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Titledescription', name: 'titledescription', widget: 'string', required: false}
-      - {label: 'Tags', name: 'tags', widget: 'select', multiple: true , options: [ "bags" , "straws"  , "wraps" , "hygiene" , "menstrual" , "cleaning" , "fashion" , "stationery" , "composters" ]}
+      - {label: 'Tags', name: 'tags', widget: 'select', multiple: true , options: [ "nothing" , "bags" , "straws"  , "wrap" , "hygiene" , "menstrual" , "cleaning" , "fashion" , "stationery" , "composters" ]}
       - {label: 'Website', name: 'website', widget: 'string', required: false}
       - {label: 'Url', name: 'url', widget: 'string', hint: 'Start with "http://"', required: false}
       - {label: 'Instagram', name: 'instagram', widget: 'string', required: false}
