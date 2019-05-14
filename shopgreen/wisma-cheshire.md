@@ -11,7 +11,7 @@ instagramurl: 'https://www.instagram.com/wismacheshire/'
 address: '<br /> Address: Jalan Wijaya Kusuma No. 15A Cilandak, South Jakarta. '
 email: '<br /> Shop Manager: contactwisma@gmail.com'
 image: 'https://ucarecdn.com/e2286e05-8ce7-4c30-b9dc-84e150a62101/'
-number: 18
+number: 17
 banner: >-
   https://ucarecdn.com/0138b0fd-1cdf-4b7e-86d8-79f80a781b47/-/crop/640x314/0,0/-/preview/
 ---
