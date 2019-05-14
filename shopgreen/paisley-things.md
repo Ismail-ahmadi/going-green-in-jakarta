@@ -5,6 +5,7 @@ titledescription: >-
   items
 tags:
   - bags
+  - wraps
 instagram: '<br /> IG: @paisleythingsjakarta'
 instagramurl: 'https://www.instagram.com/paisleythingsjakarta/'
 address: '<br /> Address: Jl. Bumi no.31A, Mayestik, Kebayoran Baru, Jakarta.'
