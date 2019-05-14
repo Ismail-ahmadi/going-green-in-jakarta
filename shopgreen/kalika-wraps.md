@@ -2,7 +2,7 @@
 title: Kalika Wraps
 tags:
   - wraps
-website: '<br /> Tokopedia: www.tokopedia.com/kalika-wrap'
+website: 'Tokopedia: www.tokopedia.com/kalika-wrap'
 url: 'https://www.tokopedia.com/kalika-wrap'
 instagram: '<br /> IG: @kalika.wrap'
 instagramurl: 'https://www.instagram.com/kalika.wrap/'
@@ -11,4 +11,4 @@ number: 15
 banner: >-
   https://ucarecdn.com/5a1c4b77-b1a4-4d84-a137-18bd33f0f881/-/crop/700x393/0,72/-/preview/
 ---
-Kalika'products include individually crafted beeswax food wraps which are non-toxic and eco-friendly. These food wraps are made using wild beeswax from the forests in Sumatra & Flores and collected with care by local honey farmers.
+Kalika products include individually crafted beeswax food wraps which are non-toxic and eco-friendly. These food wraps are made using wild beeswax from the forests in Sumatra & Flores and collected with care by local honey farmers.
