@@ -5,7 +5,7 @@
     // background-color: red;
     width: 90%;
     margin: 0 auto;
-    
+
     svg {
       position: absolute;
       top: $h;
@@ -43,13 +43,14 @@
 
   }
 }
+
 .accordionshop {
   &__item {
     position: relative;
     border-bottom: 1px solid $gray-300;
     width: 90%;
     margin: 0 auto;
-    
+
     svg {
       position: absolute;
       top: $h;
@@ -61,7 +62,7 @@
     }
 
     section {
-      max-height: 1000px;
+      height: auto;
       opacity: 1;
       transition: all $fast ease-in-out;
       margin-bottom: 1rem;
