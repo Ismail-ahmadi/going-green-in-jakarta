@@ -4,7 +4,7 @@ titledescription: >-
   supports local artisans to produce an eclectic mix of beautifully handcrafted
   items
 tags:
-  - wraps
+  - bags
 instagram: '<br /> IG: @paisleythingsjakarta'
 instagramurl: 'https://www.instagram.com/paisleythingsjakarta/'
 address: '<br /> Address: Jl. Bumi no.31A, Mayestik, Kebayoran Baru, Jakarta.'
