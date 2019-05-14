@@ -2,10 +2,10 @@
 title: Mata-Cinta
 titledescription: ' '
 tags:
-  - composters
   - straws
   - hygiene
   - menstrual
+  - composters
 website: '<br /> Website: www.mata-cinta.com'
 url: 'http://www.mata-cinta.com/rev1/'
 instagram: '<br /> IG: @matacinta.id'
