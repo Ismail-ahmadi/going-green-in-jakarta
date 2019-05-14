@@ -10,7 +10,7 @@ address: '<br /> Address: Jalan Hang Leiku V no. 8, Gunung, Jakarta Selatan. '
 contact: '<br /> Phone: 081317724162, 081809126335'
 email: '<br /> Email: hello@yaginatural.com'
 image: 'https://ucarecdn.com/0693c9d1-4695-4a6d-a5b3-94d34b0d1a25/'
-number: 12
+number: 14
 banner: >-
   https://ucarecdn.com/d2fe38f3-2b91-476b-88d3-7eaa1b185a26/-/crop/1080x612/0,145/-/preview/
 ---
