@@ -2,7 +2,6 @@
 title: 'Wisma Cheshire '
 titledescription: 'reusable bags, wooden toys and furniture'
 tags:
-  - bags
   - stationery
 website: '<br /> Website: wismacheshire.com/'
 url: 'http://wismacheshire.com/'
