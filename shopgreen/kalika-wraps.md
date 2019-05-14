@@ -1,7 +1,7 @@
 ---
 title: Kalika Wraps
 tags:
-  - bags
+  - wraps
 website: 'Tokopedia: www.tokopedia.com/kalika-wrap'
 url: 'https://www.tokopedia.com/kalika-wrap'
 instagram: '<br /> Follow us on IG: @kalika.wrap'
