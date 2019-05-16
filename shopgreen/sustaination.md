@@ -13,7 +13,7 @@ instagramurl: 'https://www.instagram.com/sustaination/?hl=en'
 contact: '<br /> Phone: 0817-7668-2170 '
 email: '<br /> Email: info@sustaination.id'
 image: 'https://ucarecdn.com/32d7ce0a-559a-42fd-a631-f56e3c3b1290/'
-number: 21
+number: 22
 banner: 'https://ucarecdn.com/4bc8ef10-2175-4df2-938e-12c95d001736/'
 ---
 Sustaination is an all-in-one platform where you can learn more about sustainable and minimal waste lifestyles and shop for selected eco-friendly products.
