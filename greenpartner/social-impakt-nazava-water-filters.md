@@ -3,7 +3,6 @@ title: Social Impakt -  Nazava water filters
 titledescription: affordable water filters for rural Indonesia
 website: 'Website: www.social-impakt.com'
 url: 'http://www.social-impakt.com/'
-phone: 'Phone Number: 081236772842'
 image: 'https://ucarecdn.com/4dd8b0d9-08f4-4c2d-ab7e-98ca764f49ca/'
 number: 6
 banner: 'https://ucarecdn.com/3da38410-bf9f-4772-86a2-30d145459f15/'
@@ -19,7 +18,5 @@ I realized at that moment how lucky I was and how helping people in need was my 
 You can have a big impact with very little action. When the Human being is your main point of focus, your main value, you feel alive.
 
 Jeroen van Overbeek"
-
-![Social Impakt - Nazava water filters Impact](https://ucarecdn.com/82f9762d-2041-46fe-8f9c-5c6a4583933c/ "Social Impakt - Nazava water filters Impact")
 
 ![Social Impakt - Nazava water filters Impact](https://ucarecdn.com/2465d24d-5aac-4eed-b2e4-37b6b7ddc0af/ "Social Impakt - Nazava water filters Impact")
