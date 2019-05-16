@@ -3,6 +3,7 @@ title: Evoware
 titledescription: Seaweed-based packaging and cups
 tags:
   - bags
+  - straws
 website: 'Website: www.evoware.id'
 url: 'http://www.evoware.id/'
 instagram: '<br /> IG: @evowareworld'
