@@ -4,6 +4,8 @@ tags: recycling
 titledescription: ' '
 website: 'Website: Bank Sampah'
 url: 'http://banksampahjakarta.blogspot.com/'
+instagram: <br /> Download Bank Sampah Info from GGIJ
+instagramurl: 'https://drive.google.com/file/d/17PrLM7dCSx4Qb9AC5KEehl5K8GD79eE9/view'
 address: >-
   <br /> Address : Dinas Lingkungan Hidup Provinsi DKI Jakarta Jalan Mandala V
   No.67, Cililitan, Kramat Jati, Jakarta Timur.
