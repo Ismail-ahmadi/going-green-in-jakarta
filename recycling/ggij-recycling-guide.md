@@ -2,7 +2,7 @@
 title: GGIJ Recycling Guide
 tags: recycling
 titledescription: Your Guide to Recycling in Your Apartment or Compound
-website: <br /> Download here
+website: <br /> Download the guide here
 url: 'https://drive.google.com/file/d/1Nc4gv8sD1uQ8yBfx87f4c4ybdqsDtL98/view'
 image: 'https://ucarecdn.com/2d2d8285-26b1-4f68-aef8-d96f7866fc72/'
 number: 12
