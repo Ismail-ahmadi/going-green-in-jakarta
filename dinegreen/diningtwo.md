@@ -11,10 +11,8 @@ banner: 'https://ucarecdn.com/1cfc4079-5458-41f5-b6d3-38dbe5331b84/'
 
 “The founder Jason Tanu was inspired by a National Geographic report on the Blue Zone, five areas in the world where people live longer and healthier. “I want Jakarta to be the next Blue Zone,” Jason told The Jakarta Post.
 
-“In the eatery, veg heads can try salad with various homemade dressings, such as spicy chipotle, tom yum and spicy adobo. Also highlighted in the menu are bibimbap (Korean mixed rice), vegetarian rendang and acai bowls. And according to Jason, the restaurant also offers a vegan-friendly menu. 
+“In the eatery, veg heads can try salad with various homemade dressings, such as spicy chipotle, tom yum and spicy adobo. Also highlighted in the menu are bibimbap (Korean mixed rice), vegetarian rendang and acai bowls. And according to Jason, the restaurant also offers a vegan-friendly menu.
 
 **Where:** Jl Gunawarman No. 51, South Jakarta
 
 **Opening hours:** Monday to Thursday: 9 a.m. to 9 p.m., Friday 9 a.m. to 6 p.m., Saturday 6 p.m. to 10 p.m. and Sunday 7 a.m. to 9 p.m.
-
-![Bluezone](https://ucarecdn.com/a2b696dd-c3b5-4cc4-b3a3-ad3ed9c4e37a/ "Bluezone")
