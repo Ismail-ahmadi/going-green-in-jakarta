@@ -15,11 +15,12 @@ cardimagefour: 'https://assets.strikingly.com/static/icons/delicate/24.png'
 cardimagefive: 'https://assets.strikingly.com/static/icons/delicate/44.png'
 cardimagesix: 'https://assets.strikingly.com/static/icons/delicate/11.png'
 ---
-...of over a thousand people making positive changes to our lifestyles to reduce plastic, recycle and generally live more environmentally friendly in this city.
+...of over a thousand people making positive changes to our lifestyles to reduce waste, recycle and generally live more environmentally friendly in this city.
 
 **OUR GOALS**
 
-1. **Helping more households dispose of waste responsibly** by linking them to recyclers or upcyclers.
+1. **Helping more households to reduce waste and dispose of it responsibly**.
 2. **Collecting and sharing information** about living green in Jakarta 
 3. **Using our consumer power** to encourage shops and other businesses in Jakarta to use less plastic.
+   \
    Most of our discussions happen on the [**facebook group**](https://www.facebook.com/groups/GGJakarta/).
