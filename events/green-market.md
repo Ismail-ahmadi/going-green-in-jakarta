@@ -1,16 +1,10 @@
 ---
-title: 'Earth Day Celebration: Go Green Weekend'
+title: 'Earth Day Celebration 2019: Go Green Weekend'
 date: 2019-04-21T10:36:44.938Z
 number: 1
 location: 'CoHaus, South Jakarta'
 banner: 'https://ucarecdn.com/dddcdeb0-fe04-4cd7-b5a3-8d1088cd6908/'
 image: 'https://ucarecdn.com/8a9094bf-9c56-495b-bcfe-588de07164be/'
-gallery:
-  - 'https://ucarecdn.com/bd4da79b-7ad0-431c-a63c-16923126c22a~5/nth/0/'
-  - 'https://ucarecdn.com/bd4da79b-7ad0-431c-a63c-16923126c22a~5/nth/1/'
-  - 'https://ucarecdn.com/bd4da79b-7ad0-431c-a63c-16923126c22a~5/nth/2/'
-  - 'https://ucarecdn.com/bd4da79b-7ad0-431c-a63c-16923126c22a~5/nth/3/'
-  - 'https://ucarecdn.com/bd4da79b-7ad0-431c-a63c-16923126c22a~5/nth/4/'
 ---
 **Let's celebrate Earth Day 2019!** Together we are appreciating our lovely earth with fun events; talkshow, workshops and mini bazaar; all about environmental issue. **Open for public!**
 
