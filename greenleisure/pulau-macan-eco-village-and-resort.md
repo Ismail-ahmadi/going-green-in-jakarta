@@ -4,7 +4,7 @@ website: '<br /> Website: www.pulaumacan.com'
 url: 'https://www.pulaumacan.com/'
 instagram: '<br /> IG: pulaumacan'
 instagramurl: 'https://www.instagram.com/pulaumacan/'
-image: 'https://ucarecdn.com/7c978ca5-30f7-4ad4-a760-aab84257374b/'
+image: 'https://ucarecdn.com/8842d12a-f104-4268-afad-5a5054f39499/'
 number: 5
 banner: 'https://ucarecdn.com/220ce3d4-d857-4bff-b742-1e72cc70e7ca/'
 ---
