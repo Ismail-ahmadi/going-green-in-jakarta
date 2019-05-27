@@ -2,7 +2,8 @@
 title: Car Free Day
 website: '<br /> Website (Bahasa Indonesia): www.infocarfreeday.net'
 url: 'https://www.infocarfreeday.net/category/jakartacfd/'
-image: 'https://ucarecdn.com/a450eaa3-d857-485a-9d60-bfd5608ae4bd/'
+image: >-
+  https://ucarecdn.com/a450eaa3-d857-485a-9d60-bfd5608ae4bd/-/crop/1120x720/102,0/-/preview/
 number: 6
 banner: 'https://ucarecdn.com/304c1f44-e1d3-4f92-8211-5afc07e3c19d/'
 ---
