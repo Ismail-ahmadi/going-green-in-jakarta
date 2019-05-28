@@ -3,7 +3,8 @@ title: Shop Green
 slug: shopgreen
 tags: green
 navtitle: Shop Green
-banner: 'https://ucarecdn.com/9cf94c4f-f3ca-4270-93ea-066f11a2b5dd/'
+banner: >-
+  https://ucarecdn.com/9cf94c4f-f3ca-4270-93ea-066f11a2b5dd/-/crop/1080x911/0,0/-/preview/
 titlebanner: Earth conscious consumers
 whiteslogan: >-
   Environmentally-friendly products for everything from <br /> home cleaning,
