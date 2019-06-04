@@ -5,8 +5,7 @@ banner: >-
   http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
 titlebanner: 'A new, fast growing <br >community in Jakarta '
 whiteslogan: Dedicated to greener living in The Big Durian
-secondimage: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/v1/1378019/artem-bali-583964-unsplash_y1qjzr.jpg
+secondimage: 'https://ucarecdn.com/0e2d2706-9181-46a0-ac56-a1c8cec87290/'
 headtitle: We are a Community
 cardimageone: 'https://assets.strikingly.com/static/icons/delicate/58.png'
 cardimagetwo: 'https://assets.strikingly.com/static/icons/delicate/34.png'
