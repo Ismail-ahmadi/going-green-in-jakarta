@@ -1,8 +1,7 @@
 ---
 layout: home
 permalink: /
-banner: >-
-  http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/v1/1378019/kilarov-zaneit-634702-unsplash_zfrfwx.jpg
+banner: 'https://ucarecdn.com/8fba36e1-3bb5-4aac-918e-8769dd662079/'
 titlebanner: 'A new, fast growing <br >community in Jakarta '
 whiteslogan: Dedicated to greener living in The Big Durian
 secondimage: 'https://ucarecdn.com/0e2d2706-9181-46a0-ac56-a1c8cec87290/'
