@@ -1,12 +1,12 @@
 ---
 title: Vila Botani
-website: www.vilabotani.com
+website: '<br /> Website: www.vilabotani.com'
 url: 'http://www.vilabotani.com/'
-instagram: Vila Botani (Tags)
+instagram: '<br /> Insta: Vila Botani (Tags)'
 instagramurl: 'https://www.instagram.com/explore/tags/vilabotani/'
-address: 'Northeast slopes of Mt Salak, overlooking the city of Bogor.'
-contact: 0815-84848882 (WA Chat Only)
-email: info.vilabotani@gmail.com
+address: '<br /> Location: Northeast slopes of Mt Salak, overlooking the city of Bogor.'
+contact: '<br /> WA (Chat Only): 0815-84848882 '
+email: '<br /> Email: info.vilabotani@gmail.com'
 extra: ''
 image: 'https://ucarecdn.com/2ee93d76-421d-4b99-9277-b31ce38e7aef/'
 number: 11
