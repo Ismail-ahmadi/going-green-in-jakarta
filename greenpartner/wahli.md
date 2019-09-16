@@ -1,5 +1,5 @@
 ---
-title: WAHLI
+title: WALHI
 titledescription: Friends of the Earth Indonesia
 website: 'Website: walhi.or.id/'
 url: 'https://walhi.or.id/'
