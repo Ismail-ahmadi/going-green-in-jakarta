@@ -13,7 +13,7 @@ cardimagefour: 'https://assets.strikingly.com/static/icons/delicate/24.png'
 cardimagefive: 'https://assets.strikingly.com/static/icons/delicate/44.png'
 cardimagesix: 'https://assets.strikingly.com/static/icons/delicate/11.png'
 ---
-...of over a thousand people making positive changes to our lifestyles to reduce waste, recycle and generally live more environmentally friendly in this city.
+...of over two thousand people making positive changes to our lifestyles to reduce waste, recycle and generally live more environmentally friendly in this city.
 
 **OUR GOALS**
 
