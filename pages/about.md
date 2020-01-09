@@ -15,7 +15,7 @@ gallery:
 ---
 # We are a Community
 
-...of over a thousand people making positive changes to our lifestyles to reduce waste and generally live more environmentally friendly in this city.
+...of over a thousand people making positive changes to our lifestyles to reduce waste and generally live more environmentally friendly in Jakarta.
 
 **OUR GOALS**
 
