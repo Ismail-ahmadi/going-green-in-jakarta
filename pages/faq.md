@@ -43,11 +43,11 @@ questions:
       Our Facebook group is already a lively place for hosting discussion and
       sharing ideas and resources on how to live more green in Jakarta (e.g.
       composting, cleaning products, recycling, local campaigns, find plastic
-      alternatives etc). It’s also become a space for asking questions on green
-      living and planning meetups. We’ve also developed our first resources on
-      how you can recycle in Jakarta and have launched this website with the
-      Jakarta Green List in April 2019. We have also launched a campaign to
-      reduce plastic packaging in supermarkets on Change.Org.
+      alternatives etc). It’s also a space for asking questions on green living
+      and planning meetups. We’ve also developed our first resources on how you
+      can recycle in Jakarta and have launched this website with the Jakarta
+      Green List in April 2019. In January 2020 we launched a consumer campaign
+      to reduce waste and single use items in restaurants and coffee places.
     question: Q3. What is the group doing right now?
   - answer: >-
       In the interests of keeping this lovely and lively group all moving in the
