@@ -8,14 +8,14 @@ titlebanner: 'A new, fast growing community in Jakarta'
 white slogan: Get to know us better
 questions:
   - answer: >-
-      We are a new, fast growing community of individuals who want to do more to
-      reduce plastic, recycle and generally live more environmentally friendly
-      in this city.
+      We are a fast growing community of individuals who want to do more to
+      reduce waste and generally live more environmentally friendly in this
+      city.
 
 
       <br />We began as a discussion on the wall of the Jakarta Moms Support
       Group in December 2017 and have quickly evolved into a lively facebook
-      community (www.facebook.com/groups/GGJakarta) of over 1400 people
+      community (www.facebook.com/groups/GGJakarta) of over 2000 people
       (Indonesians and expats) dedicated to greener living.
 
 
