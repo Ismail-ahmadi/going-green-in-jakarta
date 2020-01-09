@@ -23,27 +23,21 @@ questions:
       be more involved in planning or running projects.
     question: Q1. What is Going Green in Jakarta?
   - answer: >-
-      Creating a longer term strategy and structure takes time. Since we’re so
-      new, we have started by focusing on the 3 goals that came top in our FB
-      poll that was run in January 2018.
+      We have started by focusing on the 3 goals that came top in our FB poll
+      that was run in January 2018.
 
 
-      <br /> 1. Helping more households dispose of waste responsibly by linking
-      them to trash collectors and oragnisations who recycle or upcylce.
+      <br /> 1. Helping more people to reduce their own waste and dispose of it
+      responsibly.
 
 
       <br /> 2. Collecting and sharing information about living green in Jakarta
-      (e.g. shops, restaurants, products, zero-waste lifestyle).
+      (e.g. shops, restaurants, products, zero-waste lifestyle) and doing talks
+      in companies, schools and other communities. 
 
 
       <br /> 3. Using our consumer power to encourage shops and other businesses
-      in Jakarta to use less plastic, and supporting relevant campaigns. 
-
-
-      <br /> This will give us some time to figure out more organically how we
-      want to function, how we best work together, etc before we come to any big
-      decisions or start bigger projects that require more clarity on ways of
-      working and where we’re going than we currently have.
+      in Jakarta to reduce waste, and supporting relevant campaigns.
     question: Q2. What are the group’s long term goals and plans?
   - answer: >-
       Our Facebook group is already a lively place for hosting discussion and
