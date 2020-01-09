@@ -76,9 +76,8 @@ questions:
       working on.
     question: Q4. How is Going Green in Jakarta being coordinated?
   - answer: >-
-      As a new community that is 100% driven by volunteers we are still finding
-      our feet and our ways of working. As we grow, we aspire to live up to the
-      following working principles. 
+      As a new community that is 100% driven by volunteers. As we grow, we
+      aspire to live up to the following working principles. 
 
 
       <br /> (1)  Open and inclusive - we are a diverse group of people living
