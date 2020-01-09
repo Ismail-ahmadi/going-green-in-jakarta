@@ -58,17 +58,14 @@ questions:
       <br /> Facebook - Vics (admin), Aparna and Erou (moderators)
 
 
-      <br />Talks, outreach and local partnerships - Susan (English), Malini
-      (English, Indonesian) and Erou (English/Indonesian).
+      <br />Talks, outreach and local partnerships - Malini (English,
+      Indonesian), Ester (English) and Erou (English/Indonesian).
 
 
-      <br /> Online campaigning - Zina
+      <br /> Instagram - Ester and Savirra
 
 
-      <br /> Instagram - Savirra
-
-
-      <br /> Website - Vics, Prachi and Divya
+      <br /> Website - Vics and Prachi 
 
 
       <br /> These coordinators are responsible for ensuring we have a clear way
