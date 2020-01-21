@@ -14,4 +14,10 @@ banner: >-
 
 What started as Jakarta’s first organic healthy plant-based eatery & catering in 2013 – has now grown into a community-based social business connecting local farmers, a passionate team, and conscious customers. Since the very beginning, our mission is to make healthy, ethical, and sustainable food as delicious, fun, convenient, and accessible as junk food - while empowering local farmers and women through a responsible supply chain!"
 
-Locations: Menteng (Wahid Hasyim 47), Pacific Place, Darmawangsa, PIM, The Breeze BSD, Oakwood Kuningan, Neo Soho
+Locations: Menteng (Wahid Hasyim 47) , Pacific Place
+, Darmawangsa
+, PIM
+, The Breeze BSD
+, Oakwood Kuningan
+, Neo Soho\
+,Kemang Village
