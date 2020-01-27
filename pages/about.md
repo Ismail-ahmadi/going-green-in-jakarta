@@ -15,13 +15,13 @@ gallery:
 ---
 # We are a Community
 
-...of over a thousand people making positive changes to our lifestyles to reduce waste and generally live more environmentally friendly in Jakarta.
+...of over two thousand people making positive changes to our lifestyles to reduce waste and generally live more environmentally friendly in Jakarta.
 
 **OUR GOALS**
 
 1. Helping more homes to reduce waste and dispose of it responsibly.
-2. Collecting and sharing information about living green in Jakarta. 
-3. Using our consumer power to inform and encourage businesses in Jakarta to use less plastic.
+2. Collecting and sharing information about living a greener lifestyle in Jakarta. 
+3. Using our consumer power to inform and encourage businesses in Jakarta to reduce waste.
 
 Most of our discussions happen on the [facebook](https://www.facebook.com/groups/GGJakarta/) group.
 
