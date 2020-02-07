@@ -2,9 +2,9 @@
 title: eRecycle
 tags: recycling
 titledescription: Plastic recycling using phone app
-website: 'Website: erecycle.id'
+website: '<br /> Website: erecycle.id'
 url: 'https://erecycle.id/'
-instagram: 'IG: @erecycle.id'
+instagram: '<br /> IG: @erecycle.id'
 instagramurl: 'https://www.instagram.com/erecycle.id/'
 image: 'https://ucarecdn.com/f395864f-46cc-4eb9-8463-e4e927c2e567/'
 number: 15
