@@ -1,16 +1,3 @@
-{% for item in collections.green %}
-  {% assign itemLangID = item.inputPath | getLang %}
-  {% if itemLangID == langID %}
-    {% if item.url == page.url %}
-      {% assign class = 'menu__link menu__link--active' %}
-    {% else %}
-      {% assign class = 'menu__link' %}
-    {% endif %}
-    <a href="{{ item.url }}" class="{{ class }}">
-      {{ item.data.greentitle | default: item.data.title }}
-    </a> 
-  {% endif %}
-{% endfor %}
 {% for item in collections.nav %}
   {% assign itemLangID = item.inputPath | getLang %}
   {% if itemLangID == langID %}
@@ -24,3 +11,23 @@
     </a> 
   {% endif %}
 {% endfor %}
+<div class="dropdown">
+    <button class="dropbtn"> <span>The Jakarta Green List</span> 
+      <i class="fa fa-caret-right"></i>
+    </button>
+    <div class="dropdown-content">
+      {% for item in collections.green %}
+        {% assign itemLangID = item.inputPath | getLang %}
+          {% if itemLangID == langID %}
+            {% if item.url == page.url %}
+              {% assign class = 'menu__link menu__link--active__list' %}
+              {% else %}
+              {% assign class = 'menu__link' %}
+            {% endif %}
+            <a href="{{ item.url }}" class="{{ class }}">
+              {{ item.data.greentitle | default: item.data.title }}
+            </a> 
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
